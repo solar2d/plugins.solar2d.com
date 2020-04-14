@@ -1,0 +1,41 @@
+on:
+  push:
+    paths:
+      - 'plugins/**'
+  repository_dispatch:
+
+env:
+  releaseName: v${{ github.run_number }}
+
+jobs:
+  publish-release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: prepare
+        run: |
+          cd plugins
+          for build in *
+          do
+          (
+            if [ ! -d "$build" ] ; then continue ; fi
+            cd "$build"
+            for platform in *
+            do
+              (
+                if [ ! -d "$platform" ] ; then continue ; fi
+                cd "$platform"
+                COPYFILE_DISABLE=true tar -czvf ../../"$build-$platform.tgz" --exclude=".*" *
+              )
+            done
+          )
+          done
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: plugins/*.tgz
+          name: Release  ${{ env.releaseName }}
+          tag_name: ${{ env.releaseName }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
