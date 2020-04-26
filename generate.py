@@ -25,17 +25,22 @@ def addPluginEntries(pluginDir, entries):
         entries["v"]=versions
 
 def addPlugins(root, plugins):
-    for provider in getDirs(root):
-        providerDir = os.path.join(root, provider)
-        providerPlugins = {}
-        for plugin in getDirs(providerDir):
-            pluginDir = os.path.join(providerDir, plugin)
-            pluginEntries = {}
-            addPluginEntries(pluginDir, pluginEntries)
-            if pluginEntries:
-                providerPlugins[plugin] = pluginEntries
-        if providerPlugins:
-            plugins[provider] = providerPlugins
+    for github_account in getDirs(root):
+        account_plugins = {}
+        account_root = os.path.join(root, github_account)
+        for provider in getDirs(account_root):
+            providerDir = os.path.join(account_root, provider)
+            providerPlugins = {}
+            for plugin in getDirs(providerDir):
+                pluginDir = os.path.join(providerDir, plugin)
+                pluginEntries = {}
+                addPluginEntries(pluginDir, pluginEntries)
+                if pluginEntries:
+                    providerPlugins[plugin] = pluginEntries
+            if providerPlugins:
+                account_plugins[provider] = providerPlugins
+        if account_plugins:
+            plugins[github_account] = account_plugins
 
 if __name__ == "__main__":
     root = sys.argv[1] if len(sys.argv)==2 else os.path.dirname(os.path.abspath(__file__))

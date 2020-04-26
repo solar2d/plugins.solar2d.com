@@ -4,3 +4,4 @@ git submodule --quiet foreach 'git fetch --quiet --depth=1 origin +refs/tags/*:r
 git submodule --quiet foreach 'git describe --tags --abbrev=0 > plugins/RELEASE || echo Release error with $sm_path'
 mkdir -p html
 ./generate.py plugins > html/plugins.json
+git submodule --quiet foreach 'rm -f plugins/RELEASE || true'

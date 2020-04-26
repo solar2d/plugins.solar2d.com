@@ -1,480 +1,480 @@
 [submodule "plugins/com.coronalabs/CoronaProvider.ads.iads"]
-	path = plugins/com.coronalabs/CoronaProvider.ads.iads
+	path = plugins/coronalabs/com.coronalabs/CoronaProvider.ads.iads
 	url = https://github.com/coronalabs/com.coronalabs-CoronaProvider.ads.iads
 [submodule "plugins/com.coronalabs/CoronaProvider.analytics.flurry"]
-	path = plugins/com.coronalabs/CoronaProvider.analytics.flurry
+	path = plugins/coronalabs/com.coronalabs/CoronaProvider.analytics.flurry
 	url = https://github.com/coronalabs/com.coronalabs-CoronaProvider.analytics.flurry
 [submodule "plugins/com.coronalabs/CoronaProvider.gameNetwork.apple"]
-	path = plugins/com.coronalabs/CoronaProvider.gameNetwork.apple
+	path = plugins/coronalabs/com.coronalabs/CoronaProvider.gameNetwork.apple
 	url = https://github.com/coronalabs/com.coronalabs-CoronaProvider.gameNetwork.apple
 [submodule "plugins/com.coronalabs/CoronaProvider.gameNetwork.google"]
-	path = plugins/com.coronalabs/CoronaProvider.gameNetwork.google
+	path = plugins/coronalabs/com.coronalabs/CoronaProvider.gameNetwork.google
 	url = https://github.com/coronalabs/com.coronalabs-CoronaProvider.gameNetwork.google
 [submodule "plugins/com.coronalabs/CoronaProvider.native.popup.activity"]
-	path = plugins/com.coronalabs/CoronaProvider.native.popup.activity
+	path = plugins/coronalabs/com.coronalabs/CoronaProvider.native.popup.activity
 	url = https://github.com/coronalabs/com.coronalabs-CoronaProvider.native.popup.activity
 [submodule "plugins/com.coronalabs/CoronaProvider.native.popup.addressbook"]
-	path = plugins/com.coronalabs/CoronaProvider.native.popup.addressbook
+	path = plugins/coronalabs/com.coronalabs/CoronaProvider.native.popup.addressbook
 	url = https://github.com/coronalabs/com.coronalabs-CoronaProvider.native.popup.addressbook
 [submodule "plugins/com.coronalabs/CoronaProvider.native.popup.quickLook"]
-	path = plugins/com.coronalabs/CoronaProvider.native.popup.quickLook
+	path = plugins/coronalabs/com.coronalabs/CoronaProvider.native.popup.quickLook
 	url = https://github.com/coronalabs/com.coronalabs-CoronaProvider.native.popup.quickLook
 [submodule "plugins/com.coronalabs/CoronaProvider.native.popup.safariView"]
-	path = plugins/com.coronalabs/CoronaProvider.native.popup.safariView
+	path = plugins/coronalabs/com.coronalabs/CoronaProvider.native.popup.safariView
 	url = https://github.com/coronalabs/com.coronalabs-CoronaProvider.native.popup.safariView
 [submodule "plugins/com.coronalabs/CoronaProvider.native.popup.social"]
-	path = plugins/com.coronalabs/CoronaProvider.native.popup.social
+	path = plugins/coronalabs/com.coronalabs/CoronaProvider.native.popup.social
 	url = https://github.com/coronalabs/com.coronalabs-CoronaProvider.native.popup.social
 [submodule "plugins/com.coronalabs/facebook"]
-	path = plugins/com.coronalabs/facebook
+	path = plugins/coronalabs/com.coronalabs/facebook
 	url = https://github.com/coronalabs/com.coronalabs-facebook
 [submodule "plugins/com.coronalabs/plugin.CoronaSplashControl"]
-	path = plugins/com.coronalabs/plugin.CoronaSplashControl
+	path = plugins/coronalabs/com.coronalabs/plugin.CoronaSplashControl
 	url = https://github.com/coronalabs/com.coronalabs-plugin.CoronaSplashControl
 [submodule "plugins/com.coronalabs/plugin.adcolony"]
-	path = plugins/com.coronalabs/plugin.adcolony
+	path = plugins/coronalabs/com.coronalabs/plugin.adcolony
 	url = https://github.com/coronalabs/com.coronalabs-plugin.adcolony
 [submodule "plugins/com.coronalabs/plugin.admob"]
-	path = plugins/com.coronalabs/plugin.admob
+	path = plugins/coronalabs/com.coronalabs/plugin.admob
 	url = https://github.com/coronalabs/com.coronalabs-plugin.admob
 [submodule "plugins/com.coronalabs/plugin.adrally"]
-	path = plugins/com.coronalabs/plugin.adrally
+	path = plugins/coronalabs/com.coronalabs/plugin.adrally
 	url = https://github.com/coronalabs/com.coronalabs-plugin.adrally
 [submodule "plugins/com.coronalabs/plugin.adrally.adcolony"]
-	path = plugins/com.coronalabs/plugin.adrally.adcolony
+	path = plugins/coronalabs/com.coronalabs/plugin.adrally.adcolony
 	url = https://github.com/coronalabs/com.coronalabs-plugin.adrally.adcolony
 [submodule "plugins/com.coronalabs/plugin.adrally.applovin"]
-	path = plugins/com.coronalabs/plugin.adrally.applovin
+	path = plugins/coronalabs/com.coronalabs/plugin.adrally.applovin
 	url = https://github.com/coronalabs/com.coronalabs-plugin.adrally.applovin
 [submodule "plugins/com.coronalabs/plugin.adrally.hyprmx"]
-	path = plugins/com.coronalabs/plugin.adrally.hyprmx
+	path = plugins/coronalabs/com.coronalabs/plugin.adrally.hyprmx
 	url = https://github.com/coronalabs/com.coronalabs-plugin.adrally.hyprmx
 [submodule "plugins/com.coronalabs/plugin.adrally.millennial"]
-	path = plugins/com.coronalabs/plugin.adrally.millennial
+	path = plugins/coronalabs/com.coronalabs/plugin.adrally.millennial
 	url = https://github.com/coronalabs/com.coronalabs-plugin.adrally.millennial
 [submodule "plugins/com.coronalabs/plugin.adrally.vungle"]
-	path = plugins/com.coronalabs/plugin.adrally.vungle
+	path = plugins/coronalabs/com.coronalabs/plugin.adrally.vungle
 	url = https://github.com/coronalabs/com.coronalabs-plugin.adrally.vungle
 [submodule "plugins/com.coronalabs/plugin.advertisingId"]
-	path = plugins/com.coronalabs/plugin.advertisingId
+	path = plugins/coronalabs/com.coronalabs/plugin.advertisingId
 	url = https://github.com/coronalabs/com.coronalabs-plugin.advertisingId
 [submodule "plugins/com.coronalabs/plugin.amazon.iap"]
-	path = plugins/com.coronalabs/plugin.amazon.iap
+	path = plugins/coronalabs/com.coronalabs/plugin.amazon.iap
 	url = https://github.com/coronalabs/com.coronalabs-plugin.amazon.iap
 [submodule "plugins/com.coronalabs/plugin.animation"]
-	path = plugins/com.coronalabs/plugin.animation
+	path = plugins/coronalabs/com.coronalabs/plugin.animation
 	url = https://github.com/coronalabs/com.coronalabs-plugin.animation
 [submodule "plugins/com.coronalabs/plugin.apple.iap"]
-	path = plugins/com.coronalabs/plugin.apple.iap
+	path = plugins/coronalabs/com.coronalabs/plugin.apple.iap
 	url = https://github.com/coronalabs/com.coronalabs-plugin.apple.iap
 [submodule "plugins/com.coronalabs/plugin.apple.iap.helper"]
-	path = plugins/com.coronalabs/plugin.apple.iap.helper
+	path = plugins/coronalabs/com.coronalabs/plugin.apple.iap.helper
 	url = https://github.com/coronalabs/com.coronalabs-plugin.apple.iap.helper
 [submodule "plugins/com.coronalabs/plugin.applovin"]
-	path = plugins/com.coronalabs/plugin.applovin
+	path = plugins/coronalabs/com.coronalabs/plugin.applovin
 	url = https://github.com/coronalabs/com.coronalabs-plugin.applovin
 [submodule "plugins/com.coronalabs/plugin.applovin.paid"]
-	path = plugins/com.coronalabs/plugin.applovin.paid
+	path = plugins/coronalabs/com.coronalabs/plugin.applovin.paid
 	url = https://github.com/coronalabs/com.coronalabs-plugin.applovin.paid
 [submodule "plugins/com.coronalabs/plugin.appodeal.AdColony"]
-	path = plugins/com.coronalabs/plugin.appodeal.AdColony
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.AdColony
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.AdColony
 [submodule "plugins/com.coronalabs/plugin.appodeal.AmazonAds"]
-	path = plugins/com.coronalabs/plugin.appodeal.AmazonAds
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.AmazonAds
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.AmazonAds
 [submodule "plugins/com.coronalabs/plugin.appodeal.AppLovin"]
-	path = plugins/com.coronalabs/plugin.appodeal.AppLovin
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.AppLovin
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.AppLovin
 [submodule "plugins/com.coronalabs/plugin.appodeal.Appnext"]
-	path = plugins/com.coronalabs/plugin.appodeal.Appnext
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.Appnext
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.Appnext
 [submodule "plugins/com.coronalabs/plugin.appodeal.Chartboost"]
-	path = plugins/com.coronalabs/plugin.appodeal.Chartboost
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.Chartboost
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.Chartboost
 [submodule "plugins/com.coronalabs/plugin.appodeal.FacebookAudience"]
-	path = plugins/com.coronalabs/plugin.appodeal.FacebookAudience
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.FacebookAudience
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.FacebookAudience
 [submodule "plugins/com.coronalabs/plugin.appodeal.Flurry"]
-	path = plugins/com.coronalabs/plugin.appodeal.Flurry
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.Flurry
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.Flurry
 [submodule "plugins/com.coronalabs/plugin.appodeal.GoogleAdMob"]
-	path = plugins/com.coronalabs/plugin.appodeal.GoogleAdMob
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.GoogleAdMob
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.GoogleAdMob
 [submodule "plugins/com.coronalabs/plugin.appodeal.InMobi"]
-	path = plugins/com.coronalabs/plugin.appodeal.InMobi
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.InMobi
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.InMobi
 [submodule "plugins/com.coronalabs/plugin.appodeal.InnerActive"]
-	path = plugins/com.coronalabs/plugin.appodeal.InnerActive
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.InnerActive
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.InnerActive
 [submodule "plugins/com.coronalabs/plugin.appodeal.IronSource"]
-	path = plugins/com.coronalabs/plugin.appodeal.IronSource
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.IronSource
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.IronSource
 [submodule "plugins/com.coronalabs/plugin.appodeal.MillenialMedia"]
-	path = plugins/com.coronalabs/plugin.appodeal.MillenialMedia
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.MillenialMedia
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.MillenialMedia
 [submodule "plugins/com.coronalabs/plugin.appodeal.Mobvista"]
-	path = plugins/com.coronalabs/plugin.appodeal.Mobvista
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.Mobvista
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.Mobvista
 [submodule "plugins/com.coronalabs/plugin.appodeal.MyTarget"]
-	path = plugins/com.coronalabs/plugin.appodeal.MyTarget
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.MyTarget
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.MyTarget
 [submodule "plugins/com.coronalabs/plugin.appodeal.Ogury"]
-	path = plugins/com.coronalabs/plugin.appodeal.Ogury
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.Ogury
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.Ogury
 [submodule "plugins/com.coronalabs/plugin.appodeal.OpenX"]
-	path = plugins/com.coronalabs/plugin.appodeal.OpenX
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.OpenX
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.OpenX
 [submodule "plugins/com.coronalabs/plugin.appodeal.Pubnative"]
-	path = plugins/com.coronalabs/plugin.appodeal.Pubnative
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.Pubnative
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.Pubnative
 [submodule "plugins/com.coronalabs/plugin.appodeal.Smaato"]
-	path = plugins/com.coronalabs/plugin.appodeal.Smaato
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.Smaato
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.Smaato
 [submodule "plugins/com.coronalabs/plugin.appodeal.StartApp"]
-	path = plugins/com.coronalabs/plugin.appodeal.StartApp
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.StartApp
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.StartApp
 [submodule "plugins/com.coronalabs/plugin.appodeal.Tapjoy"]
-	path = plugins/com.coronalabs/plugin.appodeal.Tapjoy
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.Tapjoy
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.Tapjoy
 [submodule "plugins/com.coronalabs/plugin.appodeal.TwitterMoPub"]
-	path = plugins/com.coronalabs/plugin.appodeal.TwitterMoPub
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.TwitterMoPub
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.TwitterMoPub
 [submodule "plugins/com.coronalabs/plugin.appodeal.Unity"]
-	path = plugins/com.coronalabs/plugin.appodeal.Unity
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.Unity
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.Unity
 [submodule "plugins/com.coronalabs/plugin.appodeal.Vungle"]
-	path = plugins/com.coronalabs/plugin.appodeal.Vungle
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.Vungle
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.Vungle
 [submodule "plugins/com.coronalabs/plugin.appodeal.Yandex"]
-	path = plugins/com.coronalabs/plugin.appodeal.Yandex
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.Yandex
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.Yandex
 [submodule "plugins/com.coronalabs/plugin.appodeal.base"]
-	path = plugins/com.coronalabs/plugin.appodeal.base
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.base
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.base
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.AdColony"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.AdColony
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.AdColony
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.AdColony
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.AmazonAds"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.AmazonAds
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.AmazonAds
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.AmazonAds
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.AppLovin"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.AppLovin
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.AppLovin
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.AppLovin
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.Appnext"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.Appnext
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.Appnext
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.Appnext
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.Chartboost"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.Chartboost
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.Chartboost
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.Chartboost
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.FacebookAudience"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.FacebookAudience
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.FacebookAudience
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.FacebookAudience
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.Flurry"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.Flurry
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.Flurry
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.Flurry
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.GoogleAdMob"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.GoogleAdMob
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.GoogleAdMob
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.GoogleAdMob
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.InMobi"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.InMobi
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.InMobi
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.InMobi
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.InnerActive"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.InnerActive
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.InnerActive
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.InnerActive
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.IronSource"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.IronSource
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.IronSource
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.IronSource
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.MillenialMedia"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.MillenialMedia
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.MillenialMedia
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.MillenialMedia
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.Mobvista"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.Mobvista
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.Mobvista
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.Mobvista
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.MyTarget"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.MyTarget
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.MyTarget
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.MyTarget
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.Ogury"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.Ogury
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.Ogury
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.Ogury
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.OpenX"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.OpenX
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.OpenX
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.OpenX
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.Pubnative"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.Pubnative
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.Pubnative
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.Pubnative
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.Smaato"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.Smaato
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.Smaato
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.Smaato
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.StartApp"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.StartApp
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.StartApp
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.StartApp
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.Tapjoy"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.Tapjoy
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.Tapjoy
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.Tapjoy
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.TwitterMoPub"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.TwitterMoPub
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.TwitterMoPub
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.TwitterMoPub
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.Unity"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.Unity
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.Unity
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.Unity
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.Vungle"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.Vungle
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.Vungle
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.Vungle
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.Yandex"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.Yandex
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.Yandex
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.Yandex
 [submodule "plugins/com.coronalabs/plugin.appodeal.beta.base"]
-	path = plugins/com.coronalabs/plugin.appodeal.beta.base
+	path = plugins/coronalabs/com.coronalabs/plugin.appodeal.beta.base
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appodeal.beta.base
 [submodule "plugins/com.coronalabs/plugin.appsflyer"]
-	path = plugins/com.coronalabs/plugin.appsflyer
+	path = plugins/coronalabs/com.coronalabs/plugin.appsflyer
 	url = https://github.com/coronalabs/com.coronalabs-plugin.appsflyer
 [submodule "plugins/com.coronalabs/plugin.apsalar"]
-	path = plugins/com.coronalabs/plugin.apsalar
+	path = plugins/coronalabs/com.coronalabs/plugin.apsalar
 	url = https://github.com/coronalabs/com.coronalabs-plugin.apsalar
 [submodule "plugins/com.coronalabs/plugin.awareness"]
-	path = plugins/com.coronalabs/plugin.awareness
+	path = plugins/coronalabs/com.coronalabs/plugin.awareness
 	url = https://github.com/coronalabs/com.coronalabs-plugin.awareness
 [submodule "plugins/com.coronalabs/plugin.batteryState"]
-	path = plugins/com.coronalabs/plugin.batteryState
+	path = plugins/coronalabs/com.coronalabs/plugin.batteryState
 	url = https://github.com/coronalabs/com.coronalabs-plugin.batteryState
 [submodule "plugins/com.coronalabs/plugin.bit"]
-	path = plugins/com.coronalabs/plugin.bit
+	path = plugins/coronalabs/com.coronalabs/plugin.bit
 	url = https://github.com/coronalabs/com.coronalabs-plugin.bit
 [submodule "plugins/com.coronalabs/plugin.calendar"]
-	path = plugins/com.coronalabs/plugin.calendar
+	path = plugins/coronalabs/com.coronalabs/plugin.calendar
 	url = https://github.com/coronalabs/com.coronalabs-plugin.calendar
 [submodule "plugins/com.coronalabs/plugin.chartboost"]
-	path = plugins/com.coronalabs/plugin.chartboost
+	path = plugins/coronalabs/com.coronalabs/plugin.chartboost
 	url = https://github.com/coronalabs/com.coronalabs-plugin.chartboost
 [submodule "plugins/com.coronalabs/plugin.collisionFilters"]
-	path = plugins/com.coronalabs/plugin.collisionFilters
+	path = plugins/coronalabs/com.coronalabs/plugin.collisionFilters
 	url = https://github.com/coronalabs/com.coronalabs-plugin.collisionFilters
 [submodule "plugins/com.coronalabs/plugin.coronaAds"]
-	path = plugins/com.coronalabs/plugin.coronaAds
+	path = plugins/coronalabs/com.coronalabs/plugin.coronaAds
 	url = https://github.com/coronalabs/com.coronalabs-plugin.coronaAds
 [submodule "plugins/com.coronalabs/plugin.facebook.v4"]
-	path = plugins/com.coronalabs/plugin.facebook.v4
+	path = plugins/coronalabs/com.coronalabs/plugin.facebook.v4
 	url = https://github.com/coronalabs/com.coronalabs-plugin.facebook.v4
 [submodule "plugins/com.coronalabs/plugin.facebook.v4a"]
-	path = plugins/com.coronalabs/plugin.facebook.v4a
+	path = plugins/coronalabs/com.coronalabs/plugin.facebook.v4a
 	url = https://github.com/coronalabs/com.coronalabs-plugin.facebook.v4a
 [submodule "plugins/com.coronalabs/plugin.fairPlay"]
-	path = plugins/com.coronalabs/plugin.fairPlay
+	path = plugins/coronalabs/com.coronalabs/plugin.fairPlay
 	url = https://github.com/coronalabs/com.coronalabs-plugin.fairPlay
 [submodule "plugins/com.coronalabs/plugin.fbAudienceNetwork"]
-	path = plugins/com.coronalabs/plugin.fbAudienceNetwork
+	path = plugins/coronalabs/com.coronalabs/plugin.fbAudienceNetwork
 	url = https://github.com/coronalabs/com.coronalabs-plugin.fbAudienceNetwork
 [submodule "plugins/com.coronalabs/plugin.fbAudienceNetwork.paid"]
-	path = plugins/com.coronalabs/plugin.fbAudienceNetwork.paid
+	path = plugins/coronalabs/com.coronalabs/plugin.fbAudienceNetwork.paid
 	url = https://github.com/coronalabs/com.coronalabs-plugin.fbAudienceNetwork.paid
 [submodule "plugins/com.coronalabs/plugin.flurry.analytics"]
-	path = plugins/com.coronalabs/plugin.flurry.analytics
+	path = plugins/coronalabs/com.coronalabs/plugin.flurry.analytics
 	url = https://github.com/coronalabs/com.coronalabs-plugin.flurry.analytics
 [submodule "plugins/com.coronalabs/plugin.fuse"]
-	path = plugins/com.coronalabs/plugin.fuse
+	path = plugins/coronalabs/com.coronalabs/plugin.fuse
 	url = https://github.com/coronalabs/com.coronalabs-plugin.fuse
 [submodule "plugins/com.coronalabs/plugin.fuse-staging"]
-	path = plugins/com.coronalabs/plugin.fuse-staging
+	path = plugins/coronalabs/com.coronalabs/plugin.fuse-staging
 	url = https://github.com/coronalabs/com.coronalabs-plugin.fuse-staging
 [submodule "plugins/com.coronalabs/plugin.fuse.ads"]
-	path = plugins/com.coronalabs/plugin.fuse.ads
+	path = plugins/coronalabs/com.coronalabs/plugin.fuse.ads
 	url = https://github.com/coronalabs/com.coronalabs-plugin.fuse.ads
 [submodule "plugins/com.coronalabs/plugin.fuse.ads-staging"]
-	path = plugins/com.coronalabs/plugin.fuse.ads-staging
+	path = plugins/coronalabs/com.coronalabs/plugin.fuse.ads-staging
 	url = https://github.com/coronalabs/com.coronalabs-plugin.fuse.ads-staging
 [submodule "plugins/com.coronalabs/plugin.google.iap.v3"]
-	path = plugins/com.coronalabs/plugin.google.iap.v3
+	path = plugins/coronalabs/com.coronalabs/plugin.google.iap.v3
 	url = https://github.com/coronalabs/com.coronalabs-plugin.google.iap.v3
 [submodule "plugins/com.coronalabs/plugin.google.play.services"]
-	path = plugins/com.coronalabs/plugin.google.play.services
+	path = plugins/coronalabs/com.coronalabs/plugin.google.play.services
 	url = https://github.com/coronalabs/com.coronalabs-plugin.google.play.services
 [submodule "plugins/com.coronalabs/plugin.googleAnalytics"]
-	path = plugins/com.coronalabs/plugin.googleAnalytics
+	path = plugins/coronalabs/com.coronalabs/plugin.googleAnalytics
 	url = https://github.com/coronalabs/com.coronalabs-plugin.googleAnalytics
 [submodule "plugins/com.coronalabs/plugin.gpgs"]
-	path = plugins/com.coronalabs/plugin.gpgs
+	path = plugins/coronalabs/com.coronalabs/plugin.gpgs
 	url = https://github.com/coronalabs/com.coronalabs-plugin.gpgs
 [submodule "plugins/com.coronalabs/plugin.gpgs.v2"]
-	path = plugins/com.coronalabs/plugin.gpgs.v2
+	path = plugins/coronalabs/com.coronalabs/plugin.gpgs.v2
 	url = https://github.com/coronalabs/com.coronalabs-plugin.gpgs.v2
 [submodule "plugins/com.coronalabs/plugin.hockey"]
-	path = plugins/com.coronalabs/plugin.hockey
+	path = plugins/coronalabs/com.coronalabs/plugin.hockey
 	url = https://github.com/coronalabs/com.coronalabs-plugin.hockey
 [submodule "plugins/com.coronalabs/plugin.iCloud"]
-	path = plugins/com.coronalabs/plugin.iCloud
+	path = plugins/coronalabs/com.coronalabs/plugin.iCloud
 	url = https://github.com/coronalabs/com.coronalabs-plugin.iCloud
 [submodule "plugins/com.coronalabs/plugin.iTunes"]
-	path = plugins/com.coronalabs/plugin.iTunes
+	path = plugins/coronalabs/com.coronalabs/plugin.iTunes
 	url = https://github.com/coronalabs/com.coronalabs-plugin.iTunes
 [submodule "plugins/com.coronalabs/plugin.inMobi"]
-	path = plugins/com.coronalabs/plugin.inMobi
+	path = plugins/coronalabs/com.coronalabs/plugin.inMobi
 	url = https://github.com/coronalabs/com.coronalabs-plugin.inMobi
 [submodule "plugins/com.coronalabs/plugin.instreamatic"]
-	path = plugins/com.coronalabs/plugin.instreamatic
+	path = plugins/coronalabs/com.coronalabs/plugin.instreamatic
 	url = https://github.com/coronalabs/com.coronalabs-plugin.instreamatic
 [submodule "plugins/com.coronalabs/plugin.kidoz"]
-	path = plugins/com.coronalabs/plugin.kidoz
+	path = plugins/coronalabs/com.coronalabs/plugin.kidoz
 	url = https://github.com/coronalabs/com.coronalabs-plugin.kidoz
 [submodule "plugins/com.coronalabs/plugin.kochava"]
-	path = plugins/com.coronalabs/plugin.kochava
+	path = plugins/coronalabs/com.coronalabs/plugin.kochava
 	url = https://github.com/coronalabs/com.coronalabs-plugin.kochava
 [submodule "plugins/com.coronalabs/plugin.kochava.faa"]
-	path = plugins/com.coronalabs/plugin.kochava.faa
+	path = plugins/coronalabs/com.coronalabs/plugin.kochava.faa
 	url = https://github.com/coronalabs/com.coronalabs-plugin.kochava.faa
 [submodule "plugins/com.coronalabs/plugin.leadbolt"]
-	path = plugins/com.coronalabs/plugin.leadbolt
+	path = plugins/coronalabs/com.coronalabs/plugin.leadbolt
 	url = https://github.com/coronalabs/com.coronalabs-plugin.leadbolt
 [submodule "plugins/com.coronalabs/plugin.liveBuild"]
-	path = plugins/com.coronalabs/plugin.liveBuild
+	path = plugins/coronalabs/com.coronalabs/plugin.liveBuild
 	url = https://github.com/coronalabs/com.coronalabs-plugin.liveBuild
 [submodule "plugins/com.coronalabs/plugin.mediaBrix"]
-	path = plugins/com.coronalabs/plugin.mediaBrix
+	path = plugins/coronalabs/com.coronalabs/plugin.mediaBrix
 	url = https://github.com/coronalabs/com.coronalabs-plugin.mediaBrix
 [submodule "plugins/com.coronalabs/plugin.memoryBitmap"]
-	path = plugins/com.coronalabs/plugin.memoryBitmap
+	path = plugins/coronalabs/com.coronalabs/plugin.memoryBitmap
 	url = https://github.com/coronalabs/com.coronalabs-plugin.memoryBitmap
 [submodule "plugins/com.coronalabs/plugin.nanosvg"]
-	path = plugins/com.coronalabs/plugin.nanosvg
+	path = plugins/coronalabs/com.coronalabs/plugin.nanosvg
 	url = https://github.com/coronalabs/com.coronalabs-plugin.nanosvg
 [submodule "plugins/com.coronalabs/plugin.notifications"]
-	path = plugins/com.coronalabs/plugin.notifications
+	path = plugins/coronalabs/com.coronalabs/plugin.notifications
 	url = https://github.com/coronalabs/com.coronalabs-plugin.notifications
 [submodule "plugins/com.coronalabs/plugin.notifications.v2"]
-	path = plugins/com.coronalabs/plugin.notifications.v2
+	path = plugins/coronalabs/com.coronalabs/plugin.notifications.v2
 	url = https://github.com/coronalabs/com.coronalabs-plugin.notifications.v2
 [submodule "plugins/com.coronalabs/plugin.onDemandResources"]
-	path = plugins/com.coronalabs/plugin.onDemandResources
+	path = plugins/coronalabs/com.coronalabs/plugin.onDemandResources
 	url = https://github.com/coronalabs/com.coronalabs-plugin.onDemandResources
 [submodule "plugins/com.coronalabs/plugin.openssl"]
-	path = plugins/com.coronalabs/plugin.openssl
+	path = plugins/coronalabs/com.coronalabs/plugin.openssl
 	url = https://github.com/coronalabs/com.coronalabs-plugin.openssl
 [submodule "plugins/com.coronalabs/plugin.openudid"]
-	path = plugins/com.coronalabs/plugin.openudid
+	path = plugins/coronalabs/com.coronalabs/plugin.openudid
 	url = https://github.com/coronalabs/com.coronalabs-plugin.openudid
 [submodule "plugins/com.coronalabs/plugin.pasteboard"]
-	path = plugins/com.coronalabs/plugin.pasteboard
+	path = plugins/coronalabs/com.coronalabs/plugin.pasteboard
 	url = https://github.com/coronalabs/com.coronalabs-plugin.pasteboard
 [submodule "plugins/com.coronalabs/plugin.peanutlabs"]
-	path = plugins/com.coronalabs/plugin.peanutlabs
+	path = plugins/coronalabs/com.coronalabs/plugin.peanutlabs
 	url = https://github.com/coronalabs/com.coronalabs-plugin.peanutlabs
 [submodule "plugins/com.coronalabs/plugin.perk"]
-	path = plugins/com.coronalabs/plugin.perk
+	path = plugins/coronalabs/com.coronalabs/plugin.perk
 	url = https://github.com/coronalabs/com.coronalabs-plugin.perk
 [submodule "plugins/com.coronalabs/plugin.personaly"]
-	path = plugins/com.coronalabs/plugin.personaly
+	path = plugins/coronalabs/com.coronalabs/plugin.personaly
 	url = https://github.com/coronalabs/com.coronalabs-plugin.personaly
 [submodule "plugins/com.coronalabs/plugin.pollfish"]
-	path = plugins/com.coronalabs/plugin.pollfish
+	path = plugins/coronalabs/com.coronalabs/plugin.pollfish
 	url = https://github.com/coronalabs/com.coronalabs-plugin.pollfish
 [submodule "plugins/com.coronalabs/plugin.revmob"]
-	path = plugins/com.coronalabs/plugin.revmob
+	path = plugins/coronalabs/com.coronalabs/plugin.revmob
 	url = https://github.com/coronalabs/com.coronalabs-plugin.revmob
 [submodule "plugins/com.coronalabs/plugin.steamworks"]
-	path = plugins/com.coronalabs/plugin.steamworks
+	path = plugins/coronalabs/com.coronalabs/plugin.steamworks
 	url = https://github.com/coronalabs/com.coronalabs-plugin.steamworks
 [submodule "plugins/com.coronalabs/plugin.superawesome"]
-	path = plugins/com.coronalabs/plugin.superawesome
+	path = plugins/coronalabs/com.coronalabs/plugin.superawesome
 	url = https://github.com/coronalabs/com.coronalabs-plugin.superawesome
 [submodule "plugins/com.coronalabs/plugin.supersonic"]
-	path = plugins/com.coronalabs/plugin.supersonic
+	path = plugins/coronalabs/com.coronalabs/plugin.supersonic
 	url = https://github.com/coronalabs/com.coronalabs-plugin.supersonic
 [submodule "plugins/com.coronalabs/plugin.teads"]
-	path = plugins/com.coronalabs/plugin.teads
+	path = plugins/coronalabs/com.coronalabs/plugin.teads
 	url = https://github.com/coronalabs/com.coronalabs-plugin.teads
 [submodule "plugins/com.coronalabs/plugin.tenjin"]
-	path = plugins/com.coronalabs/plugin.tenjin
+	path = plugins/coronalabs/com.coronalabs/plugin.tenjin
 	url = https://github.com/coronalabs/com.coronalabs-plugin.tenjin
 [submodule "plugins/com.coronalabs/plugin.trialPay"]
-	path = plugins/com.coronalabs/plugin.trialPay
+	path = plugins/coronalabs/com.coronalabs/plugin.trialPay
 	url = https://github.com/coronalabs/com.coronalabs-plugin.trialPay
 [submodule "plugins/com.coronalabs/plugin.unityads"]
-	path = plugins/com.coronalabs/plugin.unityads
+	path = plugins/coronalabs/com.coronalabs/plugin.unityads
 	url = https://github.com/coronalabs/com.coronalabs-plugin.unityads
 [submodule "plugins/com.coronalabs/plugin.utf8"]
-	path = plugins/com.coronalabs/plugin.utf8
+	path = plugins/coronalabs/com.coronalabs/plugin.utf8
 	url = https://github.com/coronalabs/com.coronalabs-plugin.utf8
 [submodule "plugins/com.coronalabs/plugin.viewer"]
-	path = plugins/com.coronalabs/plugin.viewer
+	path = plugins/coronalabs/com.coronalabs/plugin.viewer
 	url = https://github.com/coronalabs/com.coronalabs-plugin.viewer
 [submodule "plugins/com.coronalabs/plugin.vk.direct"]
-	path = plugins/com.coronalabs/plugin.vk.direct
+	path = plugins/coronalabs/com.coronalabs/plugin.vk.direct
 	url = https://github.com/coronalabs/com.coronalabs-plugin.vk.direct
 [submodule "plugins/com.coronalabs/plugin.zeroconf"]
-	path = plugins/com.coronalabs/plugin.zeroconf
+	path = plugins/coronalabs/com.coronalabs/plugin.zeroconf
 	url = https://github.com/coronalabs/com.coronalabs-plugin.zeroconf
 [submodule "plugins/com.coronalabs/plugin.zip"]
-	path = plugins/com.coronalabs/plugin.zip
+	path = plugins/coronalabs/com.coronalabs/plugin.zip
 	url = https://github.com/coronalabs/com.coronalabs-plugin.zip
 [submodule "plugins/com.coronalabs/shared.android.support.annotations"]
-	path = plugins/com.coronalabs/shared.android.support.annotations
+	path = plugins/coronalabs/com.coronalabs/shared.android.support.annotations
 	url = https://github.com/coronalabs/com.coronalabs-shared.android.support.annotations
 [submodule "plugins/com.coronalabs/shared.android.support.design"]
-	path = plugins/com.coronalabs/shared.android.support.design
+	path = plugins/coronalabs/com.coronalabs/shared.android.support.design
 	url = https://github.com/coronalabs/com.coronalabs-shared.android.support.design
 [submodule "plugins/com.coronalabs/shared.android.support.v4"]
-	path = plugins/com.coronalabs/shared.android.support.v4
+	path = plugins/coronalabs/com.coronalabs/shared.android.support.v4
 	url = https://github.com/coronalabs/com.coronalabs-shared.android.support.v4
 [submodule "plugins/com.coronalabs/shared.android.support.v4.compat"]
-	path = plugins/com.coronalabs/shared.android.support.v4.compat
+	path = plugins/coronalabs/com.coronalabs/shared.android.support.v4.compat
 	url = https://github.com/coronalabs/com.coronalabs-shared.android.support.v4.compat
 [submodule "plugins/com.coronalabs/shared.android.support.v4.coreui"]
-	path = plugins/com.coronalabs/shared.android.support.v4.coreui
+	path = plugins/coronalabs/com.coronalabs/shared.android.support.v4.coreui
 	url = https://github.com/coronalabs/com.coronalabs-shared.android.support.v4.coreui
 [submodule "plugins/com.coronalabs/shared.android.support.v4.coreutils"]
-	path = plugins/com.coronalabs/shared.android.support.v4.coreutils
+	path = plugins/coronalabs/com.coronalabs/shared.android.support.v4.coreutils
 	url = https://github.com/coronalabs/com.coronalabs-shared.android.support.v4.coreutils
 [submodule "plugins/com.coronalabs/shared.android.support.v4.fragment"]
-	path = plugins/com.coronalabs/shared.android.support.v4.fragment
+	path = plugins/coronalabs/com.coronalabs/shared.android.support.v4.fragment
 	url = https://github.com/coronalabs/com.coronalabs-shared.android.support.v4.fragment
 [submodule "plugins/com.coronalabs/shared.android.support.v4.mediacompat"]
-	path = plugins/com.coronalabs/shared.android.support.v4.mediacompat
+	path = plugins/coronalabs/com.coronalabs/shared.android.support.v4.mediacompat
 	url = https://github.com/coronalabs/com.coronalabs-shared.android.support.v4.mediacompat
 [submodule "plugins/com.coronalabs/shared.android.support.v7.appcompat"]
-	path = plugins/com.coronalabs/shared.android.support.v7.appcompat
+	path = plugins/coronalabs/com.coronalabs/shared.android.support.v7.appcompat
 	url = https://github.com/coronalabs/com.coronalabs-shared.android.support.v7.appcompat
 [submodule "plugins/com.coronalabs/shared.android.support.v7.cardview"]
-	path = plugins/com.coronalabs/shared.android.support.v7.cardview
+	path = plugins/coronalabs/com.coronalabs/shared.android.support.v7.cardview
 	url = https://github.com/coronalabs/com.coronalabs-shared.android.support.v7.cardview
 [submodule "plugins/com.coronalabs/shared.android.support.v7.gridlayout"]
-	path = plugins/com.coronalabs/shared.android.support.v7.gridlayout
+	path = plugins/coronalabs/com.coronalabs/shared.android.support.v7.gridlayout
 	url = https://github.com/coronalabs/com.coronalabs-shared.android.support.v7.gridlayout
 [submodule "plugins/com.coronalabs/shared.android.support.v7.recyclerview"]
-	path = plugins/com.coronalabs/shared.android.support.v7.recyclerview
+	path = plugins/coronalabs/com.coronalabs/shared.android.support.v7.recyclerview
 	url = https://github.com/coronalabs/com.coronalabs-shared.android.support.v7.recyclerview
 [submodule "plugins/com.coronalabs/shared.android.support.vector.drawable"]
-	path = plugins/com.coronalabs/shared.android.support.vector.drawable
+	path = plugins/coronalabs/com.coronalabs/shared.android.support.vector.drawable
 	url = https://github.com/coronalabs/com.coronalabs-shared.android.support.vector.drawable
 [submodule "plugins/com.coronalabs/shared.firebase.core"]
-	path = plugins/com.coronalabs/shared.firebase.core
+	path = plugins/coronalabs/com.coronalabs/shared.firebase.core
 	url = https://github.com/coronalabs/com.coronalabs-shared.firebase.core
 [submodule "plugins/com.coronalabs/shared.firebase.messaging"]
-	path = plugins/com.coronalabs/shared.firebase.messaging
+	path = plugins/coronalabs/com.coronalabs/shared.firebase.messaging
 	url = https://github.com/coronalabs/com.coronalabs-shared.firebase.messaging
 [submodule "plugins/com.coronalabs/shared.google.play.services.ads"]
-	path = plugins/com.coronalabs/shared.google.play.services.ads
+	path = plugins/coronalabs/com.coronalabs/shared.google.play.services.ads
 	url = https://github.com/coronalabs/com.coronalabs-shared.google.play.services.ads
 [submodule "plugins/com.coronalabs/shared.google.play.services.ads.identifier"]
-	path = plugins/com.coronalabs/shared.google.play.services.ads.identifier
+	path = plugins/coronalabs/com.coronalabs/shared.google.play.services.ads.identifier
 	url = https://github.com/coronalabs/com.coronalabs-shared.google.play.services.ads.identifier
 [submodule "plugins/com.coronalabs/shared.google.play.services.analytics"]
-	path = plugins/com.coronalabs/shared.google.play.services.analytics
+	path = plugins/coronalabs/com.coronalabs/shared.google.play.services.analytics
 	url = https://github.com/coronalabs/com.coronalabs-shared.google.play.services.analytics
 [submodule "plugins/com.coronalabs/shared.google.play.services.awareness"]
-	path = plugins/com.coronalabs/shared.google.play.services.awareness
+	path = plugins/coronalabs/com.coronalabs/shared.google.play.services.awareness
 	url = https://github.com/coronalabs/com.coronalabs-shared.google.play.services.awareness
 [submodule "plugins/com.coronalabs/shared.google.play.services.base"]
-	path = plugins/com.coronalabs/shared.google.play.services.base
+	path = plugins/coronalabs/com.coronalabs/shared.google.play.services.base
 	url = https://github.com/coronalabs/com.coronalabs-shared.google.play.services.base
 [submodule "plugins/com.coronalabs/shared.google.play.services.drive"]
-	path = plugins/com.coronalabs/shared.google.play.services.drive
+	path = plugins/coronalabs/com.coronalabs/shared.google.play.services.drive
 	url = https://github.com/coronalabs/com.coronalabs-shared.google.play.services.drive
 [submodule "plugins/com.coronalabs/shared.google.play.services.games"]
-	path = plugins/com.coronalabs/shared.google.play.services.games
+	path = plugins/coronalabs/com.coronalabs/shared.google.play.services.games
 	url = https://github.com/coronalabs/com.coronalabs-shared.google.play.services.games
 [submodule "plugins/com.coronalabs/shared.google.play.services.gcm"]
-	path = plugins/com.coronalabs/shared.google.play.services.gcm
+	path = plugins/coronalabs/com.coronalabs/shared.google.play.services.gcm
 	url = https://github.com/coronalabs/com.coronalabs-shared.google.play.services.gcm
 [submodule "plugins/com.coronalabs/shared.google.play.services.location"]
-	path = plugins/com.coronalabs/shared.google.play.services.location
+	path = plugins/coronalabs/com.coronalabs/shared.google.play.services.location
 	url = https://github.com/coronalabs/com.coronalabs-shared.google.play.services.location
