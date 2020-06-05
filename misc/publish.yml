@@ -25,6 +25,7 @@ jobs:
               (
                 if [ ! -d "$platform" ] ; then continue ; fi
                 cd "$platform"
+                if ! ls * &> /dev/null  ; then continue ; fi
                 COPYFILE_DISABLE=true tar -czvf ../../"$build-$platform.tgz" --exclude=".*" *
               )
             done
