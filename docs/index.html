@@ -123,9 +123,14 @@
       }
     }
   }
+  const shuffleArray = arr => arr
+          .map(a => [Math.random(), a])
+          .sort((a, b) => a[0] - b[0])
+          .map(a => a[1]);
 
   let xar = new XMLHttpRequest();
   xar.onload = function () {
+    pluginArray = []
     let pluginFile = JSON.parse(this.responseText)
     for (let [ghAcc, publishers] of Object.entries(pluginFile)) {
       for (let [publisher, plugins] of Object.entries(publishers)) {
@@ -138,6 +143,8 @@
         }
       }
     }
+
+    pluginArray = shuffleArray(pluginArray)
 
     let container = document.getElementById("pluginsContainer")
 
