@@ -12,9 +12,10 @@ jobs:
         with:
           submodules: true
       - run: ./generate.sh
-      - name: Deploy Github Pages
-        uses: JamesIves/github-pages-deploy-action@releases/v3
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v4
         with:
+          message: "Changes from ${{ github.sha }}"
+          add: "docs"
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages
-          FOLDER: html

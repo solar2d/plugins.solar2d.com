@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 set -e
-mkdir -p html
-./generate.py plugins/*.json > html/plugins.json
+mkdir -p docs
+./generate.py plugins/*.json > docs/plugins.json
