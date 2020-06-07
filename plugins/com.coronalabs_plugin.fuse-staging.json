@@ -1,0 +1,15 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "plugin.fuse-staging",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2014.2393": [
+            "android",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}

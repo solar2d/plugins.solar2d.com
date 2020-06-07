@@ -1,0 +1,13 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "plugin.vk.direct",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2018.3275": [
+            "mac-sim",
+            "web",
+            "win32-sim"
+        ]
+    }
+}

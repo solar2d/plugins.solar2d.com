@@ -1,0 +1,14 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "plugin.onDemandResources",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2016.2841": [
+            "appletvos",
+            "appletvsimulator",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}

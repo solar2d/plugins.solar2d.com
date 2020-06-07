@@ -1,0 +1,17 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v2",
+    "plugin": "plugin.gamecenter",
+    "publisherId": "tech.scotth",
+    "supported": {
+        "2014.2264": [
+            "android",
+            "appletvos",
+            "appletvsimulator",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}

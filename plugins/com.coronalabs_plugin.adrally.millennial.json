@@ -1,0 +1,11 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "plugin.adrally.millennial",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2014.2393": [
+            "android"
+        ]
+    }
+}

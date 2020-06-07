@@ -1,0 +1,17 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "plugin.flurry.analytics",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2019.3497": [
+            "android",
+            "appletvos",
+            "appletvsimulator",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}

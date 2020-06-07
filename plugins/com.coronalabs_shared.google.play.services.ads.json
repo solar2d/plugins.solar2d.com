@@ -1,0 +1,12 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "shared.google.play.services.ads",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2019.3497": [
+            "android",
+            "android-kindle"
+        ]
+    }
+}

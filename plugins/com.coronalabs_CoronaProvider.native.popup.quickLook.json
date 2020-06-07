@@ -1,0 +1,14 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "CoronaProvider.native.popup.quickLook",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2013.2090": [
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}

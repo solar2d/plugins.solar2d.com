@@ -1,0 +1,12 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "CoronaProvider.ads.iads",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2015.2775": [
+            "iphone",
+            "iphone-sim"
+        ]
+    }
+}

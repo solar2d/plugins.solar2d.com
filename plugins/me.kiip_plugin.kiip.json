@@ -1,0 +1,14 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.kiip",
+    "publisherId": "me.kiip",
+    "supported": {
+        "2016.2971": [
+            "android",
+            "iphone",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}

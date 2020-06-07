@@ -1,0 +1,16 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.MemoryBlob",
+    "publisherId": "com.xibalbastudios",
+    "supported": {
+        "2016.2830": [
+            "android",
+            "appletvos",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}

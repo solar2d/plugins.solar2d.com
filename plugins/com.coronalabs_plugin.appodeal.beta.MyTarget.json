@@ -1,0 +1,13 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "plugin.appodeal.beta.MyTarget",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2020.3569": [
+            "android",
+            "iphone",
+            "iphone-sim"
+        ]
+    }
+}

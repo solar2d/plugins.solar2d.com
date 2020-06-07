@@ -1,0 +1,18 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "plugin.utf8",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2015.2731": [
+            "android",
+            "appletvos",
+            "appletvsimulator",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "web",
+            "win32-sim"
+        ]
+    }
+}

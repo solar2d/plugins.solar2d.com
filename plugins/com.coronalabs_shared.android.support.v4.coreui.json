@@ -1,0 +1,11 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "shared.android.support.v4.coreui",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2019.3497": [
+            "android"
+        ]
+    }
+}

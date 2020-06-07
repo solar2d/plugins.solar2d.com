@@ -1,0 +1,11 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "CoronaProvider.gameNetwork.google",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2014.2264": [
+            "android"
+        ]
+    }
+}

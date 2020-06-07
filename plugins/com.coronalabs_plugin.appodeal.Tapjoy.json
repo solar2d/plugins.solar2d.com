@@ -1,0 +1,13 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "plugin.appodeal.Tapjoy",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2018.3326": [
+            "android",
+            "iphone",
+            "iphone-sim"
+        ]
+    }
+}

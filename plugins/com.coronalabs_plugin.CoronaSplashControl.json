@@ -1,0 +1,11 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "plugin.CoronaSplashControl",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2016.2930": [
+            "lua"
+        ]
+    }
+}

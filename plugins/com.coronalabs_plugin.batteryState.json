@@ -1,0 +1,16 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "plugin.batteryState",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2017.3037": [
+            "android",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "web",
+            "win32-sim"
+        ]
+    }
+}

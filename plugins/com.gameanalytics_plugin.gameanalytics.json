@@ -1,0 +1,15 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.gameanalytics",
+    "publisherId": "com.gameanalytics",
+    "supported": {
+        "2013.1202": [
+            "android",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}

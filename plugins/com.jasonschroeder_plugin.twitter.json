@@ -1,0 +1,11 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.twitter",
+    "publisherId": "com.jasonschroeder",
+    "supported": {
+        "2016.3011": [
+            "lua"
+        ]
+    }
+}

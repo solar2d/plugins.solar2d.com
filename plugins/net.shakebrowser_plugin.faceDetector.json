@@ -1,0 +1,13 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.faceDetector",
+    "publisherId": "net.shakebrowser",
+    "supported": {
+        "2016.2949": [
+            "iphone",
+            "iphone-sim",
+            "mac-sim"
+        ]
+    }
+}

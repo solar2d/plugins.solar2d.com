@@ -1,0 +1,15 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.storeView",
+    "publisherId": "tech.scotth",
+    "supported": {
+        "2015.2731": [
+            "android",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}

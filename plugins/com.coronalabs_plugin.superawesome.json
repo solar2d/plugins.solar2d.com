@@ -1,0 +1,15 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "plugin.superawesome",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2017.3183": [
+            "android",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}

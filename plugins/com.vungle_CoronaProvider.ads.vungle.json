@@ -1,0 +1,13 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "CoronaProvider.ads.vungle",
+    "publisherId": "com.vungle",
+    "supported": {
+        "2017.3081": [
+            "android",
+            "iphone",
+            "iphone-sim"
+        ]
+    }
+}

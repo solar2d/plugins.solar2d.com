@@ -1,0 +1,13 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "shared.firebase.messaging",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2019.3497": [
+            "android",
+            "iphone",
+            "iphone-sim"
+        ]
+    }
+}

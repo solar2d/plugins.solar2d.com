@@ -1,0 +1,13 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.gamecircle",
+    "publisherId": "COM_INNOVATIVELEISURE",
+    "supported": {
+        "2014.2296": [
+            "android",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}

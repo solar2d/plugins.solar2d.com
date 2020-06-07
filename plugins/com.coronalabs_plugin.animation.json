@@ -1,0 +1,11 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "plugin.animation",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2015.2642": [
+            "lua"
+        ]
+    }
+}

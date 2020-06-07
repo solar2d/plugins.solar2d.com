@@ -1,0 +1,14 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "plugin.iTunes",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2013.1232": [
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}

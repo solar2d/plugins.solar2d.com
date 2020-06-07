@@ -1,0 +1,11 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.mixpanel",
+    "publisherId": "com.yogergames",
+    "supported": {
+        "2017.3033": [
+            "lua"
+        ]
+    }
+}

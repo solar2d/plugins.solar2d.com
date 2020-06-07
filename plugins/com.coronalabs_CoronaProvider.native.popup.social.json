@@ -1,0 +1,15 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "CoronaProvider.native.popup.social",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2013.1164": [
+            "android",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}

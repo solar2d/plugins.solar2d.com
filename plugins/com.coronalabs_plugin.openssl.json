@@ -1,0 +1,17 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "plugin.openssl",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2016.2883": [
+            "android",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "tvos",
+            "tvos-sim",
+            "win32-sim"
+        ]
+    }
+}
