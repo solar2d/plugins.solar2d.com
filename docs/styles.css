@@ -1,0 +1,276 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "icons";
+  src: url("fonts/icons.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "icons" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+  top: 0.15em;
+}
+
+.icon-donate:before {
+  content: "\61";
+}
+.icon-docs:before {
+  content: "\64";
+}
+.icon-github:before {
+  content: "\67";
+}
+.icon-patreon:before {
+  content: "\70";
+}
+.icon-facebook:before {
+  content: "\66";
+}
+.icon-download:before {
+  content: "\77";
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local('Source Sans Pro Light'), local('SourceSansPro-Light'), url(fonts/SourceSansPro-Light.ttf) format('truetype');
+}
+
+
+body {
+  font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+  background: #15073e;
+  color: #fff;
+}
+
+.content {
+  background: #fff;
+  margin: 20px;
+  border-radius: 20px;
+  color: #0b0146;
+  padding: 1em 0 1em 0;
+}
+
+#header {
+  width: 100%;
+}
+
+#header h1 {
+  font-weight: 300;
+  margin: 0;
+  font-size: 2em;
+}
+
+#header .inner {
+  margin: auto;
+  margin-top: 10px;
+  padding: 10px;
+  width: 80%;
+  max-width: 980px;
+}
+
+.left, .right{
+  padding: 0px;
+  margin: 0px;
+  width: 50%;
+  display: inline-block;
+}
+.left {
+  text-align: right;
+}
+.right {
+  text-align: left;
+}
+
+.lr {
+  padding: 20px;
+}
+
+#header img {
+  object-fit: contain;
+  object-position: right;
+  height: 100px;
+  width: 100%;
+}
+
+h2 {
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: 200;
+  margin-bottom: 0;
+}
+
+#header .description {
+  text-align: center;
+  font-size: 1.1em;
+  font-weight: 200;
+  margin: 0.5em 0 2em 0;
+}
+
+.button {
+  padding: 0.1em 0.6em;
+  border-radius: 1em;
+  display: inline-block;
+  color: #fff;
+  background-color: #4fc08d;
+  box-sizing: border-box;
+  border: 1px solid #4fc08d;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+.button:not(:last-child) {
+}
+
+.support-btn {
+  background-color: #fff;
+  color: #0b0146;
+}
+
+.footer {
+  font-size: 0.75em;
+  text-align: center;
+}
+
+.footer .links {
+  font-size: 2em;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.footer .links a {
+  margin: 0.3em;
+}
+
+.footer .copyright {
+  padding: 0.3em;
+}
+
+.advantages .inner {
+  max-width: 900px;
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.point {
+  cursor: pointer;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  box-sizing: border-box;
+  padding: 0 2em;
+}
+
+.point h3 {
+  margin: 0;
+  padding: 1em 0 0 0;
+  font-size: 1.5em;
+  color: #080443d6;
+  font-weight: 200;
+}
+.point p {
+  margin-top: 0.5em;
+  padding-bottom: 0.3em;
+}
+
+.advantages {
+  padding: 1em 0 1em 0;
+  background: #80808020;
+}
+
+.support {
+  text-align: center;
+  padding: 2em 2em 0 2em;
+}
+
+@media all and (max-width: 800px) {
+  .left, .right{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+  }
+  .content {
+    margin: 20px;
+    border-radius: 20px;
+    padding: 1em 0 1em 0;
+  }
+  #header .inner {
+    padding: 0;
+    width: 90%;
+  }
+  #header h1 {
+    font-size: 2.5em;
+  }
+  #header img {
+    object-position: center;
+  }
+  #header {
+    text-align: center;
+  }
+  .lr {
+    padding: 0;
+  }
+}
+
+#filterInput {
+  background-image: url('images/searchicon.png'); /* Add a search icon to input */
+  background-position: 10px 12px; /* Position the search icon */
+  background-repeat: no-repeat; /* Do not repeat the icon image */
+  width: 100%; /* Full-width */
+  font-size: 16px; /* Increase font-size */
+  padding: 12px 20px 12px 40px; /* Add some padding */
+  border: 1px solid #ddd; /* Add a grey border */
+  margin-bottom: 12px; /* Add some space below the input */
+}
+
+#popup_inner {
+  color: #0b0146;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 8px #aaa;
+  overflow: hidden;
+  padding: 10px;
+}
+#popup {
+  z-index: 999;
+  top: 0;
+  left: 0;
+  display: none;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: #00000033;
+}
+
+#close_button {
+
+}

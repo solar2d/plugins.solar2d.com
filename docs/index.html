@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta name="generator" content="Hexo 3.8.0">
+  <title>Solar2D Free Plugin Directory</title>
+  <meta charset="utf-8">
+  <meta name="description" content="Solar2D Free Plugin Directory">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Solar2D">
+  <meta property="og:description" content="Solar2D Free Plugin Directory">
+  <meta property="og:image" content="https://solar2d.com/images/logo.png">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Solar2D">
+  <meta name="twitter:description" content="Solar2D Free Plugin Directory">
+  <meta name="twitter:image" content="https://solar2d.com/images/logo.png">
+
+  <link rel="apple-touch-icon" sizes="57x57" href="https://solar2d.com/images/icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="https://solar2d.com/images/icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="https://solar2d.com/images/icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="https://solar2d.com/images/icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="https://solar2d.com/images/icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="https://solar2d.com/images/icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="https://solar2d.com/images/icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="https://solar2d.com/images/icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://solar2d.com/images/icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="https://solar2d.com/images/icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://solar2d.com/images/icon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="https://solar2d.com/images/icon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://solar2d.com/images/icon-16x16.png">
+  <link rel="icon" href="/images/logo.png" type="image/png">
+
+  <link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+  <div class="content">
+    <div id="header">
+      <div class="inner">
+        <div class="left">
+          <div class="lr">
+            <img src="images/logo-banner.png" height="145px" alt="Solar2D Logo"/>
+          </div>
+        </div><div class="right">
+          <div class="lr">
+            <h1>Free Plugins Directory</h1>
+            <p>
+              <a class="button icon-github" href="https://github.com/coronalabs/corona" target="_blank"> GitHub</a>
+              <a class="button icon-facebook" href="https://coronadocs.com" target="_blank"> Documentaton</a>
+              <a class="button icon-download" href="https://github.com/coronalabs/corona/releases" target="_blank"> Downloads</a>
+              <a class="button support-btn icon-donate" href="#support"> Support</a>
+            </p>
+          </div>
+        </div>
+<!--        <h2>-->
+<!--          This is directory of plugins freely available for Solar2D Game Engine<br/>-->
+<!--        </h2>-->
+<!--        <p class="description">-->
+<!--          To add plugins here, create an issue here <a href="https://github.com/solar2d/plugins.solar2d.com/issues">here</a>.-->
+<!--        </p>-->
+      </div>
+    </div>
+    <div class="advantages">
+      <div class="inner" id="pluginsContainer">
+        <label for="filterInput"></label><input type="text" id="filterInput" onkeyup="filterResults()" placeholder="Search for names..">
+
+        <div class="point">
+          <h3>Loading...</h3>
+          <p>...</p>
+        </div>
+
+      </div>
+    </div>
+    <div class="support">
+      <a id="support"></a>
+      <div class="inner">
+        <h2>Support the Project</h2>
+        <p>Solar2D development is sponsored by its users. Support the project on <a href="https://github.com/sponsors/shchvova" target="_blank">GitHub Sponsors</a> or <a href="https://patreon.com/shchvova" target="_blank">Patreon</a>.</p>
+      </div>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="links">
+      <a class="icon-facebook" href="https://fb.com/solar2d" target="_blank"></a>
+      <a class="icon-patreon" href="https://patreon.com/shchvova" target="_blank"></a>
+      <a class="icon-github" href="https://github.com/coronalabs/corona" target="_blank"></a>
+    </div>
+    <div class="copyright">
+      Released under the <a href="/LICENSE.md" target="_blank">MIT license</a><br/>
+      Copyright © 2020 Vlad Shcherban
+    </div>
+  </div>
+  <div id="popup">
+    <div id="popup_inner">
+      <div class="popup_body" style="height: 200px;" id="popup_body">
+      </div>
+      <button class="close_button"onClick="closePopup()">Ok.</button>
+      <script>
+        function closePopup() {
+          let el = document.getElementById('popup');
+          el.style.display = 'none';
+        }
+      </script>
+    </div>
+  </div>
+</body>
+</html>
+
+<script>
+  let pluginArray = [];
+  function filterResults() {
+    let input = document.getElementById('filterInput');
+    let filter = input.value.toLowerCase();
+    let container = document.getElementById("pluginsContainer")
+    let entries = container.getElementsByTagName('div');
+
+    for(let e of entries) {
+      if (e.textContent.toLowerCase().indexOf(filter) > -1) {
+        e.style.display = "";
+      } else {
+        e.style.display = "none";
+      }
+    }
+  }
+
+  let xar = new XMLHttpRequest();
+  xar.onload = function () {
+    let pluginFile = JSON.parse(this.responseText)
+    for (let [ghAcc, publishers] of Object.entries(pluginFile)) {
+      for (let [publisher, plugins] of Object.entries(publishers)) {
+        for (let [plugin, data] of Object.entries(plugins)) {
+          if(data.error) {
+            pluginArray.push({"plugin": plugin, "error": data.error})
+          } else {
+            pluginArray.push({"plugin": plugin, "publisher": publisher})
+          }
+        }
+      }
+    }
+
+    let container = document.getElementById("pluginsContainer")
+
+    for (let child of container.children) {
+      if(child.id !== "filterInput") {
+        child.remove()
+      }
+    }
+
+    for (let p of pluginArray) {
+      let e = document.createElement("div")
+      e.className = "point"
+      let title = document.createElement("h3")
+      title.textContent = p.plugin
+      e.appendChild(title)
+      let description = document.createElement("p")
+      if(p.publisher) {
+        description.textContent = `publisherId: ${p.publisher}`
+      } else if(p.error) {
+        description.textContent = p.error
+        description.className += "error"
+      }
+      e.appendChild(description)
+      e.onclick = function() {
+        let popupText = `
+To add this plugin, use following code in build.settings
+<pre>
+  {
+      plugins = \{
+          "${p.plugin}" = \{
+              publisherId = "${p.publisher}",
+          },
+      },
+  }
+</pre>
+`
+        let pbd = document.getElementById('popup_body')
+        pbd.innerHTML = popupText;
+        let el = document.getElementById('popup');
+        el.style.display = 'block';
+      }
+      container.appendChild(e)
+    }
+
+    let input = document.getElementById('filterInput');
+    input.placeholder = `Filter ${pluginArray.length} plugins...`
+  }
+  xar.open("GET", "plugins.json")
+  xar.send()
+</script>
