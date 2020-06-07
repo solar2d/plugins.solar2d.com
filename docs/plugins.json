@@ -1,0 +1,2584 @@
+{
+"coronalabs": {
+"com.coronalabs": {
+"CoronaProvider.ads.iads": {
+"r": "v1",
+"v": {
+"2015.2775": [
+"iphone",
+"iphone-sim"
+]
+}
+},
+"CoronaProvider.analytics.flurry": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"CoronaProvider.gameNetwork.apple": {
+"r": "v1",
+"v": {
+"2014.2455": [
+"iphone",
+"iphone-sim"
+]
+}
+},
+"CoronaProvider.gameNetwork.google": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android"
+]
+}
+},
+"CoronaProvider.native.popup.activity": {
+"r": "v1",
+"v": {
+"2014.2511": [
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"CoronaProvider.native.popup.addressbook": {
+"r": "v1",
+"v": {
+"2017.3037": [
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"CoronaProvider.native.popup.quickLook": {
+"r": "v1",
+"v": {
+"2013.2090": [
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"CoronaProvider.native.popup.safariView": {
+"r": "v1",
+"v": {
+"2014.2511": [
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"CoronaProvider.native.popup.social": {
+"r": "v1",
+"v": {
+"2013.1164": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"facebook": {
+"r": "v1",
+"v": {
+"2014.2430": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.CoronaSplashControl": {
+"r": "v1",
+"v": {
+"2016.2930": [
+"lua"
+]
+}
+},
+"plugin.adcolony": {
+"r": "v1",
+"v": {
+"2017.3183": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.admob": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.adrally": {
+"r": "v1",
+"v": {
+"2014.2393": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.adrally.adcolony": {
+"r": "v1",
+"v": {
+"2014.2393": [
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.adrally.applovin": {
+"r": "v1",
+"v": {
+"2014.2393": [
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.adrally.hyprmx": {
+"r": "v1",
+"v": {
+"2014.2393": [
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.adrally.millennial": {
+"r": "v1",
+"v": {
+"2014.2393": [
+"android"
+]
+}
+},
+"plugin.adrally.vungle": {
+"r": "v1",
+"v": {
+"2014.2393": [
+"android"
+]
+}
+},
+"plugin.advertisingId": {
+"r": "v1",
+"v": {
+"2016.3005": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.amazon.iap": {
+"r": "v1",
+"v": {
+"2013.2731": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.animation": {
+"r": "v1",
+"v": {
+"2015.2642": [
+"lua"
+]
+}
+},
+"plugin.apple.iap": {
+"r": "v1",
+"v": {
+"2016.2828": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.apple.iap.helper": {
+"r": "v1",
+"v": {
+"2016.2828": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.applovin": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"android-kindle",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.applovin.paid": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"android-kindle",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.appodeal.AdColony": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.AmazonAds": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.AppLovin": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.Appnext": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.Chartboost": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.FacebookAudience": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.Flurry": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.GoogleAdMob": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.InMobi": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.InnerActive": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.IronSource": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.MillenialMedia": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.Mobvista": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.MyTarget": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.Ogury": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.OpenX": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.Pubnative": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.Smaato": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.StartApp": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.Tapjoy": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.TwitterMoPub": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.Unity": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.Vungle": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.Yandex": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.base": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"android-kindle",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.appodeal.beta.AdColony": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.AmazonAds": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.AppLovin": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.Appnext": {
+"r": "v1",
+"v": {
+"2017.3184": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.Chartboost": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.FacebookAudience": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.Flurry": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.GoogleAdMob": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.InMobi": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.InnerActive": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.IronSource": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.MillenialMedia": {
+"r": "v1",
+"v": {
+"2017.3184": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.Mobvista": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.MyTarget": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.Ogury": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.OpenX": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.Pubnative": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.Smaato": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.StartApp": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.Tapjoy": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.TwitterMoPub": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.Unity": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.Vungle": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.Yandex": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.beta.base": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.appsflyer": {
+"r": "v2",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+],
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.apsalar": {
+"r": "v1",
+"v": {
+"2015.2772": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.awareness": {
+"r": "v1",
+"v": {
+"2017.3170": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.batteryState": {
+"r": "v1",
+"v": {
+"2017.3037": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"web",
+"win32-sim"
+]
+}
+},
+"plugin.bit": {
+"r": "v1",
+"v": {
+"2013.2584": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"linux",
+"mac-sim",
+"web",
+"win32-sim"
+]
+}
+},
+"plugin.calendar": {
+"r": "v1",
+"v": {
+"2017.3068": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.chartboost": {
+"r": "v1",
+"v": {
+"2018.3313": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.collisionFilters": {
+"r": "v1",
+"v": {
+"2017.3032": [
+"lua"
+]
+}
+},
+"plugin.coronaAds": {
+"r": "v1",
+"v": {
+"2016.3005": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.facebook.v4": {
+"r": "v1",
+"v": {
+"2016.2932": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.facebook.v4a": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.fairPlay": {
+"r": "v1",
+"v": {
+"2016.2906": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.fbAudienceNetwork": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.fbAudienceNetwork.paid": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.flurry.analytics": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.fuse": {
+"r": "v1",
+"v": {
+"2016.2828": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.fuse-staging": {
+"r": "v1",
+"v": {
+"2014.2393": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.fuse.ads": {
+"r": "v1",
+"v": {
+"2014.2393": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.fuse.ads-staging": {
+"r": "v1",
+"v": {
+"2014.2393": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.google.iap.v3": {
+"r": "v1",
+"v": {
+"2017.3105": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.google.play.services": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.googleAnalytics": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.gpgs": {
+"r": "v1",
+"v": {
+"2017.3183": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.gpgs.v2": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.hockey": {
+"r": "v1",
+"v": {
+"2015.2772": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.iCloud": {
+"r": "v1",
+"v": {
+"2013.2584": [
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.iTunes": {
+"r": "v1",
+"v": {
+"2013.1232": [
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.inMobi": {
+"r": "v1",
+"v": {
+"2017.3183": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.instreamatic": {
+"r": "v1",
+"v": {
+"2015.2731": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.kidoz": {
+"r": "v1",
+"v": {
+"2018.3313": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.kochava": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.kochava.faa": {
+"r": "v1",
+"v": {
+"2017.3183": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.leadbolt": {
+"r": "v1",
+"v": {
+"2015.2731": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.liveBuild": {
+"r": "v1",
+"v": {
+"2016.2993": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.mediaBrix": {
+"r": "v1",
+"v": {
+"2017.3049": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.memoryBitmap": {
+"r": "v1",
+"v": {
+"2016.2856": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.nanosvg": {
+"r": "v1",
+"v": {
+"2016.2856": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.notifications": {
+"r": "v1",
+"v": {
+"2017.3060": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.notifications.v2": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.onDemandResources": {
+"r": "v1",
+"v": {
+"2016.2841": [
+"appletvos",
+"appletvsimulator",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.openssl": {
+"r": "v1",
+"v": {
+"2016.2883": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"tvos",
+"tvos-sim",
+"win32-sim"
+]
+}
+},
+"plugin.openudid": {
+"r": "v1",
+"v": {
+"2013.1076": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.pasteboard": {
+"r": "v1",
+"v": {
+"2013.2090": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.peanutlabs": {
+"r": "v1",
+"v": {
+"2017.3049": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.perk": {
+"r": "v1",
+"v": {
+"2015.2772": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.personaly": {
+"r": "v1",
+"v": {
+"2016.3005": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.pollfish": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android",
+"android-kindle",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.revmob": {
+"r": "v1",
+"v": {
+"2017.3183": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.steamworks": {
+"r": "v1",
+"v": {
+"2016.2872": [
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.superawesome": {
+"r": "v1",
+"v": {
+"2017.3183": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.supersonic": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.teads": {
+"r": "v1",
+"v": {
+"2015.2731": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.tenjin": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.trialPay": {
+"r": "v1",
+"v": {
+"2016.3005": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.unityads": {
+"r": "v2",
+"v": {
+"2019.3497": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.utf8": {
+"r": "v1",
+"v": {
+"2015.2731": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"web",
+"win32-sim"
+]
+}
+},
+"plugin.viewer": {
+"r": "v1",
+"v": {
+"2016.2825": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.vk.direct": {
+"r": "v1",
+"v": {
+"2018.3275": [
+"mac-sim",
+"web",
+"win32-sim"
+]
+}
+},
+"plugin.zeroconf": {
+"r": "v1",
+"v": {
+"2016.2842": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.zip": {
+"r": "v1",
+"v": {
+"2017.3037": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"shared.android.support.annotations": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android"
+]
+}
+},
+"shared.android.support.design": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android"
+]
+}
+},
+"shared.android.support.v4": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android"
+]
+}
+},
+"shared.android.support.v4.compat": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android"
+]
+}
+},
+"shared.android.support.v4.coreui": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android"
+]
+}
+},
+"shared.android.support.v4.coreutils": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android"
+]
+}
+},
+"shared.android.support.v4.fragment": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android"
+]
+}
+},
+"shared.android.support.v4.mediacompat": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android"
+]
+}
+},
+"shared.android.support.v7.appcompat": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android"
+]
+}
+},
+"shared.android.support.v7.cardview": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android"
+]
+}
+},
+"shared.android.support.v7.gridlayout": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android"
+]
+}
+},
+"shared.android.support.v7.recyclerview": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android"
+]
+}
+},
+"shared.android.support.vector.drawable": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android"
+]
+}
+},
+"shared.firebase.core": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"shared.firebase.messaging": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"shared.google.play.services.ads": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android",
+"android-kindle"
+]
+}
+},
+"shared.google.play.services.ads.identifier": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android",
+"android-kindle"
+]
+}
+},
+"shared.google.play.services.analytics": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android",
+"android-kindle"
+]
+}
+},
+"shared.google.play.services.awareness": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android",
+"android-kindle"
+]
+}
+},
+"shared.google.play.services.base": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android",
+"android-kindle"
+]
+}
+},
+"shared.google.play.services.drive": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android",
+"android-kindle"
+]
+}
+},
+"shared.google.play.services.games": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android",
+"android-kindle"
+]
+}
+},
+"shared.google.play.services.gcm": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android",
+"android-kindle"
+]
+}
+},
+"shared.google.play.services.location": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android",
+"android-kindle"
+]
+}
+}
+}
+},
+"solar2d": {
+"COM_INNOVATIVELEISURE": {
+"plugin.gamecircle": {
+"r": "v1",
+"v": {
+"2014.2296": [
+"android",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
+"com.amazon": {
+"plugin.amazon.iap": {
+"r": "v1",
+"v": {
+"2013.1137": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
+"com.gameanalytics": {
+"plugin.gameanalytics": {
+"r": "v1",
+"v": {
+"2013.1202": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.gameanalytics_v2": {
+"r": "v2",
+"v": {
+"2016.2949": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
+"com.gamesparks": {
+"plugin.gamesparks": {
+"r": "v1",
+"v": {
+"2017.3103": [
+"lua"
+]
+}
+}
+},
+"com.jasonschroeder": {
+"plugin.stripe": {
+"r": "v1",
+"v": {
+"2015.2642": [
+"lua"
+]
+}
+},
+"plugin.twitter": {
+"r": "v1",
+"v": {
+"2016.3011": [
+"lua"
+]
+}
+}
+},
+"com.onesignal": {
+"plugin.OneSignal": {
+"r": "v1",
+"v": {
+"2019.3510": [
+"android",
+"android-kindle",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
+"com.playfab": {
+"plugin.playfab.client": {
+"r": "v2",
+"v": {
+"2015.2642": [
+"lua"
+]
+}
+},
+"plugin.playfab.combo": {
+"r": "v2",
+"v": {
+"2015.2642": [
+"lua"
+]
+}
+},
+"plugin.playfab.server": {
+"r": "v2",
+"v": {
+"2015.2642": [
+"lua"
+]
+}
+}
+},
+"com.roaminggamer": {
+"plugin.patcher": {
+"r": "v1",
+"v": {
+"2017.3032": [
+"lua"
+]
+}
+},
+"plugin.texturePackerHelpers": {
+"r": "v1",
+"v": {
+"2017.3032": [
+"lua"
+]
+}
+}
+},
+"com.schroederapps": {
+"plugin.progressRing": {
+"r": "v1",
+"v": {
+"2017.3032": [
+"lua"
+]
+}
+}
+},
+"com.startapp": {
+"plugin.startapp": {
+"r": "v1",
+"v": {
+"2017.3135": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
+"com.vungle": {
+"CoronaProvider.ads.vungle": {
+"r": "v1",
+"v": {
+"2017.3081": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.vungle": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
+"com.xibalbastudios": {
+"plugin.Bytemap": {
+"r": "v1",
+"v": {
+"2016.2874": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.MemoryBlob": {
+"r": "v1",
+"v": {
+"2016.2830": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.impack": {
+"r": "v1",
+"v": {
+"2016.2830": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.luaproc": {
+"r": "v1",
+"v": {
+"2016.2872": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.mwc": {
+"r": "v1",
+"v": {
+"2015.2642": [
+"lua"
+]
+}
+},
+"plugin.pagecurl": {
+"r": "v1",
+"v": {
+"2015.2642": [
+"lua"
+]
+}
+},
+"plugin.quaternion": {
+"r": "v1",
+"v": {
+"2015.2642": [
+"lua"
+]
+}
+},
+"plugin.serialize": {
+"r": "v1",
+"v": {
+"2016.2830": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.stablearray": {
+"r": "v1",
+"v": {
+"2015.2642": [
+"lua"
+]
+}
+},
+"plugin.tinyfiledialogs": {
+"r": "v1",
+"v": {
+"2017.3068": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"tvos",
+"win32-sim"
+]
+}
+},
+"plugin.truetype": {
+"r": "v1",
+"v": {
+"2016.2830": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
+"com.yogergames": {
+"plugin.mixpanel": {
+"r": "v1",
+"v": {
+"2017.3033": [
+"lua"
+]
+}
+},
+"plugin.stathat": {
+"r": "v1",
+"v": {
+"2015.2642": [
+"lua"
+]
+}
+}
+},
+"me.kiip": {
+"plugin.kiip": {
+"r": "v1",
+"v": {
+"2016.2971": [
+"android",
+"iphone",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
+"net.shakebrowser": {
+"plugin.faceDetector": {
+"r": "v1",
+"v": {
+"2016.2949": [
+"iphone",
+"iphone-sim",
+"mac-sim"
+]
+}
+},
+"plugin.keyboardEvents": {
+"r": "v1",
+"v": {
+"2017.3135": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.kioskMode": {
+"r": "v1",
+"v": {
+"2016.2949": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.notifications.macos": {
+"r": "v1",
+"v": {
+"2017.3135": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
+"tech.scotth": {
+"plugin.airprint": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.androidFilePicker": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.androidPreview": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.applePay": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.bt": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.contacts": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.dataMax": {
+"r": "v1",
+"v": {
+"2016.3065": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.deploy": {
+"r": "v1",
+"v": {
+"2015.2642": [
+"lua"
+]
+}
+},
+"plugin.docPicker": {
+"r": "v1",
+"v": {
+"2016.3065": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.dreamlo": {
+"r": "v1",
+"v": {
+"2015.2642": [
+"lua"
+]
+}
+},
+"plugin.firebase": {
+"r": "v1",
+"v": {
+"2015.2642": [
+"lua"
+]
+}
+},
+"plugin.firebaseAnalytics": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.firebaseConfig": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.firebaseDatabase": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.firebaseInvites": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.firebaseStorage": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.gamecenter": {
+"r": "v2",
+"v": {
+"2014.2264": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.googleSignIn": {
+"r": "v1",
+"v": {
+"2019.3504": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.hcModule": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.imageCrop": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.macTrackpad": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.messengerShare": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.onePassword": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.passkit": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.pebble": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.physicsBodyEditor": {
+"r": "v1",
+"v": {
+"2015.2642": [
+"lua"
+]
+}
+},
+"plugin.proximitySensor": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.quickAction": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.reviewPopUp": {
+"r": "v1",
+"v": {
+"2016.3065": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.sceneKit": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.storeView": {
+"r": "v1",
+"v": {
+"2015.2731": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.tapticEngine": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.textbelt": {
+"r": "v1",
+"v": {
+"2015.2642": [
+"lua"
+]
+}
+},
+"plugin.videoEditor": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.videoShare": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.wallpaper": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.yelp": {
+"r": "v1",
+"v": {
+"2015.2642": [
+"lua"
+]
+}
+}
+},
+"tv.ouya": {
+"plugin.ouya": {
+"r": "v1",
+"v": {
+"2014.2393": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.ouya.xiaomi": {
+"r": "v1",
+"v": {
+"2014.2393": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
+"uk.co.happymongoose": {
+"plugin.iap_badger": {
+"r": "v1",
+"v": {
+"2015.2642": [
+"lua"
+]
+}
+}
+}
+}
+}
