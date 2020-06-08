@@ -91,11 +91,11 @@
       Copyright © 2020 Vlad Shcherban
     </div>
   </div>
-  <div id="popup">
-    <div id="popup_inner">
+  <div id="popup" onclick="closePopup()">
+    <div id="popup_inner" onclick="event.stopPropagation()">
       <div class="popup_body" id="popup_body">
       </div>
-      <button class="close_button"onClick="closePopup()">OK</button>
+      <button class="close_button" onClick="closePopup()">OK</button>
       <script>
         function closePopup() {
           let el = document.getElementById('popup');
