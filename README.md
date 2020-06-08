@@ -1,4 +1,4 @@
-# Solar2D Free Plugin Directory
+# [Solar2D Free Plugin Directory](https://plugins.solar2d.com/)
 
 This directory contains plugins available for Solar2D/CoronaSDK game engine.
 
