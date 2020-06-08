@@ -8,7 +8,7 @@ Plugins should be hosted on GitHub as released assets. Example of the plugin:
 
 ```json
 {
-    "ghAccount": "coronalabs",  // GitHub account plugin is hosted on
+    "ghAccount": "coronalabs",
     "latest": "v1",
     "plugin": "plugin.admob",
     "publisherId": "com.coronalabs",
