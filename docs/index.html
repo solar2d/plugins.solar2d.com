@@ -46,8 +46,8 @@
           <div class="lr">
             <h1>Free Plugins Directory</h1>
             <p>
-              <a class="button icon-github" href="https://github.com/coronalabs/corona" target="_blank"> GitHub</a>
-              <a class="button icon-facebook" href="https://coronadocs.com" target="_blank"> Documentaton</a>
+              <a class="button icon-github" href="https://github.com/solar2d/plugins.solar2d.com/" target="_blank"> Add Your Plugin</a>
+<!--              <a class="button icon-docs" href="https://coronadocs.com" target="_blank"> Documentaton</a>-->
               <a class="button icon-download" href="https://github.com/coronalabs/corona/releases" target="_blank"> Downloads</a>
               <a class="button support-btn icon-donate" href="#support"> Support</a>
             </p>
@@ -93,9 +93,9 @@
   </div>
   <div id="popup">
     <div id="popup_inner">
-      <div class="popup_body" style="height: 200px;" id="popup_body">
+      <div class="popup_body" id="popup_body">
       </div>
-      <button class="close_button"onClick="closePopup()">Ok.</button>
+      <button class="close_button"onClick="closePopup()">OK</button>
       <script>
         function closePopup() {
           let el = document.getElementById('popup');
@@ -135,8 +135,8 @@
     for (let [ghAcc, publishers] of Object.entries(pluginFile)) {
       for (let [publisher, plugins] of Object.entries(publishers)) {
         for (let [plugin, data] of Object.entries(plugins)) {
-          if(data.error) {
-            pluginArray.push({"plugin": plugin, "error": data.error})
+          if(data.e) {
+            pluginArray.push({"plugin": plugin, "publisher": publisher, "error": data.e})
           } else {
             pluginArray.push({"plugin": plugin, "publisher": publisher})
           }
@@ -161,28 +161,31 @@
       title.textContent = p.plugin
       e.appendChild(title)
       let description = document.createElement("p")
-      if(p.publisher) {
-        description.textContent = `publisherId: ${p.publisher}`
-      } else if(p.error) {
-        description.textContent = p.error
-        description.className += "error"
+      description.textContent = p.publisher
+      let popupHTML = `
+To add this plugin, use following code in build.settings
+<pre>
+<div style="background: #f8f8f8; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%">{
+    plugins <span style="color: #666666">=</span> \{
+        <span style="color: #BB4444">&quot;${p.plugin}&quot;</span> <span style="color: #666666">=</span> \{
+            publisherId <span style="color: #666666">=</span> <span style="color: #BB4444">&quot;${p.publisher}&quot;</span>,
+        },
+    },
+}
+</pre></div>
+</pre>
+`
+      if(p.error) {
+        let error = document.createElement("span")
+        error.textContent = " (external)"
+        error.className = "error"
+        description.appendChild(error)
+        popupHTML = p.error.replace(/\[(.+?)\]\((https?:\/\/.+?)\)/g, '<a target="_blank" href="$2">$1</a>');
       }
       e.appendChild(description)
       e.onclick = function() {
-        let popupText = `
-To add this plugin, use following code in build.settings
-<pre>
-  {
-      plugins = \{
-          "${p.plugin}" = \{
-              publisherId = "${p.publisher}",
-          },
-      },
-  }
-</pre>
-`
         let pbd = document.getElementById('popup_body')
-        pbd.innerHTML = popupText;
+        pbd.innerHTML = popupHTML;
         let el = document.getElementById('popup');
         el.style.display = 'block';
       }

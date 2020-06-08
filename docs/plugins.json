@@ -1,4 +1,11 @@
 {
+"-": {
+"tech.scotth": {
+"plugin.classKit": {
+"e": "Plugin is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?ClassKit_scotth-tech)."
+}
+}
+},
 "coronalabs": {
 "com.coronalabs": {
 "CoronaProvider.ads.iads": {

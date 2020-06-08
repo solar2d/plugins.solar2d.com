@@ -179,19 +179,23 @@ a {
   display: inline-block;
   vertical-align: top;
   box-sizing: border-box;
-  padding: 0 2em;
+  margin: 1em 1em;
+  border-radius: 0.5em;
+  border: solid 0.5px #999;
+  padding: 1em;
 }
 
 .point h3 {
   margin: 0;
-  padding: 1em 0 0 0;
-  font-size: 1.5em;
+  /* padding: 1em 0 0 0; */
+  font-size: 1.2em;
   color: #080443d6;
-  font-weight: 200;
+  font-weight: 250;
 }
 .point p {
-  margin-top: 0.5em;
-  padding-bottom: 0.3em;
+  margin-top: 0.4em;
+  padding-bottom: 0;
+  margin-bottom: 0;
 }
 
 .advantages {
@@ -252,7 +256,6 @@ a {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 500px;
   background-color: #fff;
   border: 1px solid #ddd;
   border-radius: 5px;
@@ -271,6 +274,22 @@ a {
   background: #00000033;
 }
 
-#close_button {
+.point .error {
+  color: red;
+}
 
+.close_button {
+  color: #fff;
+  background: #4fc08d;
+  padding: 10px 20px;
+  border-radius: 5px;
+  display: inline-block;
+  border: none;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+#popup_body {
+  margin: 1em;
 }
