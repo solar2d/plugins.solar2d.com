@@ -1,0 +1,11 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.GBCDataCabinet",
+    "publisherId": "com.gamesbycandlelight",
+    "supported": {
+        "2015.2642": [
+            "lua"
+        ]
+    }
+}
