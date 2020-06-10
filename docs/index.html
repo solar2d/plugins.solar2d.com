@@ -35,75 +35,75 @@
 
 </head>
 <body>
-  <div class="content">
-    <div id="header">
-      <div class="inner">
-        <div class="left">
-          <div class="lr">
-            <img src="images/logo-banner.png" height="145px" alt="Solar2D Logo"/>
-          </div>
-        </div><div class="right">
-          <div class="lr">
-            <h1>Free Plugins Directory</h1>
-            <p>
-              <a class="button icon-github" href="https://github.com/solar2d/plugins.solar2d.com/" target="_blank"> Add Your Plugin</a>
-<!--              <a class="button icon-docs" href="https://coronadocs.com" target="_blank"> Documentaton</a>-->
-              <a class="button icon-download" href="https://github.com/coronalabs/corona/releases" target="_blank"> Downloads</a>
-              <a class="button support-btn icon-donate" href="#support"> Support</a>
-            </p>
-          </div>
+<div class="content">
+  <div id="header">
+    <div class="inner">
+      <div class="left">
+        <div class="lr">
+          <img src="images/logo-banner.png" height="145px" alt="Solar2D Logo"/>
         </div>
-<!--        <h2>-->
-<!--          This is directory of plugins freely available for Solar2D Game Engine<br/>-->
-<!--        </h2>-->
-<!--        <p class="description">-->
-<!--          To add plugins here, create an issue here <a href="https://github.com/solar2d/plugins.solar2d.com/issues">here</a>.-->
-<!--        </p>-->
+      </div><div class="right">
+      <div class="lr">
+        <h1>Free Plugins Directory</h1>
+        <p>
+          <a class="button icon-github" href="https://github.com/solar2d/plugins.solar2d.com/" target="_blank"> Add Your Plugin</a>
+          <!--              <a class="button icon-docs" href="https://coronadocs.com" target="_blank"> Documentaton</a>-->
+          <a class="button icon-download" href="https://github.com/coronalabs/corona/releases" target="_blank"> Downloads</a>
+          <a class="button support-btn icon-donate" href="#support"> Support</a>
+        </p>
       </div>
     </div>
-    <div class="advantages">
-      <div class="inner" id="pluginsContainer">
-        <label for="filterInput"></label><input type="text" id="filterInput" onkeyup="filterResults()" placeholder="Search for names..">
+      <!--        <h2>-->
+      <!--          This is directory of plugins freely available for Solar2D Game Engine<br/>-->
+      <!--        </h2>-->
+      <!--        <p class="description">-->
+      <!--          To add plugins here, create an issue here <a href="https://github.com/solar2d/plugins.solar2d.com/issues">here</a>.-->
+      <!--        </p>-->
+    </div>
+  </div>
+  <div class="advantages">
+    <div class="inner" id="pluginsContainer">
+      <label for="filterInput"></label><input type="text" id="filterInput" onkeyup="filterResults()" placeholder="Search for names..">
 
-        <div class="point">
-          <h3>Loading...</h3>
-          <p>...</p>
-        </div>
+      <div class="point">
+        <h3>Loading...</h3>
+        <p>...</p>
+      </div>
 
-      </div>
-    </div>
-    <div class="support">
-      <a id="support"></a>
-      <div class="inner">
-        <h2>Support the Project</h2>
-        <p>Solar2D development is sponsored by its users. Support the project on <a href="https://github.com/sponsors/shchvova" target="_blank">GitHub Sponsors</a> or <a href="https://patreon.com/shchvova" target="_blank">Patreon</a>.</p>
-      </div>
     </div>
   </div>
-  <div class="footer">
-    <div class="links">
-      <a class="icon-facebook" href="https://fb.com/solar2d" target="_blank"></a>
-      <a class="icon-patreon" href="https://patreon.com/shchvova" target="_blank"></a>
-      <a class="icon-github" href="https://github.com/coronalabs/corona" target="_blank"></a>
-    </div>
-    <div class="copyright">
-      Released under the <a href="/LICENSE.md" target="_blank">MIT license</a><br/>
-      Copyright © 2020 Vlad Shcherban
+  <div class="support">
+    <a id="support"></a>
+    <div class="inner">
+      <h2>Support the Project</h2>
+      <p>Solar2D development is sponsored by its users. Support the project on <a href="https://github.com/sponsors/shchvova" target="_blank">GitHub Sponsors</a> or <a href="https://patreon.com/shchvova" target="_blank">Patreon</a>.</p>
     </div>
   </div>
-  <div id="popup" onclick="closePopup()">
-    <div id="popup_inner" onclick="event.stopPropagation()">
-      <div class="popup_body" id="popup_body">
-      </div>
-      <button class="close_button" onClick="closePopup()">OK</button>
-      <script>
-        function closePopup() {
-          let el = document.getElementById('popup');
-          el.style.display = 'none';
-        }
-      </script>
-    </div>
+</div>
+<div class="footer">
+  <div class="links">
+    <a class="icon-facebook" href="https://fb.com/solar2d" target="_blank"></a>
+    <a class="icon-patreon" href="https://patreon.com/shchvova" target="_blank"></a>
+    <a class="icon-github" href="https://github.com/coronalabs/corona" target="_blank"></a>
   </div>
+  <div class="copyright">
+    Released under the <a href="/LICENSE.md" target="_blank">MIT license</a><br/>
+    Copyright © 2020 Vlad Shcherban
+  </div>
+</div>
+<div id="popup" onclick="closePopup()">
+  <div id="popup_inner" onclick="event.stopPropagation()">
+    <div class="popup_body" id="popup_body">
+    </div>
+    <button class="close_button" onClick="closePopup()">OK</button>
+    <script>
+      function closePopup() {
+        let el = document.getElementById('popup');
+        el.style.display = 'none';
+      }
+    </script>
+  </div>
+</div>
 </body>
 </html>
 
