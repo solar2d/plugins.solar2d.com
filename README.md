@@ -4,7 +4,7 @@ This directory contains plugins available for Solar2D/CoronaSDK game engine.
 
 ## Migration from the old store
 
-This migration can be done easily and automatically by Vlad. If you have a plugin I think the Corona Markety, create an issue to migrate it (make sure you want your plugin to be distributed free of charge).
+This migration can be done easily and automatically by Vlad. If you are a developer of a plugin in the Corona Marketplace, create an issue in this repo with a request to migrate it.
 
 ## Structure
 
