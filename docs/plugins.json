@@ -1760,6 +1760,72 @@
 }
 }
 },
+"com.develephant": {
+"plugin.chatterbox": {
+"r": "v1",
+"v": {
+"2017.3032": [
+"lua"
+]
+}
+},
+"plugin.classy": {
+"r": "v1",
+"v": {
+"2017.3032": [
+"lua"
+]
+}
+},
+"plugin.coronium-core": {
+"r": "v1",
+"v": {
+"2017.3032": [
+"lua"
+]
+}
+},
+"plugin.mailgun-sender": {
+"r": "v1",
+"v": {
+"2017.3032": [
+"lua"
+]
+}
+},
+"plugin.s3-lite": {
+"r": "v1",
+"v": {
+"2017.3032": [
+"lua"
+]
+}
+},
+"plugin.scorekeeper": {
+"r": "v1",
+"v": {
+"2017.3032": [
+"lua"
+]
+}
+},
+"plugin.skytable": {
+"r": "v1",
+"v": {
+"2017.3032": [
+"lua"
+]
+}
+},
+"plugin.uuid": {
+"r": "v1",
+"v": {
+"2017.3032": [
+"lua"
+]
+}
+}
+},
 "com.gameanalytics": {
 "plugin.gameanalytics": {
 "r": "v1",
