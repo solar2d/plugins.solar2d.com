@@ -1824,6 +1824,14 @@
 "lua"
 ]
 }
+},
+"plugin.websockets": {
+"r": "v1",
+"v": {
+"2017.3032": [
+"lua"
+]
+}
 }
 },
 "com.gameanalytics": {
@@ -1848,6 +1856,24 @@
 "iphone-sim",
 "mac-sim",
 "win32-sim"
+]
+}
+}
+},
+"com.gamesbycandlelight": {
+"plugin.GBCDataCabinet": {
+"r": "v1",
+"v": {
+"2015.2642": [
+"lua"
+]
+}
+},
+"plugin.GBCLanguageCabinet": {
+"r": "v1",
+"v": {
+"2015.2642": [
+"lua"
 ]
 }
 }
