@@ -2,6 +2,12 @@
 
 This directory contains plugins available for Solar2D/CoronaSDK game engine.
 
+## Migration from the old store
+
+This migration can be done easily and automatically by Vlad. If you have a plugin I think the Corona Markety, create an issue to migrate it (make sure you want your plugin to be distributed free of charge).
+
+## Structure
+
 Individual plugin descriptions lives in `plugins/` directory.
 
 Plugins should be hosted on GitHub as released assets. Example of the plugin:
