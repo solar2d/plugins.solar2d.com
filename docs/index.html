@@ -29,7 +29,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="https://solar2d.com/images/icon-32x32.png">
   <link rel="icon" type="image/png" sizes="96x96" href="https://solar2d.com/images/icon-96x96.png">
   <link rel="icon" type="image/png" sizes="16x16" href="https://solar2d.com/images/icon-16x16.png">
-  <link rel="icon" href="/images/logo.png" type="image/png">
+  <link rel="icon" href="images/logo.png" type="image/png">
 
   <link rel="stylesheet" href="styles.css">
 
@@ -62,8 +62,12 @@
     </div>
   </div>
   <div class="advantages">
+    <form>
+      <label for="filterInput"></label>
+      <input type="text" id="filterInput" onkeyup="filterResults()" placeholder="Search for names.." name="search">
+    </form>
+
     <div class="inner" id="pluginsContainer">
-      <label for="filterInput"></label><input type="text" id="filterInput" onkeyup="filterResults()" placeholder="Search for names..">
 
       <div class="point">
         <h3>Loading...</h3>
@@ -87,7 +91,7 @@
     <a class="icon-github" href="https://github.com/coronalabs/corona" target="_blank"></a>
   </div>
   <div class="copyright">
-    Released under the <a href="/LICENSE.md" target="_blank">MIT license</a><br/>
+    Released under the <a href="LICENSE.md" target="_blank">MIT license</a><br/>
     Copyright © 2020 Vlad Shcherban
   </div>
 </div>
@@ -109,8 +113,9 @@
 
 <script>
   let pluginArray = [];
+  const input = document.getElementById('filterInput');
+
   function filterResults() {
-    let input = document.getElementById('filterInput');
     let filter = input.value.toLowerCase();
     let container = document.getElementById("pluginsContainer")
     let entries = container.getElementsByTagName('div');
@@ -149,9 +154,7 @@
     let container = document.getElementById("pluginsContainer")
 
     for (let child of container.children) {
-      if(child.id !== "filterInput") {
         child.remove()
-      }
     }
 
     for (let p of pluginArray) {
@@ -192,7 +195,6 @@ To add this plugin, use following code in build.settings
       container.appendChild(e)
     }
 
-    let input = document.getElementById('filterInput');
     input.placeholder = `Filter ${pluginArray.length} plugins...`
 
     const urlParams = new URLSearchParams(window.location.search);
