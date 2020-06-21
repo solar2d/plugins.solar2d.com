@@ -832,9 +832,17 @@
 }
 },
 "plugin.batteryState": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2017.3037": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"web",
+"win32-sim"
+],
+"2020.3590": [
 "android",
 "iphone",
 "iphone-sim",
@@ -845,9 +853,20 @@
 }
 },
 "plugin.bit": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2013.2584": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"linux",
+"mac-sim",
+"web",
+"win32-sim"
+],
+"2020.3590": [
 "android",
 "appletvos",
 "appletvsimulator",
@@ -1219,9 +1238,18 @@
 }
 },
 "plugin.memoryBitmap": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2016.2856": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+],
+"2020.3590": [
 "android",
 "appletvos",
 "appletvsimulator",
@@ -1233,9 +1261,18 @@
 }
 },
 "plugin.nanosvg": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2016.2856": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+],
+"2020.3590": [
 "android",
 "appletvos",
 "appletvsimulator",
@@ -1381,9 +1418,13 @@
 }
 },
 "plugin.steamworks": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2016.2872": [
+"mac-sim",
+"win32-sim"
+],
+"2020.3590": [
 "mac-sim",
 "win32-sim"
 ]
@@ -1462,9 +1503,19 @@
 }
 },
 "plugin.utf8": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2015.2731": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"web",
+"win32-sim"
+],
+"2020.3590": [
 "android",
 "appletvos",
 "appletvsimulator",
