@@ -1513,9 +1513,18 @@
 }
 },
 "plugin.zip": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2017.3037": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+],
+"2020.3590": [
 "android",
 "appletvos",
 "appletvsimulator",
