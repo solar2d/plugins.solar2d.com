@@ -537,7 +537,7 @@
 }
 },
 "plugin.appodeal.beta.AdColony": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -547,7 +547,7 @@
 }
 },
 "plugin.appodeal.beta.AmazonAds": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -557,7 +557,7 @@
 }
 },
 "plugin.appodeal.beta.AppLovin": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -577,7 +577,7 @@
 }
 },
 "plugin.appodeal.beta.Chartboost": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -587,7 +587,7 @@
 }
 },
 "plugin.appodeal.beta.FacebookAudience": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -597,7 +597,7 @@
 }
 },
 "plugin.appodeal.beta.Flurry": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -607,7 +607,7 @@
 }
 },
 "plugin.appodeal.beta.GoogleAdMob": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -617,7 +617,7 @@
 }
 },
 "plugin.appodeal.beta.InMobi": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -627,7 +627,7 @@
 }
 },
 "plugin.appodeal.beta.InnerActive": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -637,7 +637,7 @@
 }
 },
 "plugin.appodeal.beta.IronSource": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -657,7 +657,7 @@
 }
 },
 "plugin.appodeal.beta.Mobvista": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -667,7 +667,7 @@
 }
 },
 "plugin.appodeal.beta.MyTarget": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -677,7 +677,7 @@
 }
 },
 "plugin.appodeal.beta.Ogury": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -687,7 +687,7 @@
 }
 },
 "plugin.appodeal.beta.OpenX": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -707,7 +707,7 @@
 }
 },
 "plugin.appodeal.beta.Smaato": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -717,7 +717,7 @@
 }
 },
 "plugin.appodeal.beta.StartApp": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -727,7 +727,7 @@
 }
 },
 "plugin.appodeal.beta.Tapjoy": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -737,7 +737,7 @@
 }
 },
 "plugin.appodeal.beta.TwitterMoPub": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -747,7 +747,7 @@
 }
 },
 "plugin.appodeal.beta.Unity": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -757,7 +757,7 @@
 }
 },
 "plugin.appodeal.beta.Vungle": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -767,7 +767,7 @@
 }
 },
 "plugin.appodeal.beta.Yandex": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -777,7 +777,7 @@
 }
 },
 "plugin.appodeal.beta.base": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -789,7 +789,7 @@
 }
 },
 "plugin.appsflyer": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2018.3326": [
 "android",
@@ -936,7 +936,7 @@
 }
 },
 "plugin.facebook.v4a": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -960,7 +960,7 @@
 }
 },
 "plugin.fbAudienceNetwork": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -972,7 +972,7 @@
 }
 },
 "plugin.fbAudienceNetwork.paid": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
 "android",
@@ -1908,7 +1908,7 @@
 }
 },
 "plugin.gameanalytics_v2": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2016.2949": [
 "android",
@@ -1983,7 +1983,7 @@
 },
 "com.playfab": {
 "plugin.playfab.client": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2015.2642": [
 "lua"
@@ -1991,7 +1991,7 @@
 }
 },
 "plugin.playfab.combo": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2015.2642": [
 "lua"
@@ -1999,7 +1999,7 @@
 }
 },
 "plugin.playfab.server": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2015.2642": [
 "lua"
