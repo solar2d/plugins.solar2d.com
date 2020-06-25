@@ -1,6 +1,6 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v1",
+    "latest": "v2",
     "plugin": "plugin.appodeal.beta.Flurry",
     "publisherId": "com.coronalabs",
     "supported": {
