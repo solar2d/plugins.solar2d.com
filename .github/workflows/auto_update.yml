@@ -1,7 +1,6 @@
 on:
-  issues:
-    types:
-      - opened
+  repository_dispatch:
+    types: [repo_updated]
 
 jobs:
   update-issue-manifest:
@@ -9,27 +8,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          submodules: true
       - name: Checkout the plugin repo
         uses: actions/checkout@v2
         with:
-          repository: ${{ github.event.issue.body }}
+          repository: ${{ github.event.client_payload.repo }}
           fetch-depth: 0
           path: current-plugin
       - name: Process plugin
-        run: ./update-cloned-plugin.py "${{ github.event.issue.body }}"
+        run: ./update-cloned-plugin.py "${{ github.event.client_payload.repo }}"
+      - run: ./generate.sh
       - name: Commit changes
         uses: EndBug/add-and-commit@v4
         with:
-          message: "Auto-updating ${{ github.event.issue.body }}"
-          add: "plugins"
+          message: "Auto-updating ${{ github.event.client_payload.repo }}"
+          add: "plugins docs"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Close the issue
-        run: |
-          curl --request PATCH \
-          --url ${{ github.event.issue.url }} \
-          --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
-          --header 'content-type: application/json' \
-          --data '{
-            "state": "closed"
-          }'
