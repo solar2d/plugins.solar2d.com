@@ -1,0 +1,18 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v2",
+    "plugin": "plugin.solarwebsockets",
+    "publisherId": "io.joehinkle",
+    "supported": {
+        "2020.3600": [
+            "android",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "tvos",
+            "tvos-sim",
+            "web",
+            "win32-sim"
+        ]
+    }
+}
