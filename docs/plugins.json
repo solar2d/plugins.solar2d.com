@@ -2216,6 +2216,23 @@
 }
 }
 },
+"io.joehinkle": {
+"plugin.solarwebsockets": {
+"r": "v2",
+"v": {
+"2020.3600": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"tvos",
+"tvos-sim",
+"web",
+"win32-sim"
+]
+}
+}
+},
 "me.kiip": {
 "plugin.kiip": {
 "r": "v1",
