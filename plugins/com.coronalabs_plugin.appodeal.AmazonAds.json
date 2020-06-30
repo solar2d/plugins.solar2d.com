@@ -1,10 +1,15 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v1",
+    "latest": "v2",
     "plugin": "plugin.appodeal.AmazonAds",
     "publisherId": "com.coronalabs",
     "supported": {
         "2018.3326": [
+            "android",
+            "iphone",
+            "iphone-sim"
+        ],
+        "2020.3569": [
             "android",
             "iphone",
             "iphone-sim"
