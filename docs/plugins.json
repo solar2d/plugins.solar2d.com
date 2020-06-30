@@ -364,9 +364,14 @@
 }
 },
 "plugin.appodeal.GoogleAdMob": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+],
+"2020.3569": [
 "android",
 "iphone",
 "iphone-sim"
