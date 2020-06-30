@@ -284,9 +284,14 @@
 }
 },
 "plugin.appodeal.AdColony": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+],
+"2020.3569": [
 "android",
 "iphone",
 "iphone-sim"
@@ -294,9 +299,14 @@
 }
 },
 "plugin.appodeal.AmazonAds": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+],
+"2020.3569": [
 "android",
 "iphone",
 "iphone-sim"
@@ -319,8 +329,13 @@
 }
 },
 "plugin.appodeal.Appnext": {
-"r": "v1",
+"r": "v2",
 "v": {
+"2017.3184": [
+"android",
+"iphone",
+"iphone-sim"
+],
 "2018.3326": [
 "android",
 "iphone",
@@ -344,9 +359,14 @@
 }
 },
 "plugin.appodeal.FacebookAudience": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+],
+"2020.3569": [
 "android",
 "iphone",
 "iphone-sim"
@@ -354,9 +374,14 @@
 }
 },
 "plugin.appodeal.Flurry": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+],
+"2020.3569": [
 "android",
 "iphone",
 "iphone-sim"
@@ -379,9 +404,14 @@
 }
 },
 "plugin.appodeal.InMobi": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+],
+"2020.3569": [
 "android",
 "iphone",
 "iphone-sim"
@@ -389,9 +419,14 @@
 }
 },
 "plugin.appodeal.InnerActive": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+],
+"2020.3569": [
 "android",
 "iphone",
 "iphone-sim"
@@ -399,9 +434,14 @@
 }
 },
 "plugin.appodeal.IronSource": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+],
+"2020.3569": [
 "android",
 "iphone",
 "iphone-sim"
@@ -409,8 +449,13 @@
 }
 },
 "plugin.appodeal.MillenialMedia": {
-"r": "v1",
+"r": "v2",
 "v": {
+"2017.3184": [
+"android",
+"iphone",
+"iphone-sim"
+],
 "2018.3326": [
 "android",
 "iphone",
@@ -419,9 +464,14 @@
 }
 },
 "plugin.appodeal.Mobvista": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+],
+"2020.3569": [
 "android",
 "iphone",
 "iphone-sim"
@@ -429,9 +479,14 @@
 }
 },
 "plugin.appodeal.MyTarget": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+],
+"2020.3569": [
 "android",
 "iphone",
 "iphone-sim"
@@ -439,9 +494,14 @@
 }
 },
 "plugin.appodeal.Ogury": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+],
+"2020.3569": [
 "android",
 "iphone",
 "iphone-sim"
@@ -449,9 +509,14 @@
 }
 },
 "plugin.appodeal.OpenX": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+],
+"2020.3569": [
 "android",
 "iphone",
 "iphone-sim"
@@ -459,9 +524,14 @@
 }
 },
 "plugin.appodeal.Pubnative": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+],
+"2020.3569": [
 "android",
 "iphone",
 "iphone-sim"
@@ -469,9 +539,14 @@
 }
 },
 "plugin.appodeal.Smaato": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+],
+"2020.3569": [
 "android",
 "iphone",
 "iphone-sim"
@@ -479,9 +554,14 @@
 }
 },
 "plugin.appodeal.StartApp": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+],
+"2020.3569": [
 "android",
 "iphone",
 "iphone-sim"
@@ -489,9 +569,14 @@
 }
 },
 "plugin.appodeal.Tapjoy": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+],
+"2020.3569": [
 "android",
 "iphone",
 "iphone-sim"
@@ -514,9 +599,14 @@
 }
 },
 "plugin.appodeal.Unity": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+],
+"2020.3569": [
 "android",
 "iphone",
 "iphone-sim"
@@ -524,9 +614,14 @@
 }
 },
 "plugin.appodeal.Vungle": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+],
+"2020.3569": [
 "android",
 "iphone",
 "iphone-sim"
@@ -549,11 +644,18 @@
 }
 },
 "plugin.appodeal.base": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2018.3326": [
 "android",
 "android-kindle",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+],
+"2020.3569": [
+"android",
 "iphone",
 "iphone-sim",
 "mac-sim",
@@ -582,7 +684,7 @@
 }
 },
 "plugin.appodeal.beta.AppLovin": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2020.3569": [
 "android",
@@ -732,7 +834,7 @@
 }
 },
 "plugin.appodeal.beta.Smaato": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2020.3569": [
 "android",
@@ -762,7 +864,7 @@
 }
 },
 "plugin.appodeal.beta.TwitterMoPub": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2020.3569": [
 "android",
@@ -814,7 +916,7 @@
 }
 },
 "plugin.appsflyer": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2018.3326": [
 "android",
@@ -961,7 +1063,7 @@
 }
 },
 "plugin.facebook.v4a": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2020.3569": [
 "android",
@@ -985,7 +1087,7 @@
 }
 },
 "plugin.fbAudienceNetwork": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2020.3569": [
 "android",
@@ -997,7 +1099,7 @@
 }
 },
 "plugin.fbAudienceNetwork.paid": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2020.3569": [
 "android",
