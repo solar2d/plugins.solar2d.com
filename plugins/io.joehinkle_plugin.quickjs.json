@@ -1,0 +1,12 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.quickjs",
+    "publisherId": "io.joehinkle",
+    "supported": {
+        "2020.3600": [
+            "lua",
+            "web"
+        ]
+    }
+}

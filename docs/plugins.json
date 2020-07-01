@@ -2344,6 +2344,15 @@
 }
 },
 "io.joehinkle": {
+"plugin.quickjs": {
+"r": "v1",
+"v": {
+"2020.3600": [
+"lua",
+"web"
+]
+}
+},
 "plugin.solarwebsockets": {
 "r": "v4",
 "v": {
