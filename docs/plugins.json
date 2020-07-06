@@ -2344,6 +2344,14 @@
 }
 },
 "io.joehinkle": {
+"plugin.embeddablescrollview": {
+"r": "v1",
+"v": {
+"2017.3032": [
+"lua"
+]
+}
+},
 "plugin.etransition": {
 "r": "v1",
 "v": {
