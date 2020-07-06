@@ -2345,7 +2345,7 @@
 },
 "io.joehinkle": {
 "plugin.embeddablescrollview": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2017.3032": [
 "lua"
