@@ -2739,6 +2739,18 @@
 ]
 }
 },
+"plugin.orientation": {
+"r": "v1",
+"v": {
+"2014.2264": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.passkit": {
 "r": "v1",
 "v": {
