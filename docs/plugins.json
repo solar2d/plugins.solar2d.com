@@ -2349,6 +2349,20 @@
 }
 }
 },
+"es.cnksoft": {
+"plugin.cnkFileManager": {
+"r": "v1",
+"v": {
+"2017.3117": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
 "io.joehinkle": {
 "plugin.embeddablescrollview": {
 "r": "v3",
