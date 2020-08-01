@@ -137,9 +137,16 @@
 }
 },
 "plugin.admob": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3569": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+],
+"2020.3607": [
 "android",
 "iphone",
 "iphone-sim",
@@ -1720,113 +1727,157 @@
 }
 },
 "shared.android.support.annotations": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android"
+],
+"2020.3607": [
 "android"
 ]
 }
 },
 "shared.android.support.design": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android"
+],
+"2020.3607": [
 "android"
 ]
 }
 },
 "shared.android.support.v4": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android"
+],
+"2020.3607": [
 "android"
 ]
 }
 },
 "shared.android.support.v4.compat": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android"
+],
+"2020.3607": [
 "android"
 ]
 }
 },
 "shared.android.support.v4.coreui": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android"
+],
+"2020.3607": [
 "android"
 ]
 }
 },
 "shared.android.support.v4.coreutils": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android"
+],
+"2020.3607": [
 "android"
 ]
 }
 },
 "shared.android.support.v4.fragment": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android"
+],
+"2020.3607": [
 "android"
 ]
 }
 },
 "shared.android.support.v4.mediacompat": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android"
+],
+"2020.3607": [
 "android"
 ]
 }
 },
 "shared.android.support.v7.appcompat": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android"
+],
+"2020.3607": [
 "android"
 ]
 }
 },
 "shared.android.support.v7.cardview": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android"
+],
+"2020.3607": [
 "android"
 ]
 }
 },
 "shared.android.support.v7.gridlayout": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android"
+],
+"2020.3607": [
 "android"
 ]
 }
 },
 "shared.android.support.v7.recyclerview": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android"
+],
+"2020.3607": [
 "android"
 ]
 }
 },
 "shared.android.support.vector.drawable": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android"
+],
+"2020.3607": [
 "android"
 ]
 }
 },
 "shared.firebase.core": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android",
+"iphone",
+"iphone-sim"
+],
+"2020.3607": [
 "android",
 "iphone",
 "iphone-sim"
@@ -1834,9 +1885,14 @@
 }
 },
 "shared.firebase.messaging": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android",
+"iphone",
+"iphone-sim"
+],
+"2020.3607": [
 "android",
 "iphone",
 "iphone-sim"
@@ -1844,81 +1900,117 @@
 }
 },
 "shared.google.play.services.ads": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android",
+"android-kindle"
+],
+"2020.3607": [
 "android",
 "android-kindle"
 ]
 }
 },
 "shared.google.play.services.ads.identifier": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android",
+"android-kindle"
+],
+"2020.3607": [
 "android",
 "android-kindle"
 ]
 }
 },
 "shared.google.play.services.analytics": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android",
+"android-kindle"
+],
+"2020.3607": [
 "android",
 "android-kindle"
 ]
 }
 },
 "shared.google.play.services.awareness": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android",
+"android-kindle"
+],
+"2020.3607": [
 "android",
 "android-kindle"
 ]
 }
 },
 "shared.google.play.services.base": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android",
+"android-kindle"
+],
+"2020.3607": [
 "android",
 "android-kindle"
 ]
 }
 },
 "shared.google.play.services.drive": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android",
+"android-kindle"
+],
+"2020.3607": [
 "android",
 "android-kindle"
 ]
 }
 },
 "shared.google.play.services.games": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android",
+"android-kindle"
+],
+"2020.3607": [
 "android",
 "android-kindle"
 ]
 }
 },
 "shared.google.play.services.gcm": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android",
+"android-kindle"
+],
+"2020.3607": [
 "android",
 "android-kindle"
 ]
 }
 },
 "shared.google.play.services.location": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android",
+"android-kindle"
+],
+"2020.3607": [
 "android",
 "android-kindle"
 ]
