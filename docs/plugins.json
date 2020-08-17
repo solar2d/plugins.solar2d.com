@@ -2268,6 +2268,22 @@
 }
 }
 },
+"com.solar2d": {
+"plugin.pack": {
+"r": "v1",
+"v": {
+"2020.3590": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
 "com.startapp": {
 "plugin.startapp": {
 "r": "v1",
