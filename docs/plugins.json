@@ -2266,6 +2266,14 @@
 "lua"
 ]
 }
+},
+"plugin.screenMelt": {
+"r": "v1",
+"v": {
+"2017.3032": [
+"lua"
+]
+}
 }
 },
 "com.solar2d": {

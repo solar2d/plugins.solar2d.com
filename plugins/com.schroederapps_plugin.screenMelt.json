@@ -1,0 +1,11 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.screenMelt",
+    "publisherId": "com.schroederapps",
+    "supported": {
+        "2017.3032": [
+            "lua"
+        ]
+    }
+}
