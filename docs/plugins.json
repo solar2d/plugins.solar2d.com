@@ -2031,6 +2031,20 @@
 }
 }
 },
+"com.adbuddiz": {
+"plugin.adbuddiz": {
+"r": "v1",
+"v": {
+"2015.2539": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
 "com.amazon": {
 "plugin.amazon.iap": {
 "r": "v1",
