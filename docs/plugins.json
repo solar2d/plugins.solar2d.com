@@ -2409,6 +2409,19 @@
 ]
 }
 },
+"plugin.msquares": {
+"r": "v1",
+"v": {
+"2017.3184": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.mwc": {
 "r": "v1",
 "v": {
