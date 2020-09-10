@@ -2187,6 +2187,20 @@
 }
 }
 },
+"com.gremlininteractive": {
+"plugin.kiip": {
+"r": "v1",
+"v": {
+"2013.2182": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
 "com.jasonschroeder": {
 "plugin.stripe": {
 "r": "v1",
@@ -2255,6 +2269,14 @@
 }
 },
 "com.roaminggamer": {
+"plugin.cc": {
+"r": "v1",
+"v": {
+"2015.2642": [
+"lua"
+]
+}
+},
 "plugin.math2d": {
 "r": "v1",
 "v": {
@@ -2413,6 +2435,19 @@
 "r": "v1",
 "v": {
 "2016.2830": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.libtess2": {
+"r": "v1",
+"v": {
+"2017.3184": [
 "android",
 "appletvos",
 "iphone",
