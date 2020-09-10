@@ -2255,6 +2255,18 @@
 }
 },
 "com.roaminggamer": {
+"plugin.math2d": {
+"r": "v1",
+"v": {
+"2016.2949": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.patcher": {
 "r": "v1",
 "v": {

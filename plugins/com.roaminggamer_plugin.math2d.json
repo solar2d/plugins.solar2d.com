@@ -1,0 +1,15 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.math2d",
+    "publisherId": "com.roaminggamer",
+    "supported": {
+        "2016.2949": [
+            "android",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}
