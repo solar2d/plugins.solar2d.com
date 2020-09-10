@@ -1,0 +1,16 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.libtess2",
+    "publisherId": "com.xibalbastudios",
+    "supported": {
+        "2017.3184": [
+            "android",
+            "appletvos",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}
