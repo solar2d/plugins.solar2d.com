@@ -2331,6 +2331,19 @@
 }
 },
 "com.xibalbastudios": {
+"plugin.AssetReader": {
+"r": "v1",
+"v": {
+"2017.3184": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.Bytemap": {
 "r": "v1",
 "v": {
