@@ -2495,6 +2495,14 @@
 }
 },
 "com.yogergames": {
+"plugin.logger": {
+"r": "v1",
+"v": {
+"2015.2642": [
+"lua"
+]
+}
+},
 "plugin.mixpanel": {
 "r": "v1",
 "v": {
