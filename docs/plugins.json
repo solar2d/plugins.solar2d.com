@@ -1,5 +1,40 @@
 {
 "-": {
+"com.spiralcodestudio": {
+"plugin.bluetooth": {
+"e": "The plugin.bluetooth is not provided by Solar2D Free directory. Get access by becoming a supporter of Sergey Lerg, see [Spiral Code Studio - Bluetooth Documentation](https://docs.spiralcodestudio.com/plugin/bluetooth/)."
+},
+"plugin.chrometabs": {
+"e": "The plugin.chrometabs is not provided by Solar2D Free directory. Get access by becoming a supporter of Sergey Lerg, see [Spiral Code Studio - Chrometabs Documentation](https://docs.spiralcodestudio.com/plugin/chrometabs/)."
+},
+"plugin.flashlight": {
+"e": "The plugin.flashlight is not provided by Solar2D Free directory. Get access by becoming a supporter of Sergey Lerg, see [Spiral Code Studio - Flashlight Documentation](https://docs.spiralcodestudio.com/plugin/flashlight/)."
+},
+"plugin.mousecursor": {
+"e": "The plugin.mousecursor is not provided by Solar2D Free directory. Get access by becoming a supporter of Sergey Lerg, see [Spiral Code Studio - Mousecursor Documentation](https://docs.spiralcodestudio.com/plugin/mousecursor/)."
+},
+"plugin.nfc": {
+"e": "The plugin.nfc is not provided by Solar2D Free directory. Get access by becoming a supporter of Sergey Lerg, see [Spiral Code Studio - NFC Documentation](https://docs.spiralcodestudio.com/plugin/nfc/)."
+},
+"plugin.qrscanner": {
+"e": "The plugin.qrscanner is not provided by Solar2D Free directory. Get access by becoming a supporter of Sergey Lerg, see [Spiral Code Studio - QR Scanner Documentation](https://docs.spiralcodestudio.com/plugin/qrscanner/)."
+},
+"plugin.spiralcode.facebook": {
+"e": "The plugin.spiralcode.facebook is not provided by Solar2D Free directory. Get access by becoming a supporter of Sergey Lerg, see [Spiral Code Studio - Facebook Documentation](https://docs.spiralcodestudio.com/plugin/facebook/)."
+},
+"plugin.texttospeech": {
+"e": "The plugin.texttospeech is not provided by Solar2D Free directory. Get access by becoming a supporter of Sergey Lerg, see [Spiral Code Studio - TextToSpeech Documentation](https://docs.spiralcodestudio.com/plugin/texttospeech/)."
+},
+"plugin.toast": {
+"e": "The plugin.toast is not provided by Solar2D Free directory. Get access by becoming a supporter of Sergey Lerg, see [Spiral Code Studio - Toast Documentation](https://docs.spiralcodestudio.com/plugin/toast/)."
+},
+"plugin.vibrator": {
+"e": "The plugin.vibrator is not provided by Solar2D Free directory. Get access by becoming a supporter of Sergey Lerg, see [Spiral Code Studio - Vibrator Documentation](https://docs.spiralcodestudio.com/plugin/vibrator/)."
+},
+"plugin.vk": {
+"e": "The plugin.vk is not provided by Solar2D Free directory. Get access by becoming a supporter of Sergey Lerg, see [Spiral Code Studio - VK Documentation](https://docs.spiralcodestudio.com/plugin/vk/)."
+}
+},
 "tech.scotth": {
 "plugin.classKit": {
 "e": "The plugin.classKit is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?ClassKit_tech-scotth)."
