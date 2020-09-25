@@ -141,9 +141,9 @@
       for (let [publisher, plugins] of Object.entries(publishers)) {
         for (let [plugin, data] of Object.entries(plugins)) {
           if(data.e) {
-            pluginArray.push({"plugin": plugin, "publisher": publisher, "error": data.e})
+            pluginArray.push({"gh": ghAcc, "plugin": plugin, "publisher": publisher, "error": data.e})
           } else {
-            pluginArray.push({"plugin": plugin, "publisher": publisher})
+            pluginArray.push({"gh": ghAcc, "plugin": plugin, "publisher": publisher})
           }
         }
       }
@@ -154,7 +154,7 @@
     let container = document.getElementById("pluginsContainer")
 
     for (let child of container.children) {
-        child.remove()
+      child.remove()
     }
 
     for (let p of pluginArray) {
@@ -175,8 +175,8 @@ To add this plugin, use following code in build.settings
         },
     },
 }
-</pre></div>
-</pre>
+</pre></div></pre>
+<img src="https://img.shields.io/github/release-date/${p.gh}/${p.publisher}-${p.plugin}.svg?label=Updated:&style=flat-square&labelColor=808080" alt="Last Update" height="20">
 `
       if(p.error) {
         let error = document.createElement("span")
