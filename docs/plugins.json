@@ -2374,6 +2374,16 @@
 ]
 }
 },
+"plugin.huaweiads": {
+"r": "v1",
+"v": {
+"2020.3613": [
+"android",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.pack": {
 "r": "v2",
 "v": {
