@@ -1,0 +1,13 @@
+{
+    "ghAccount": "coronalabs",
+    "latest": "v1",
+    "plugin": "plugin.google.iap.billing",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2017.3105": [
+            "android",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}

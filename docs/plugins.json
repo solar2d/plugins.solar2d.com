@@ -1216,6 +1216,16 @@
 ]
 }
 },
+"plugin.google.iap.billing": {
+"r": "v1",
+"v": {
+"2017.3105": [
+"android",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.google.iap.v3": {
 "r": "v1",
 "v": {
