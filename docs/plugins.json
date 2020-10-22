@@ -258,7 +258,7 @@
 }
 },
 "plugin.amazon.iap": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2013.2731": [
 "android",
