@@ -39,14 +39,41 @@
 "plugin.classKit": {
 "e": "The plugin.classKit is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?ClassKit_tech-scotth)."
 },
+"plugin.equalizer": {
+"e": "Plugin is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?EqualizerPlugin_tech-scotth)."
+},
+"plugin.externalStorage": {
+"e": "Plugin is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?ExternalStorage_scotth-tech)."
+},
+"plugin.fingerprintManager": {
+"e": "Plugin is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?FingerprintManager_tech-scotth)."
+},
 "plugin.firebaseAuth": {
 "e": "The plugin.firebaseAuth is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?FirebaseAuth_tech-scotth)."
 },
 "plugin.firebasePerformance": {
 "e": "Plugin is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?FirebasePerformance_tech-scotth)."
 },
+"plugin.helpshift": {
+"e": "Plugin is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?HelpshiftPlugin_tech-scotth)."
+},
 "plugin.imageToText": {
 "e": "The plugin.imageToText is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?ImageToText_tech-scotth)."
+},
+"plugin.ironSource": {
+"e": "Plugin is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?IronSource_tech-scotth)."
+},
+"plugin.multiVideo": {
+"e": "Plugin is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?MultiVideoPlugin_tech-scotth)."
+},
+"plugin.safariWebview": {
+"e": "Plugin is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?SafariWebview_scotth-tech)."
+},
+"plugin.searchAds": {
+"e": "Plugin is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?SearchAds_scotth-tech)."
+},
+"plugin.voiceToText": {
+"e": "Plugin is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?VoiceToText_tech-scotth)."
 }
 }
 },
