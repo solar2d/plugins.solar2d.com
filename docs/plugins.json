@@ -42,6 +42,9 @@
 "plugin.firebaseAuth": {
 "e": "The plugin.firebaseAuth is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?FirebaseAuth_tech-scotth)."
 },
+"plugin.firebasePerformance": {
+"e": "Plugin is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?FirebasePerformance_tech-scotth)."
+},
 "plugin.imageToText": {
 "e": "The plugin.imageToText is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?ImageToText_tech-scotth)."
 }
