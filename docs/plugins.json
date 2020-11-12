@@ -2120,6 +2120,20 @@
 }
 }
 },
+"com.adjust": {
+"plugin.adjust": {
+"r": "v1",
+"v": {
+"2017.3183": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
 "com.amazon": {
 "plugin.amazon.iap": {
 "r": "v1",
