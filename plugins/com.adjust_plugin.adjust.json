@@ -1,0 +1,15 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.adjust",
+    "publisherId": "com.adjust",
+    "supported": {
+        "2017.3183": [
+            "android",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}
