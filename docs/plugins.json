@@ -1327,9 +1327,17 @@
 }
 },
 "plugin.iCloud": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2013.2584": [
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+],
+"2020.3627": [
 "appletvos",
 "appletvsimulator",
 "iphone",
