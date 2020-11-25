@@ -1,10 +1,17 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v1",
+    "latest": "v2",
     "plugin": "plugin.openudid",
     "publisherId": "com.coronalabs",
     "supported": {
         "2013.1076": [
+            "android",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ],
+        "2020.3627": [
             "android",
             "iphone",
             "iphone-sim",
