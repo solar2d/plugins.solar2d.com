@@ -1783,9 +1783,18 @@
 }
 },
 "plugin.zeroconf": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2016.2842": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+],
+"2020.3627": [
 "android",
 "appletvos",
 "appletvsimulator",
