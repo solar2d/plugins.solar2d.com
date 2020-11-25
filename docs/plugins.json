@@ -1504,7 +1504,7 @@
 }
 },
 "plugin.nanosvg": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2016.2856": [
 "android",
@@ -1516,6 +1516,15 @@
 "win32-sim"
 ],
 "2020.3590": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+],
+"2020.3627": [
 "android",
 "appletvos",
 "appletvsimulator",
