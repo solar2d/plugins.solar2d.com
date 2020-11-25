@@ -1726,7 +1726,7 @@
 }
 },
 "plugin.utf8": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2015.2731": [
 "android",
@@ -1739,6 +1739,16 @@
 "win32-sim"
 ],
 "2020.3590": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"web",
+"win32-sim"
+],
+"2020.3627": [
 "android",
 "appletvos",
 "appletvsimulator",

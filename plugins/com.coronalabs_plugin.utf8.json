@@ -1,6 +1,6 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v2",
+    "latest": "v3",
     "plugin": "plugin.utf8",
     "publisherId": "com.coronalabs",
     "supported": {
@@ -15,6 +15,16 @@
             "win32-sim"
         ],
         "2020.3590": [
+            "android",
+            "appletvos",
+            "appletvsimulator",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "web",
+            "win32-sim"
+        ],
+        "2020.3627": [
             "android",
             "appletvos",
             "appletvsimulator",
