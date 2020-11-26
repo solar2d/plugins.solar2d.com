@@ -308,7 +308,7 @@
 }
 },
 "plugin.apple.iap": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2016.2828": [
 "android",
@@ -319,7 +319,7 @@
 "mac-sim",
 "win32-sim"
 ],
-"20203627": [
+"2020.3627": [
 "android",
 "appletvos",
 "appletvsimulator",
