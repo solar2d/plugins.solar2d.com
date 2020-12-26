@@ -1,6 +1,6 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v2",
+    "latest": "v3",
     "plugin": "plugin.appodeal.TwitterMoPub",
     "publisherId": "com.coronalabs",
     "supported": {
