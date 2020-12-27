@@ -370,6 +370,16 @@
 ]
 }
 },
+"plugin.appodeal.A4G": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
 "plugin.appodeal.AdColony": {
 "r": "v3",
 "v": {
@@ -424,6 +434,16 @@
 "iphone-sim"
 ],
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.Bidmachine": {
+"r": "v1",
+"v": {
+"2020.3569": [
 "android",
 "iphone",
 "iphone-sim"
