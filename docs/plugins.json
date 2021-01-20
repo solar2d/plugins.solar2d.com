@@ -2549,6 +2549,16 @@
 ]
 }
 },
+"plugin.huaweiAdsKit": {
+"r": "v1",
+"v": {
+"2020.3613": [
+"android",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.huaweiRemoteConfig": {
 "r": "v1",
 "v": {
