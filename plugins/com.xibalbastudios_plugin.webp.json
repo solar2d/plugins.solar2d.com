@@ -1,0 +1,14 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.webp",
+    "publisherId": "com.xibalbastudios",
+    "supported": {
+        "2016.2874": [
+            "android",
+            "iphone",
+            "iphone-sim",
+            "win32-sim"
+        ]
+    }
+}
