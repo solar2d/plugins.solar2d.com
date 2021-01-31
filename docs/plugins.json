@@ -1609,11 +1609,13 @@
 }
 },
 "plugin.onDemandResources": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2016.2841": [
 "appletvos",
 "appletvsimulator",
+"iphone",
+"iphone-sim",
 "mac-sim",
 "win32-sim"
 ]
