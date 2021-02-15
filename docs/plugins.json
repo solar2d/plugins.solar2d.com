@@ -411,7 +411,7 @@
 }
 },
 "plugin.appodeal.AppLovin": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2018.3326": [
 "android",
@@ -496,7 +496,7 @@
 }
 },
 "plugin.appodeal.GoogleAdMob": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2018.3326": [
 "android",
@@ -511,7 +511,7 @@
 }
 },
 "plugin.appodeal.InMobi": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2018.3326": [
 "android",
@@ -541,7 +541,7 @@
 }
 },
 "plugin.appodeal.IronSource": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2018.3326": [
 "android",
@@ -571,7 +571,7 @@
 }
 },
 "plugin.appodeal.Mobvista": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2018.3326": [
 "android",
@@ -601,7 +601,7 @@
 }
 },
 "plugin.appodeal.Ogury": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2018.3326": [
 "android",
@@ -646,7 +646,7 @@
 }
 },
 "plugin.appodeal.Smaato": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2018.3326": [
 "android",
@@ -661,7 +661,7 @@
 }
 },
 "plugin.appodeal.StartApp": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2018.3326": [
 "android",
@@ -2098,7 +2098,7 @@
 }
 },
 "shared.google.play.services.ads": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2019.3497": [
 "android",
