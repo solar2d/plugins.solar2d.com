@@ -2850,12 +2850,14 @@
 }
 },
 "plugin.webp": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2016.2874": [
 "android",
+"appletvos",
 "iphone",
 "iphone-sim",
+"mac-sim",
 "win32-sim"
 ]
 }
