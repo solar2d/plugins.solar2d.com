@@ -2861,6 +2861,14 @@
 "win32-sim"
 ]
 }
+},
+"plugin.winmisc": {
+"r": "v1",
+"v": {
+"2016.2874": [
+"win32-sim"
+]
+}
 }
 },
 "com.yogergames": {
