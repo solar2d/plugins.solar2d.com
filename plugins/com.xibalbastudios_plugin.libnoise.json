@@ -1,0 +1,11 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.libnoise",
+    "publisherId": "com.xibalbastudios",
+    "supported": {
+        "2016.2874": [
+            "win32-sim"
+        ]
+    }
+}

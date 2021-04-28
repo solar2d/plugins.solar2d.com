@@ -2739,6 +2739,14 @@
 ]
 }
 },
+"plugin.libnoise": {
+"r": "v1",
+"v": {
+"2016.2874": [
+"win32-sim"
+]
+}
+},
 "plugin.libtess2": {
 "r": "v1",
 "v": {
