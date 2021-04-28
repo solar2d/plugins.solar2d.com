@@ -2823,6 +2823,14 @@
 ]
 }
 },
+"plugin.theora": {
+"r": "v1",
+"v": {
+"2016.2874": [
+"win32-sim"
+]
+}
+},
 "plugin.tinyfiledialogs": {
 "r": "v1",
 "v": {
