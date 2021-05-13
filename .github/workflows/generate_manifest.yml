@@ -5,6 +5,10 @@ on:
     paths:
       - 'plugins/**'
 
+concurrency: 
+  group: singleton
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
