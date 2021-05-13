@@ -3,7 +3,7 @@ on:
     types: [repo_updated]
 concurrency: 
   group: singleton
-  cancel-in-progress: false  
+  cancel-in-progress: false
 
 jobs:
   update-issue-manifest:
