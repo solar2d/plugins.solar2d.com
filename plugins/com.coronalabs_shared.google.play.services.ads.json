@@ -1,6 +1,6 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v3",
+    "latest": "v4",
     "plugin": "shared.google.play.services.ads",
     "publisherId": "com.coronalabs",
     "supported": {

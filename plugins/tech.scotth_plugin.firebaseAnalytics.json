@@ -1,6 +1,6 @@
 {
     "ghAccount": "solar2d",
-    "latest": "v1",
+    "latest": "v3",
     "plugin": "plugin.firebaseAnalytics",
     "publisherId": "tech.scotth",
     "supported": {

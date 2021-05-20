@@ -1,0 +1,13 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.huaweiAnalyticsKit",
+    "publisherId": "com.solar2d",
+    "supported": {
+        "2020.3613": [
+            "android",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}
