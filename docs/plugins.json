@@ -2098,7 +2098,7 @@
 }
 },
 "shared.google.play.services.ads": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2019.3497": [
 "android",
@@ -2571,6 +2571,16 @@
 ]
 }
 },
+"plugin.huaweiAnalyticsKit": {
+"r": "v1",
+"v": {
+"2020.3613": [
+"android",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.huaweiGameService": {
 "r": "v1",
 "v": {
@@ -2582,6 +2592,16 @@
 }
 },
 "plugin.huaweiIAP": {
+"r": "v1",
+"v": {
+"2020.3613": [
+"android",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.huaweiPushKit": {
 "r": "v1",
 "v": {
 "2020.3613": [
@@ -3198,7 +3218,7 @@
 }
 },
 "plugin.firebaseAnalytics": {
-"r": "v1",
+"r": "v3",
 "v": {
 "2020.3569": [
 "android",
