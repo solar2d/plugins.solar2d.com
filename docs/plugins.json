@@ -3569,6 +3569,20 @@
 ]
 }
 }
+},
+"us.datalabs": {
+"plugin.keychain": {
+"r": "v1",
+"v": {
+"2017.3061": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+}
 }
 }
 }
