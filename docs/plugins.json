@@ -2654,6 +2654,15 @@
 ]
 }
 },
+"plugin.simDemoMode": {
+"r": "v1",
+"v": {
+"2017.3061": [
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.yodo1": {
 "r": "v1",
 "v": {

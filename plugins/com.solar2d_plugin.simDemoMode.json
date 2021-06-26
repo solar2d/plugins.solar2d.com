@@ -1,0 +1,12 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.simDemoMode",
+    "publisherId": "com.solar2d",
+    "supported": {
+        "2017.3061": [
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}
