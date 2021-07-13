@@ -1,12 +1,11 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v1",
+    "latest": "v2",
     "plugin": "plugin.applovin",
     "publisherId": "com.coronalabs",
     "supported": {
         "2018.3326": [
             "android",
-            "android-kindle",
             "iphone",
             "iphone-sim",
             "mac-sim",
