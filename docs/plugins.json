@@ -2550,6 +2550,16 @@
 ]
 }
 },
+"plugin.exportFile": {
+"r": "v1",
+"v": {
+"2017.3105": [
+"android",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.huaweiAccountKit": {
 "r": "v1",
 "v": {
