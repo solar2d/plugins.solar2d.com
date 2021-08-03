@@ -1608,7 +1608,7 @@
 }
 },
 "plugin.onDemandResources": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2016.2841": [
 "appletvos",
