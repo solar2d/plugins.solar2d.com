@@ -420,13 +420,8 @@
 }
 },
 "plugin.appodeal.Appnext": {
-"r": "v2",
+"r": "v3",
 "v": {
-"2017.3184": [
-"android",
-"iphone",
-"iphone-sim"
-],
 "2018.3326": [
 "android",
 "iphone",
