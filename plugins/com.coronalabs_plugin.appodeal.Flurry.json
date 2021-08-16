@@ -1,15 +1,10 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v3",
+    "latest": "v4",
     "plugin": "plugin.appodeal.Flurry",
     "publisherId": "com.coronalabs",
     "supported": {
         "2018.3326": [
-            "android",
-            "iphone",
-            "iphone-sim"
-        ],
-        "2020.3569": [
             "android",
             "iphone",
             "iphone-sim"

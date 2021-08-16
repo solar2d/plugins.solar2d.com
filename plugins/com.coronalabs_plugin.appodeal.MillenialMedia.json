@@ -1,14 +1,9 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v2",
+    "latest": "v3",
     "plugin": "plugin.appodeal.MillenialMedia",
     "publisherId": "com.coronalabs",
     "supported": {
-        "2017.3184": [
-            "android",
-            "iphone",
-            "iphone-sim"
-        ],
         "2018.3326": [
             "android",
             "iphone",
