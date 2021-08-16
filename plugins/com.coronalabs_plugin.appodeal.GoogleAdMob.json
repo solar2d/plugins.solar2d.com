@@ -1,15 +1,10 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v4",
+    "latest": "v5",
     "plugin": "plugin.appodeal.GoogleAdMob",
     "publisherId": "com.coronalabs",
     "supported": {
         "2018.3326": [
-            "android",
-            "iphone",
-            "iphone-sim"
-        ],
-        "2020.3569": [
             "android",
             "iphone",
             "iphone-sim"
