@@ -202,15 +202,8 @@
 }
 },
 "plugin.admob": {
-"r": "v12",
+"r": "v13",
 "v": {
-"2020.3569": [
-"android",
-"iphone",
-"iphone-sim",
-"mac-sim",
-"win32-sim"
-],
 "2020.3607": [
 "android",
 "iphone",
