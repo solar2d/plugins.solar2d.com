@@ -1,6 +1,6 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v3",
+    "latest": "v4",
     "plugin": "plugin.utf8",
     "publisherId": "com.coronalabs",
     "supported": {
@@ -31,6 +31,7 @@
             "iphone",
             "iphone-sim",
             "mac-sim",
+            "nx64",
             "web",
             "win32-sim"
         ]
