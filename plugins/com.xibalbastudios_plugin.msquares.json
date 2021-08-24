@@ -6,7 +6,6 @@
     "supported": {
         "2017.3184": [
             "android",
-            "appletvos",
             "iphone",
             "iphone-sim",
             "mac-sim",

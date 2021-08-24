@@ -26,7 +26,7 @@ def create_plugin_json(account, publisher, plugin, plugin_dir, destination_dir):
     versions_root = os.path.join(plugin_dir, 'plugins')
     for ver in get_dirs(versions_root):
         ver_dir = os.path.join(versions_root, ver)
-        platforms = list(sorted(p for p in get_dirs(ver_dir) if glob.glob(os.path.join(ver_dir, p, '*'))))
+        platforms = list(sorted(p for p in get_dirs(ver_dir) if any(os.path.isfile(f) for f in glob.glob(os.path.join(ver_dir, p, '*'), recursive=True))))
         if platforms:
             versions[ver] = platforms
     if versions and release:

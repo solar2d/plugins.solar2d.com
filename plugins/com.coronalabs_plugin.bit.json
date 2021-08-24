@@ -10,7 +10,6 @@
             "appletvsimulator",
             "iphone",
             "iphone-sim",
-            "linux",
             "mac-sim",
             "web",
             "win32-sim"
@@ -21,7 +20,6 @@
             "appletvsimulator",
             "iphone",
             "iphone-sim",
-            "linux",
             "mac-sim",
             "web",
             "win32-sim"
@@ -32,7 +30,6 @@
             "appletvsimulator",
             "iphone",
             "iphone-sim",
-            "linux",
             "mac-sim",
             "web",
             "win32-sim"
