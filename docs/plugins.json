@@ -1194,9 +1194,16 @@
 }
 },
 "plugin.googleAnalytics": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+],
+"2021.3652": [
 "android",
 "iphone",
 "iphone-sim",
