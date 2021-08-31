@@ -77,6 +77,19 @@
 }
 }
 },
+"agramonte": {
+"com.cabagomez": {
+"plugin.admobtapjoy": {
+"r": "v1",
+"v": {
+"2020.3607": [
+"android",
+"iphone"
+]
+}
+}
+}
+},
 "coronalabs": {
 "com.coronalabs": {
 "CoronaProvider.ads.iads": {
