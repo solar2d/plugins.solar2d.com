@@ -1,6 +1,6 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v3",
+    "latest": "v4",
     "plugin": "plugin.notifications.v2.firebase",
     "publisherId": "com.coronalabs",
     "supported": {
