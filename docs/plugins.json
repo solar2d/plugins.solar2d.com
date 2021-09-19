@@ -1215,9 +1215,16 @@
 }
 },
 "plugin.gpgs.v2": {
-"r": "v7",
+"r": "v8",
 "v": {
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+],
+"2021.3649": [
 "android",
 "iphone",
 "iphone-sim",
