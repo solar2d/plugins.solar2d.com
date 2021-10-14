@@ -2312,7 +2312,7 @@
 },
 "com.onesignal": {
 "plugin.OneSignal": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2019.3510": [
 "android",
