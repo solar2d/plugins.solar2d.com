@@ -1,6 +1,6 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v1",
+    "latest": "v3",
     "plugin": "plugin.flurry.analytics",
     "publisherId": "com.coronalabs",
     "supported": {
