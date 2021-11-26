@@ -90,6 +90,20 @@
 }
 }
 },
+"cleveradssolutions": {
+"com.cleveradssolutions": {
+"plugin.cas": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+}
+},
 "coronalabs": {
 "com.coronalabs": {
 "CoronaProvider.ads.iads": {
