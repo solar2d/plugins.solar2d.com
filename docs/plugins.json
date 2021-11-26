@@ -97,6 +97,8 @@
 "v": {
 "2020.3569": [
 "android",
+"iphone",
+"iphone-sim",
 "mac-sim",
 "win32-sim"
 ]
@@ -372,7 +374,6 @@
 "v": {
 "2018.3326": [
 "android",
-"android-kindle",
 "iphone",
 "iphone-sim",
 "mac-sim",
@@ -1335,7 +1336,7 @@
 }
 },
 "plugin.kochava": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
 "android",
