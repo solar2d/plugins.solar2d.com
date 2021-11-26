@@ -1,0 +1,13 @@
+{
+    "ghAccount": "cleveradssolutions",
+    "latest": "v1",
+    "plugin": "plugin.cas",
+    "publisherId": "com.cleveradssolutions",
+    "supported": {
+        "2020.3569": [
+            "android",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}
