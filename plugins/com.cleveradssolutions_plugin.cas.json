@@ -1,0 +1,15 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.cas",
+    "publisherId": "com.cleveradssolutions",
+    "supported": {
+        "2020.3569": [
+            "android",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}

@@ -2149,6 +2149,20 @@
 }
 }
 },
+"com.cleveradssolutions": {
+"plugin.cas": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
 "com.develephant": {
 "plugin.chatterbox": {
 "r": "v1",
