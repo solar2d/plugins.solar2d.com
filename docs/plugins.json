@@ -969,6 +969,7 @@
 "appletvsimulator",
 "iphone",
 "iphone-sim",
+"linux",
 "mac-sim",
 "web",
 "win32-sim"
@@ -979,6 +980,7 @@
 "appletvsimulator",
 "iphone",
 "iphone-sim",
+"linux",
 "mac-sim",
 "web",
 "win32-sim"
@@ -989,6 +991,7 @@
 "appletvsimulator",
 "iphone",
 "iphone-sim",
+"linux",
 "mac-sim",
 "web",
 "win32-sim"
@@ -2645,6 +2648,7 @@
 "v": {
 "2016.2874": [
 "android",
+"appletvos",
 "iphone",
 "iphone-sim",
 "mac-sim",
@@ -2657,6 +2661,7 @@
 "v": {
 "2016.2830": [
 "android",
+"appletvos",
 "iphone",
 "iphone-sim",
 "mac-sim",
@@ -2669,6 +2674,7 @@
 "v": {
 "2017.3184": [
 "android",
+"appletvos",
 "iphone",
 "iphone-sim",
 "mac-sim",
@@ -2681,6 +2687,7 @@
 "v": {
 "2016.2830": [
 "android",
+"appletvos",
 "iphone",
 "iphone-sim",
 "mac-sim",
@@ -2702,6 +2709,7 @@
 "v": {
 "2017.3184": [
 "android",
+"appletvos",
 "iphone",
 "iphone-sim",
 "mac-sim",
@@ -2714,6 +2722,7 @@
 "v": {
 "2016.2872": [
 "android",
+"appletvos",
 "iphone",
 "iphone-sim",
 "mac-sim",
@@ -2734,6 +2743,7 @@
 "v": {
 "2017.3184": [
 "android",
+"appletvos",
 "iphone",
 "iphone-sim",
 "mac-sim",
@@ -2770,6 +2780,7 @@
 "v": {
 "2016.2830": [
 "android",
+"appletvos",
 "iphone",
 "iphone-sim",
 "mac-sim",
@@ -2821,6 +2832,7 @@
 "v": {
 "2016.2830": [
 "android",
+"appletvos",
 "iphone",
 "iphone-sim",
 "mac-sim",
