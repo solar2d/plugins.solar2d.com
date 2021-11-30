@@ -6,7 +6,6 @@
     "supported": {
         "2018.3326": [
             "android",
-            "android-kindle",
             "iphone",
             "iphone-sim",
             "mac-sim",

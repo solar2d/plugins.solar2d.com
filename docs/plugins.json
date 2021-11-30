@@ -77,6 +77,19 @@
 }
 }
 },
+"agramonte": {
+"com.cabagomez": {
+"plugin.admobtapjoy": {
+"r": "v1",
+"v": {
+"2020.3607": [
+"android",
+"iphone"
+]
+}
+}
+}
+},
 "coronalabs": {
 "com.coronalabs": {
 "CoronaProvider.ads.iads": {
@@ -202,7 +215,7 @@
 }
 },
 "plugin.admob": {
-"r": "v16",
+"r": "v18",
 "v": {
 "2020.3607": [
 "android",
@@ -301,17 +314,8 @@
 }
 },
 "plugin.apple.iap": {
-"r": "v3",
+"r": "v5",
 "v": {
-"2016.2828": [
-"android",
-"appletvos",
-"appletvsimulator",
-"iphone",
-"iphone-sim",
-"mac-sim",
-"win32-sim"
-],
 "2020.3627": [
 "android",
 "appletvos",
@@ -338,7 +342,7 @@
 }
 },
 "plugin.applovin": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2018.3326": [
 "android",
@@ -354,7 +358,6 @@
 "v": {
 "2018.3326": [
 "android",
-"android-kindle",
 "iphone",
 "iphone-sim",
 "mac-sim",
@@ -966,6 +969,7 @@
 "appletvsimulator",
 "iphone",
 "iphone-sim",
+"linux",
 "mac-sim",
 "web",
 "win32-sim"
@@ -976,6 +980,7 @@
 "appletvsimulator",
 "iphone",
 "iphone-sim",
+"linux",
 "mac-sim",
 "web",
 "win32-sim"
@@ -986,6 +991,7 @@
 "appletvsimulator",
 "iphone",
 "iphone-sim",
+"linux",
 "mac-sim",
 "web",
 "win32-sim"
@@ -1097,7 +1103,7 @@
 }
 },
 "plugin.flurry.analytics": {
-"r": "v1",
+"r": "v3",
 "v": {
 "2019.3497": [
 "android",
@@ -1187,16 +1193,9 @@
 }
 },
 "plugin.googleAnalytics": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2018.3326": [
-"android",
-"iphone",
-"iphone-sim",
-"mac-sim",
-"win32-sim"
-],
-"2021.3652": [
 "android",
 "iphone",
 "iphone-sim",
@@ -1218,9 +1217,16 @@
 }
 },
 "plugin.gpgs.v2": {
-"r": "v3",
+"r": "v9",
 "v": {
 "2018.3326": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+],
+"2021.3649": [
 "android",
 "iphone",
 "iphone-sim",
@@ -1274,9 +1280,16 @@
 }
 },
 "plugin.inMobi": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2017.3183": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+],
+"2020.3607": [
 "android",
 "iphone",
 "iphone-sim",
@@ -1310,7 +1323,7 @@
 }
 },
 "plugin.kochava": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
 "android",
@@ -1376,7 +1389,7 @@
 }
 },
 "plugin.memoryBitmap": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2016.2856": [
 "android",
@@ -1452,7 +1465,7 @@
 }
 },
 "plugin.notifications.v2": {
-"r": "v4",
+"r": "v7",
 "v": {
 "2020.3569": [
 "android",
@@ -1464,7 +1477,7 @@
 }
 },
 "plugin.notifications.v2.firebase": {
-"r": "v2",
+"r": "v5",
 "v": {
 "2020.3569": [
 "android",
@@ -1668,7 +1681,7 @@
 }
 },
 "plugin.unityads": {
-"r": "v6",
+"r": "v7",
 "v": {
 "2019.3497": [
 "android",
@@ -1951,7 +1964,7 @@
 }
 },
 "shared.firebase.messaging": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2019.3497": [
 "android",
@@ -1966,7 +1979,7 @@
 }
 },
 "shared.google.play.services.ads": {
-"r": "v5",
+"r": "v7",
 "v": {
 "2019.3497": [
 "android",
@@ -2139,6 +2152,20 @@
 }
 }
 },
+"com.cleveradssolutions": {
+"plugin.cas": {
+"r": "v5",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
 "com.develephant": {
 "plugin.chatterbox": {
 "r": "v1",
@@ -2301,7 +2328,7 @@
 },
 "com.onesignal": {
 "plugin.OneSignal": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2019.3510": [
 "android",
@@ -2424,6 +2451,18 @@
 "v": {
 "2017.3105": [
 "android",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.googleAnalytics.v2": {
+"r": "v1",
+"v": {
+"2021.3632": [
+"android",
+"iphone",
+"iphone-sim",
 "mac-sim",
 "win32-sim"
 ]
@@ -2609,6 +2648,7 @@
 "v": {
 "2016.2874": [
 "android",
+"appletvos",
 "iphone",
 "iphone-sim",
 "mac-sim",
@@ -2621,6 +2661,7 @@
 "v": {
 "2016.2830": [
 "android",
+"appletvos",
 "iphone",
 "iphone-sim",
 "mac-sim",
@@ -2633,6 +2674,7 @@
 "v": {
 "2017.3184": [
 "android",
+"appletvos",
 "iphone",
 "iphone-sim",
 "mac-sim",
@@ -2645,6 +2687,7 @@
 "v": {
 "2016.2830": [
 "android",
+"appletvos",
 "iphone",
 "iphone-sim",
 "mac-sim",
@@ -2666,6 +2709,7 @@
 "v": {
 "2017.3184": [
 "android",
+"appletvos",
 "iphone",
 "iphone-sim",
 "mac-sim",
@@ -2678,6 +2722,7 @@
 "v": {
 "2016.2872": [
 "android",
+"appletvos",
 "iphone",
 "iphone-sim",
 "mac-sim",
@@ -2698,6 +2743,7 @@
 "v": {
 "2017.3184": [
 "android",
+"appletvos",
 "iphone",
 "iphone-sim",
 "mac-sim",
@@ -2734,6 +2780,7 @@
 "v": {
 "2016.2830": [
 "android",
+"appletvos",
 "iphone",
 "iphone-sim",
 "mac-sim",
@@ -2759,7 +2806,7 @@
 }
 },
 "plugin.theora": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2016.2874": [
 "mac-sim",
@@ -2785,6 +2832,7 @@
 "v": {
 "2016.2830": [
 "android",
+"appletvos",
 "iphone",
 "iphone-sim",
 "mac-sim",
@@ -2806,7 +2854,7 @@
 }
 },
 "plugin.winmisc": {
-"r": "v1",
+"r": "v3",
 "v": {
 "2016.2874": [
 "win32-sim"
