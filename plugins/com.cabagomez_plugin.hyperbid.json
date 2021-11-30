@@ -1,10 +1,10 @@
 {
     "ghAccount": "agramonte",
     "latest": "v1",
-    "plugin": "plugin.admobtapjoy",
+    "plugin": "plugin.hyperbid",
     "publisherId": "com.cabagomez",
     "supported": {
-        "2020.3607": [
+        "2021.3660": [
             "android",
             "iphone"
         ]
