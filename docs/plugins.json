@@ -89,11 +89,14 @@
 }
 },
 "plugin.hyperbid": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2021.3660": [
 "android",
-"iphone"
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
 ]
 }
 }
