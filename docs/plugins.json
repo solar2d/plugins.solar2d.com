@@ -89,14 +89,14 @@
 }
 },
 "plugin.hyperbid": {
-    "r": "v1",
-    "v": {
-    "2021.3660": [
-    "android",
-    "iphone"
-    ]
-    }
-    }
+"r": "v1",
+"v": {
+"2021.3660": [
+"android",
+"iphone"
+]
+}
+}
 }
 },
 "coronalabs": {
