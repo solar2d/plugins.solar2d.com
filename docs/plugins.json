@@ -1010,6 +1010,18 @@
 ]
 }
 },
+"plugin.cafebazaar.iap": {
+"r": "v1",
+"v": {
+"2017.3105": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.calendar": {
 "r": "v1",
 "v": {
