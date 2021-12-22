@@ -2613,6 +2613,16 @@
 }
 }
 },
+"com.sporkfin": {
+"plugin.dynamic_shader": {
+"r": "v1",
+"v": {
+"2015.2642": [
+"lua"
+]
+}
+}
+},
 "com.startapp": {
 "plugin.startapp": {
 "r": "v1",
