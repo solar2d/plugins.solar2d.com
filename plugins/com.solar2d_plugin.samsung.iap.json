@@ -1,0 +1,15 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v4",
+    "plugin": "plugin.samsung.iap",
+    "publisherId": "com.solar2d",
+    "supported": {
+        "2021.3661": [
+            "android",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}

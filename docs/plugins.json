@@ -2593,6 +2593,18 @@
 ]
 }
 },
+"plugin.samsung.iap": {
+"r": "v4",
+"v": {
+"2021.3661": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.simDemoMode": {
 "r": "v1",
 "v": {
