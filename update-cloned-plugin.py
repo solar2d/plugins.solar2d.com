@@ -65,6 +65,4 @@ def create_plugin_json(account, publisher, plugin ,plugin_dir, destination_dir):
 if __name__ == "__main__":
     owner, repo = sys.argv[1].split('/', 1)
     publisher, plugin = repo.split('-', 1)
-    if sys.argv[2]:
-        documentation = sys.argv[2]
     create_plugin_json(owner, publisher, plugin, 'current-plugin', 'plugins')
