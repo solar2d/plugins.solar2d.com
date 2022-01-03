@@ -5,7 +5,8 @@ import glob
 import subprocess
 import os
 import json
-
+import urllib.request
+import urllib.parse
 
 def get_dirs(root):
     for (_, dirs, _) in os.walk(root):
@@ -13,7 +14,7 @@ def get_dirs(root):
     return []
 
 
-def create_plugin_json(account, publisher, plugin, plugin_dir, destination_dir):
+def create_plugin_json(account, publisher, plugin ,plugin_dir, destination_dir):
     tag_query = subprocess.run(['git', 'describe', '--tags', '--abbrev=0'],
                                stderr=subprocess.DEVNULL,
                                stdout=subprocess.PIPE,
@@ -29,11 +30,23 @@ def create_plugin_json(account, publisher, plugin, plugin_dir, destination_dir):
         platforms = list(sorted(p for p in get_dirs(ver_dir) if any(os.path.isfile(f) for f in glob.glob(os.path.join(ver_dir, p, '**'), recursive=True))))
         if platforms:
             versions[ver] = platforms
+    
+    homepage = "None"
+    description = "None"
+    githubInfoUrl = 'https://api.github.com/repos/'+account+'/'+publisher+"-"+plugin
+    githubReq = urllib.request.urlopen(githubInfoUrl)
+    if(githubReq):
+      githubInfo = json.loads(githubReq.read().decode('utf-8'))
+      homepage = githubInfo["homepage"])
+      description = githubInfo["description"])
+    
     if versions and release:
         output = {
             "latest": release,
             "supported": versions,
             "plugin": plugin,
+            "homepage": homepage,
+            "description": description,
             "publisherId": publisher,
             "ghAccount": account
         }
@@ -52,4 +65,6 @@ def create_plugin_json(account, publisher, plugin, plugin_dir, destination_dir):
 if __name__ == "__main__":
     owner, repo = sys.argv[1].split('/', 1)
     publisher, plugin = repo.split('-', 1)
+    if sys.argv[2]:
+        documentation = sys.argv[2]
     create_plugin_json(owner, publisher, plugin, 'current-plugin', 'plugins')
