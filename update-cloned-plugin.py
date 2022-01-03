@@ -14,7 +14,7 @@ def get_dirs(root):
     return []
 
 
-def create_plugin_json(account, publisher, plugin ,plugin_dir, destination_dir):
+def create_plugin_json(account, publisher, plugin, plugin_dir, destination_dir):
     tag_query = subprocess.run(['git', 'describe', '--tags', '--abbrev=0'],
                                stderr=subprocess.DEVNULL,
                                stdout=subprocess.PIPE,
