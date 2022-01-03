@@ -15,8 +15,13 @@ def add_plugin(plugin_json, c):
         c["r"] = plugin["latest"]
     if "supported" in plugin:
         c["v"] = plugin["supported"]
+    if "homepage" in plugin:
+        c["h"] = plugin["homepage"]
+    if "description" in plugin:
+        c["d"] = plugin["description"]
     if "error" in plugin:
         c["e"] = plugin["error"]
+    
 
 
 if __name__ == "__main__":
