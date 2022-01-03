@@ -179,10 +179,10 @@ To add this plugin, use following code in build.settings
 <a href="https://github.com/${p.gh}/${p.publisher}-${p.plugin}" target="_blank"><img src="https://img.shields.io/github/release-date/${p.gh}/${p.publisher}-${p.plugin}.svg?label=Updated:&style=flat-square&labelColor=808080" alt="Last Update" height="20"></a>
 `
       if(p.homepage && p.homepage !== "None"){
-        popupHTML = `<a`+p.homepage+`>View Plugin Documentation</a><br>`+popupHTML
+        popupHTML = `<a`+p.homepage+`>View Plugin Documentation</a><br><br>`+popupHTML
       }
       if(p.description && p.description !== "None"){
-        popupHTML = p.description+`<br>`+popupHTML
+        popupHTML = p.description+`<br><br>`+popupHTML
       }
       if(p.error) {
         let error = document.createElement("span")
