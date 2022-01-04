@@ -143,7 +143,7 @@
           if(data.e) {
             pluginArray.push({"gh": ghAcc, "plugin": plugin, "publisher": publisher, "error": data.e})
           } else {
-            pluginArray.push({"gh": ghAcc, "plugin": plugin, "publisher": publisher})
+            pluginArray.push({"gh": ghAcc, "plugin": plugin, "publisher": publisher, "homepage":data.h, "description": data.d})
           }
         }
       }
@@ -178,6 +178,12 @@ To add this plugin, use following code in build.settings
 </pre></div></pre>
 <a href="https://github.com/${p.gh}/${p.publisher}-${p.plugin}" target="_blank"><img src="https://img.shields.io/github/release-date/${p.gh}/${p.publisher}-${p.plugin}.svg?label=Updated:&style=flat-square&labelColor=808080" alt="Last Update" height="20"></a>
 `
+      if(p.homepage && p.homepage !== "None"){
+        popupHTML = `<a`+p.homepage+`>View Plugin Documentation</a><br><br>`+popupHTML
+      }
+      if(p.description && p.description !== "None"){
+        popupHTML = p.description+`<br><br>`+popupHTML
+      }
       if(p.error) {
         let error = document.createElement("span")
         error.textContent = " (external)"
