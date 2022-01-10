@@ -141,7 +141,7 @@
 }
 },
 "CoronaProvider.native.popup.activity": {
-"r": "v4",
+"r": "v1",
 "v": {
 "2014.2511": [
 "iphone",
@@ -2178,7 +2178,7 @@
 },
 "com.cleveradssolutions": {
 "plugin.cas": {
-"r": "v7",
+"r": "v8",
 "v": {
 "2020.3569": [
 "android",
@@ -2254,10 +2254,12 @@
 }
 },
 "plugin.websockets": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2017.3032": [
-"lua"
+"lua",
+"nx64",
+"web"
 ]
 }
 }
