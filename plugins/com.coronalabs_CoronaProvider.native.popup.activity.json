@@ -1,6 +1,6 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v4",
+    "latest": "v1",
     "plugin": "CoronaProvider.native.popup.activity",
     "publisherId": "com.coronalabs",
     "supported": {

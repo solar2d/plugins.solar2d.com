@@ -1,11 +1,13 @@
 {
     "ghAccount": "solar2d",
-    "latest": "v1",
+    "latest": "v2",
     "plugin": "plugin.websockets",
     "publisherId": "com.develephant",
     "supported": {
         "2017.3032": [
-            "lua"
+            "lua",
+            "nx64",
+            "web"
         ]
     }
 }
