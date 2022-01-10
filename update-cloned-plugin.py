@@ -5,8 +5,7 @@ import glob
 import subprocess
 import os
 import json
-import urllib.request
-import urllib.parse
+
 
 def get_dirs(root):
     for (_, dirs, _) in os.walk(root):
@@ -30,23 +29,11 @@ def create_plugin_json(account, publisher, plugin, plugin_dir, destination_dir):
         platforms = list(sorted(p for p in get_dirs(ver_dir) if any(os.path.isfile(f) for f in glob.glob(os.path.join(ver_dir, p, '**'), recursive=True))))
         if platforms:
             versions[ver] = platforms
-    
-    homepage = "None"
-    description = "None"
-    githubInfoUrl = 'https://api.github.com/repos/'+account+'/'+publisher+"-"+plugin
-    githubReq = urllib.request.urlopen(githubInfoUrl)
-    if(githubReq):
-      githubInfo = json.loads(githubReq.read().decode('utf-8'))
-      homepage = githubInfo["homepage"])
-      description = githubInfo["description"])
-    
     if versions and release:
         output = {
             "latest": release,
             "supported": versions,
             "plugin": plugin,
-            "homepage": homepage,
-            "description": description,
             "publisherId": publisher,
             "ghAccount": account
         }
