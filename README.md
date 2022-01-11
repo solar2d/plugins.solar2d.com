@@ -35,6 +35,8 @@ https://github.com/${ghAccount}/${publisherId}-${plugin}/releases/download/${lat
 https://github.com/coronalabs/com.coronalabs-plugin.unityads/releases/download/v2/2019.3497-android.tgz
 ```
 
+### Note: If you add a description and website infomation to your github repo, it will display on the Solar2D Plugin Directory
+
 ## Errors
 
 Some vendors choose to run their own store, and host plugins there. For them, they can specify their own custom error message with link to their store. Example is `plugins/tech.scotth_plugin.classKit.json`:
