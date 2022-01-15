@@ -519,9 +519,10 @@
 }
 },
 "plugin.appodeal.Mobvista": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2018.3326": [
+"android",
 "iphone",
 "iphone-sim"
 ]
