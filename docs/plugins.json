@@ -74,7 +74,26 @@
 },
 "plugin.voiceToText": {
 "e": "Plugin is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?VoiceToText_tech-scotth)."
+},
+"plugin.touchId": {
+"e": "Plugin is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?TouchId_tech-scotth)."
+},
+"plugin.volumeControl": {
+"e": "Plugin is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?VolumeControl_tech-scotth)."
+},
+"plugin.applePay": {
+"e": "Plugin is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?ApplePay_tech-scotth)."
+},
+"plugin.cardIO": {
+"e": "Plugin is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?CardIO_tech-scotth)."
+},
+"plugin.mapbox": {
+"e": "Plugin is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?MapboxPlugin_tech-scotth)."
+},
+"plugin.firebaseDynamicLinks": {
+"e": "Plugin is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?FirebaseDynamicLinks_tech-scotth)."
 }
+  
 }
 },
 "agramonte": {
