@@ -1,6 +1,6 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v6",
+    "latest": "v7",
     "plugin": "plugin.fbAudienceNetwork",
     "publisherId": "com.coronalabs",
     "supported": {
