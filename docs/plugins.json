@@ -89,11 +89,14 @@
 }
 },
 "plugin.hyperbid": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2021.3660": [
 "android",
-"iphone"
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
 ]
 }
 }
@@ -138,7 +141,7 @@
 }
 },
 "CoronaProvider.native.popup.activity": {
-"r": "v1",
+"r": "v5",
 "v": {
 "2014.2511": [
 "iphone",
@@ -351,7 +354,7 @@
 }
 },
 "plugin.applovin": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2018.3326": [
 "android",
@@ -375,17 +378,7 @@
 }
 },
 "plugin.appodeal.A4G": {
-"r": "v2",
-"v": {
-"2020.3569": [
-"android",
-"iphone",
-"iphone-sim"
-]
-}
-},
-"plugin.appodeal.AdColony": {
-"r": "v4",
+"r": "v3",
 "v": {
 "2018.3326": [
 "android",
@@ -394,7 +387,7 @@
 ]
 }
 },
-"plugin.appodeal.AmazonAds": {
+"plugin.appodeal.AdColony": {
 "r": "v5",
 "v": {
 "2018.3326": [
@@ -404,8 +397,18 @@
 ]
 }
 },
+"plugin.appodeal.AmazonAds": {
+"r": "v7",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
 "plugin.appodeal.AppLovin": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2018.3326": [
 "android",
@@ -425,7 +428,7 @@
 }
 },
 "plugin.appodeal.Bidmachine": {
-"r": "v2",
+"r": "v4",
 "v": {
 "2020.3569": [
 "android",
@@ -435,7 +438,7 @@
 }
 },
 "plugin.appodeal.Chartboost": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2018.3326": [
 "android",
@@ -445,7 +448,7 @@
 }
 },
 "plugin.appodeal.FacebookAudience": {
-"r": "v4",
+"r": "v7",
 "v": {
 "2018.3326": [
 "android",
@@ -465,7 +468,7 @@
 }
 },
 "plugin.appodeal.GoogleAdMob": {
-"r": "v5",
+"r": "v7",
 "v": {
 "2018.3326": [
 "android",
@@ -475,7 +478,7 @@
 }
 },
 "plugin.appodeal.InMobi": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2018.3326": [
 "android",
@@ -495,7 +498,7 @@
 }
 },
 "plugin.appodeal.IronSource": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2018.3326": [
 "android",
@@ -515,31 +518,34 @@
 }
 },
 "plugin.appodeal.Mobvista": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2018.3326": [
+"android",
 "iphone",
 "iphone-sim"
 ]
 }
 },
 "plugin.appodeal.MyTarget": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2018.3326": [
 "android",
 "iphone",
-"iphone-sim"
+"iphone-sim",
+"universal"
 ]
 }
 },
 "plugin.appodeal.Ogury": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2018.3326": [
 "android",
 "iphone",
-"iphone-sim"
+"iphone-sim",
+"universal"
 ]
 }
 },
@@ -564,46 +570,6 @@
 }
 },
 "plugin.appodeal.Smaato": {
-"r": "v4",
-"v": {
-"2018.3326": [
-"android",
-"iphone",
-"iphone-sim"
-]
-}
-},
-"plugin.appodeal.StartApp": {
-"r": "v4",
-"v": {
-"2018.3326": [
-"android",
-"iphone",
-"iphone-sim"
-]
-}
-},
-"plugin.appodeal.Tapjoy": {
-"r": "v4",
-"v": {
-"2018.3326": [
-"android",
-"iphone",
-"iphone-sim"
-]
-}
-},
-"plugin.appodeal.TwitterMoPub": {
-"r": "v4",
-"v": {
-"2018.3326": [
-"android",
-"iphone",
-"iphone-sim"
-]
-}
-},
-"plugin.appodeal.Unity": {
 "r": "v5",
 "v": {
 "2018.3326": [
@@ -613,8 +579,48 @@
 ]
 }
 },
+"plugin.appodeal.StartApp": {
+"r": "v5",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.Tapjoy": {
+"r": "v5",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.TwitterMoPub": {
+"r": "v5",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.appodeal.Unity": {
+"r": "v6",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
 "plugin.appodeal.Vungle": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2018.3326": [
 "android",
@@ -624,7 +630,7 @@
 }
 },
 "plugin.appodeal.Yandex": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2018.3326": [
 "android",
@@ -634,7 +640,7 @@
 }
 },
 "plugin.appodeal.base": {
-"r": "v4",
+"r": "v8",
 "v": {
 "2018.3326": [
 "android",
@@ -1007,6 +1013,18 @@
 ]
 }
 },
+"plugin.cafebazaar.iap": {
+"r": "v1",
+"v": {
+"2017.3105": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.calendar": {
 "r": "v1",
 "v": {
@@ -1020,7 +1038,7 @@
 }
 },
 "plugin.chartboost": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2018.3313": [
 "android",
@@ -1064,7 +1082,7 @@
 }
 },
 "plugin.facebook.v4a": {
-"r": "v6",
+"r": "v9",
 "v": {
 "2020.3569": [
 "android",
@@ -1088,7 +1106,7 @@
 }
 },
 "plugin.fbAudienceNetwork": {
-"r": "v6",
+"r": "v8",
 "v": {
 "2020.3569": [
 "android",
@@ -1100,7 +1118,7 @@
 }
 },
 "plugin.fbAudienceNetwork.paid": {
-"r": "v6",
+"r": "v7",
 "v": {
 "2020.3569": [
 "android",
@@ -2135,7 +2153,7 @@
 },
 "com.adjust": {
 "plugin.adjust": {
-"r": "v8",
+"r": "v10",
 "v": {
 "2017.3183": [
 "android",
@@ -2163,7 +2181,7 @@
 },
 "com.cleveradssolutions": {
 "plugin.cas": {
-"r": "v7",
+"r": "v8",
 "v": {
 "2020.3569": [
 "android",
@@ -2239,10 +2257,12 @@
 }
 },
 "plugin.websockets": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2017.3032": [
-"lua"
+"lua",
+"nx64",
+"web"
 ]
 }
 }
@@ -2578,6 +2598,18 @@
 ]
 }
 },
+"plugin.samsung.iap": {
+"r": "v10",
+"v": {
+"2021.3661": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.simDemoMode": {
 "r": "v1",
 "v": {
@@ -2594,6 +2626,16 @@
 "android",
 "mac-sim",
 "win32-sim"
+]
+}
+}
+},
+"com.sporkfin": {
+"plugin.dynamic_shader": {
+"r": "v1",
+"v": {
+"2015.2642": [
+"lua"
 ]
 }
 }
@@ -2651,7 +2693,7 @@
 }
 },
 "plugin.Bytemap": {
-"r": "v2",
+"r": "v5",
 "v": {
 "2016.2874": [
 "android",
@@ -2690,7 +2732,7 @@
 }
 },
 "plugin.impack": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2016.2830": [
 "android",
@@ -2822,7 +2864,7 @@
 }
 },
 "plugin.tinyfiledialogs": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2017.3068": [
 "android",

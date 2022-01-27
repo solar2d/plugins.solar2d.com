@@ -1,10 +1,10 @@
 {
-    "ghAccount": "coronalabs",
-    "latest": "v5",
-    "plugin": "plugin.chartboost",
-    "publisherId": "com.coronalabs",
+    "ghAccount": "solar2d",
+    "latest": "v10",
+    "plugin": "plugin.samsung.iap",
+    "publisherId": "com.solar2d",
     "supported": {
-        "2018.3313": [
+        "2021.3661": [
             "android",
             "iphone",
             "iphone-sim",

@@ -1,10 +1,11 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v4",
+    "latest": "v5",
     "plugin": "plugin.appodeal.Mobvista",
     "publisherId": "com.coronalabs",
     "supported": {
         "2018.3326": [
+            "android",
             "iphone",
             "iphone-sim"
         ]

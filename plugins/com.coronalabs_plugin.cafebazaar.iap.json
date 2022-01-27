@@ -1,14 +1,15 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v5",
-    "plugin": "plugin.appodeal.Ogury",
+    "latest": "v1",
+    "plugin": "plugin.cafebazaar.iap",
     "publisherId": "com.coronalabs",
     "supported": {
-        "2018.3326": [
+        "2017.3105": [
             "android",
             "iphone",
             "iphone-sim",
-            "universal"
+            "mac-sim",
+            "win32-sim"
         ]
     }
 }
