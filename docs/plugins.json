@@ -2459,6 +2459,18 @@
 }
 },
 "com.solar2d": {
+"plugin.applovinMax": {
+"r": "v3",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.att": {
 "r": "v2",
 "v": {
