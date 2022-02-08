@@ -2481,6 +2481,16 @@
 ]
 }
 },
+"plugin.applovinMax.Chartboost": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
 "plugin.att": {
 "r": "v2",
 "v": {
