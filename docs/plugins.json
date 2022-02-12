@@ -539,13 +539,12 @@
 }
 },
 "plugin.appodeal.Ogury": {
-"r": "v5",
+"r": "v6",
 "v": {
 "2018.3326": [
 "android",
 "iphone",
-"iphone-sim",
-"universal"
+"iphone-sim"
 ]
 }
 },
