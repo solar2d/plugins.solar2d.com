@@ -1,0 +1,13 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.applovinMax.UnityAds",
+    "publisherId": "com.solar2d",
+    "supported": {
+        "2018.3326": [
+            "android",
+            "iphone",
+            "iphone-sim"
+        ]
+    }
+}
