@@ -89,7 +89,7 @@
 }
 },
 "plugin.hyperbid": {
-"r": "v2",
+"r": "v4",
 "v": {
 "2021.3660": [
 "android",
@@ -428,7 +428,7 @@
 }
 },
 "plugin.appodeal.Bidmachine": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2020.3569": [
 "android",
@@ -539,13 +539,12 @@
 }
 },
 "plugin.appodeal.Ogury": {
-"r": "v5",
+"r": "v6",
 "v": {
 "2018.3326": [
 "android",
 "iphone",
-"iphone-sim",
-"universal"
+"iphone-sim"
 ]
 }
 },
@@ -1504,7 +1503,7 @@
 }
 },
 "plugin.notifications.v2.firebase": {
-"r": "v5",
+"r": "v6",
 "v": {
 "2020.3569": [
 "android",
@@ -2181,7 +2180,7 @@
 },
 "com.cleveradssolutions": {
 "plugin.cas": {
-"r": "v8",
+"r": "v11",
 "v": {
 "2020.3569": [
 "android",
@@ -2459,6 +2458,188 @@
 }
 },
 "com.solar2d": {
+"plugin.applovinMax": {
+"r": "v6",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.applovinMax.AdColony": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.applovinMax.Chartboost": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.applovinMax.Facebook": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.applovinMax.Fyber": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.applovinMax.GoogleAdMob": {
+"r": "v2",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.applovinMax.HyprMX": {
+"r": "v2",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.applovinMax.InMobi": {
+"r": "v3",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.applovinMax.IronSource": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.applovinMax.Maio": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.applovinMax.Mintegral": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.applovinMax.MyTarget": {
+"r": "v2",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.applovinMax.Ogury": {
+"r": "v2",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.applovinMax.Pangle": {
+"r": "v2",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.applovinMax.Smaato": {
+"r": "v2",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.applovinMax.Tapjoy": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.applovinMax.UnityAds": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
+"plugin.applovinMax.Vungle": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
 "plugin.att": {
 "r": "v2",
 "v": {
@@ -2620,7 +2801,7 @@
 }
 },
 "plugin.yodo1": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3607": [
 "android",

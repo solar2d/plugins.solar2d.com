@@ -1,8 +1,8 @@
 {
-    "ghAccount": "coronalabs",
-    "latest": "v6",
-    "plugin": "plugin.appodeal.Ogury",
-    "publisherId": "com.coronalabs",
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.applovinMax.AdColony",
+    "publisherId": "com.solar2d",
     "supported": {
         "2018.3326": [
             "android",

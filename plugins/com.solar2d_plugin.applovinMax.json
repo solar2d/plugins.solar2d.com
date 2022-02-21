@@ -1,11 +1,13 @@
 {
     "ghAccount": "solar2d",
-    "latest": "v2",
-    "plugin": "plugin.yodo1",
+    "latest": "v6",
+    "plugin": "plugin.applovinMax",
     "publisherId": "com.solar2d",
     "supported": {
-        "2020.3607": [
+        "2018.3326": [
             "android",
+            "iphone",
+            "iphone-sim",
             "mac-sim",
             "win32-sim"
         ]
