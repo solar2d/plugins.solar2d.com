@@ -1,7 +1,7 @@
 {
     "ghAccount": "agramonte",
-    "latest": "v5",
-    "plugin": "plugin.hyperbid",
+    "latest": "v1",
+    "plugin": "plugin.ironsource",
     "publisherId": "com.cabagomez",
     "supported": {
         "2021.3660": [
