@@ -1429,7 +1429,7 @@
 }
 },
 "plugin.memoryBitmap": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2016.2856": [
 "android",
@@ -1456,6 +1456,7 @@
 "iphone",
 "iphone-sim",
 "mac-sim",
+"nx64",
 "win32-sim"
 ]
 }
