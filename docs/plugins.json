@@ -3466,7 +3466,7 @@
 }
 },
 "plugin.googleSignIn": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3504": [
 "android",
