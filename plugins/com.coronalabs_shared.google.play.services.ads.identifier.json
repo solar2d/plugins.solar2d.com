@@ -10,7 +10,8 @@
         ],
         "2020.3607": [
             "android",
-            "android-kindle"
+            "android-kindle",
+            "android-nongoogle"
         ]
     }
 }
