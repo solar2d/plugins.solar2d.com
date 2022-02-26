@@ -917,7 +917,7 @@
 }
 },
 "plugin.appsflyer": {
-"r": "v6",
+"r": "v8",
 "v": {
 "2018.3326": [
 "android",
@@ -1429,7 +1429,7 @@
 }
 },
 "plugin.memoryBitmap": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2016.2856": [
 "android",
@@ -1456,6 +1456,7 @@
 "iphone",
 "iphone-sim",
 "mac-sim",
+"nx64",
 "win32-sim"
 ]
 }
@@ -1648,7 +1649,7 @@
 }
 },
 "plugin.steamworks": {
-"r": "v2",
+"r": "v4",
 "v": {
 "2016.2872": [
 "mac-sim",
@@ -3465,7 +3466,7 @@
 }
 },
 "plugin.googleSignIn": {
-"r": "v1",
+"r": "v3",
 "v": {
 "2019.3504": [
 "android",

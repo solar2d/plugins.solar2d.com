@@ -1,6 +1,6 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v4",
+    "latest": "v5",
     "plugin": "plugin.memoryBitmap",
     "publisherId": "com.coronalabs",
     "supported": {
@@ -29,6 +29,7 @@
             "iphone",
             "iphone-sim",
             "mac-sim",
+            "nx64",
             "win32-sim"
         ]
     }
