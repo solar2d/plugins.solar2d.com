@@ -1,12 +1,13 @@
 {
     "ghAccount": "agramonte",
-    "latest": "v5",
+    "latest": "v6",
     "plugin": "plugin.hyperbid",
     "publisherId": "com.cabagomez",
     "supported": {
         "2021.3660": [
             "android",
             "android-kindle",
+            "android-nongoogle",
             "iphone",
             "iphone-sim",
             "mac-sim",
