@@ -2034,7 +2034,7 @@
 }
 },
 "shared.google.play.services.ads.identifier": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2019.3497": [
 "android",
@@ -2042,7 +2042,8 @@
 ],
 "2020.3607": [
 "android",
-"android-kindle"
+"android-kindle",
+"android-nongoogle"
 ]
 }
 },
