@@ -2482,6 +2482,18 @@
 }
 },
 "com.solar2d": {
+"plugin.amazon.iap.v3": {
+"r": "v1",
+"v": {
+"2021.3660": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.applovinMax": {
 "r": "v6",
 "v": {
