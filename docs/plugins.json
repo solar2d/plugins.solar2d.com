@@ -321,16 +321,9 @@
 }
 },
 "plugin.amazon.iap": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2013.2731": [
-"android",
-"iphone",
-"iphone-sim",
-"mac-sim",
-"win32-sim"
-],
-"2021.3661": [
 "android",
 "iphone",
 "iphone-sim",

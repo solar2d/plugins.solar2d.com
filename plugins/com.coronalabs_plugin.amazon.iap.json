@@ -1,17 +1,10 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v4",
+    "latest": "v5",
     "plugin": "plugin.amazon.iap",
     "publisherId": "com.coronalabs",
     "supported": {
         "2013.2731": [
-            "android",
-            "iphone",
-            "iphone-sim",
-            "mac-sim",
-            "win32-sim"
-        ],
-        "2021.3661": [
             "android",
             "iphone",
             "iphone-sim",
