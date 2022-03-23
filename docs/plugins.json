@@ -2829,6 +2829,18 @@
 ]
 }
 },
+"plugin.unityads.v4": {
+"r": "v1",
+"v": {
+"2019.3497": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.yodo1": {
 "r": "v2",
 "v": {
