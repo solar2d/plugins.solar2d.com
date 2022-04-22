@@ -2369,6 +2369,16 @@
 }
 }
 },
+"com.narkoz": {
+"plugin.realtimelog": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"lua"
+]
+}
+}
+},
 "com.onesignal": {
 "plugin.OneSignal": {
 "r": "v4",
