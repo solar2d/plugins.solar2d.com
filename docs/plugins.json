@@ -1817,7 +1817,7 @@
 }
 },
 "plugin.zip": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2017.3037": [
 "android",
@@ -1843,6 +1843,7 @@
 "appletvsimulator",
 "iphone",
 "iphone-sim",
+"linux",
 "mac-sim",
 "win32-sim"
 ]
