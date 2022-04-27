@@ -1735,7 +1735,7 @@
 }
 },
 "plugin.utf8": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2015.2731": [
 "android",
@@ -1763,6 +1763,7 @@
 "appletvsimulator",
 "iphone",
 "iphone-sim",
+"linux",
 "mac-sim",
 "nx64",
 "web",
