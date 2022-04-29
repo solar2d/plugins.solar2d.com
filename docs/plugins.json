@@ -2706,7 +2706,7 @@
 }
 },
 "plugin.googleAnalytics.v2": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2021.3632": [
 "android",
