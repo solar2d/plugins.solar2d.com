@@ -3490,7 +3490,7 @@
 }
 },
 "plugin.firebaseStorage": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2014.2264": [
 "android",
