@@ -1519,7 +1519,7 @@
 }
 },
 "plugin.notifications.v2.firebase": {
-"r": "v8",
+"r": "v9",
 "v": {
 "2020.3569": [
 "android",
