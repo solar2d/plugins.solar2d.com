@@ -1,0 +1,15 @@
+{
+    "ghAccount": "ansh3ll",
+    "latest": "v1",
+    "plugin": "plugin.movie",
+    "publisherId": "com.ansh3ll",
+    "supported": {
+        "2020.3627": [
+            "android",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}
