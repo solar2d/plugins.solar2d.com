@@ -2201,6 +2201,20 @@
 }
 }
 },
+"com.ansh3ll": {
+"plugin.movie": {
+"r": "v1",
+"v": {
+"2020.3627": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
 "com.cleveradssolutions": {
 "plugin.cas": {
 "r": "v11",
