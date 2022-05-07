@@ -1495,7 +1495,7 @@
 }
 },
 "plugin.notifications": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2017.3060": [
 "android",
