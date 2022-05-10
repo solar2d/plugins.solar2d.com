@@ -2505,6 +2505,16 @@
 }
 },
 "com.solar2d": {
+"plugin.adSense": {
+"r": "v1",
+"v": {
+"2018.3275": [
+"mac-sim",
+"web",
+"win32-sim"
+]
+}
+},
 "plugin.amazon.iap.v3": {
 "r": "v1",
 "v": {

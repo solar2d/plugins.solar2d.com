@@ -1,0 +1,13 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.adSense",
+    "publisherId": "com.solar2d",
+    "supported": {
+        "2018.3275": [
+            "mac-sim",
+            "web",
+            "win32-sim"
+        ]
+    }
+}
