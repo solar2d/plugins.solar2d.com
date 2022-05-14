@@ -2825,6 +2825,16 @@
 ]
 }
 },
+"plugin.materialYouColors": {
+"r": "v1",
+"v": {
+"2022.3672": [
+"android",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.pack": {
 "r": "v3",
 "v": {
