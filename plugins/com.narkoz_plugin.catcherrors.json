@@ -1,0 +1,11 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.catcherrors",
+    "publisherId": "com.narkoz",
+    "supported": {
+        "2018.3326": [
+            "lua"
+        ]
+    }
+}

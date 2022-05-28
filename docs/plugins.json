@@ -2390,6 +2390,14 @@
 }
 },
 "com.narkoz": {
+"plugin.catcherrors": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"lua"
+]
+}
+},
 "plugin.realtimelog": {
 "r": "v3",
 "v": {
