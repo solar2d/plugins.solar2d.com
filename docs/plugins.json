@@ -2409,7 +2409,7 @@
 },
 "com.onesignal": {
 "plugin.OneSignal": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2019.3510": [
 "android",
@@ -2420,6 +2420,14 @@
 "win32-sim"
 ],
 "2020.3607": [
+"android",
+"android-kindle",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+],
+"2022.3672": [
 "android",
 "android-kindle",
 "iphone",
