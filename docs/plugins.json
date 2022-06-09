@@ -2749,6 +2749,16 @@
 ]
 }
 },
+"plugin.google.iap.billing.v2": {
+"r": "v2",
+"v": {
+"2017.3105": [
+"android",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.googleAnalytics.v2": {
 "r": "v2",
 "v": {
