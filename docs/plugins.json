@@ -2750,7 +2750,7 @@
 }
 },
 "plugin.google.iap.billing.v2": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2017.3105": [
 "android",
