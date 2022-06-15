@@ -355,7 +355,7 @@
 }
 },
 "plugin.apple.iap.helper": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2016.2828": [
 "android",
