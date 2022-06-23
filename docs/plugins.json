@@ -3016,7 +3016,7 @@
 }
 },
 "plugin.MemoryBlob": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2016.2830": [
 "android",
