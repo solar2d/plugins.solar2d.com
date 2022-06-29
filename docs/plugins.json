@@ -1663,9 +1663,16 @@
 }
 },
 "plugin.superawesome": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2017.3183": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+],
+"2019.3497": [
 "android",
 "iphone",
 "iphone-sim",
