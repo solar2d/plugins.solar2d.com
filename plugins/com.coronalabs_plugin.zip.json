@@ -1,6 +1,6 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v3",
+    "latest": "v7",
     "plugin": "plugin.zip",
     "publisherId": "com.coronalabs",
     "supported": {
@@ -28,6 +28,7 @@
             "appletvsimulator",
             "iphone",
             "iphone-sim",
+            "linux",
             "mac-sim",
             "win32-sim"
         ]

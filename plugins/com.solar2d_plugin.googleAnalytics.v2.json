@@ -1,6 +1,6 @@
 {
     "ghAccount": "solar2d",
-    "latest": "v1",
+    "latest": "v2",
     "plugin": "plugin.googleAnalytics.v2",
     "publisherId": "com.solar2d",
     "supported": {
