@@ -1,10 +1,10 @@
 {
     "ghAccount": "solar2d",
     "latest": "v2",
-    "plugin": "plugin.gamecircle",
-    "publisherId": "COM_INNOVATIVELEISURE",
+    "plugin": "plugin.materialYouColors",
+    "publisherId": "com.solar2d",
     "supported": {
-        "2014.2296": [
+        "2022.3672": [
             "android",
             "mac-sim",
             "win32-sim"

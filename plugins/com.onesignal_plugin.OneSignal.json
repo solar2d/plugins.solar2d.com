@@ -1,6 +1,6 @@
 {
     "ghAccount": "solar2d",
-    "latest": "v4",
+    "latest": "v5",
     "plugin": "plugin.OneSignal",
     "publisherId": "com.onesignal",
     "supported": {
@@ -13,6 +13,14 @@
             "win32-sim"
         ],
         "2020.3607": [
+            "android",
+            "android-kindle",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ],
+        "2022.3672": [
             "android",
             "android-kindle",
             "iphone",

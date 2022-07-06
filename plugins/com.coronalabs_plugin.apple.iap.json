@@ -1,6 +1,6 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v5",
+    "latest": "v7",
     "plugin": "plugin.apple.iap",
     "publisherId": "com.coronalabs",
     "supported": {

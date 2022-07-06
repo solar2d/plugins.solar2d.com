@@ -1,10 +1,10 @@
 {
     "ghAccount": "solar2d",
-    "latest": "v5",
-    "plugin": "plugin.firebaseAnalytics",
-    "publisherId": "tech.scotth",
+    "latest": "v3",
+    "plugin": "plugin.vungle.v6",
+    "publisherId": "com.solar2d",
     "supported": {
-        "2020.3569": [
+        "2019.3497": [
             "android",
             "iphone",
             "iphone-sim",
