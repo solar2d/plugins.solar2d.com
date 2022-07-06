@@ -242,7 +242,7 @@
 }
 },
 "plugin.admob": {
-"r": "v18",
+"r": "v20",
 "v": {
 "2020.3607": [
 "android",
@@ -321,7 +321,7 @@
 }
 },
 "plugin.amazon.iap": {
-"r": "v2",
+"r": "v5",
 "v": {
 "2013.2731": [
 "android",
@@ -654,7 +654,7 @@
 }
 },
 "plugin.appodeal.base": {
-"r": "v8",
+"r": "v9",
 "v": {
 "2018.3326": [
 "android",
@@ -1352,7 +1352,7 @@
 }
 },
 "plugin.kidoz": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2018.3313": [
 "android",
@@ -1507,7 +1507,7 @@
 }
 },
 "plugin.notifications.v2": {
-"r": "v7",
+"r": "v8",
 "v": {
 "2020.3569": [
 "android",
@@ -1519,7 +1519,7 @@
 }
 },
 "plugin.notifications.v2.firebase": {
-"r": "v6",
+"r": "v7",
 "v": {
 "2020.3569": [
 "android",
@@ -2034,7 +2034,7 @@
 }
 },
 "shared.google.play.services.ads.identifier": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2019.3497": [
 "android",
@@ -2042,7 +2042,8 @@
 ],
 "2020.3607": [
 "android",
-"android-kindle"
+"android-kindle",
+"android-nongoogle"
 ]
 }
 },
@@ -2474,6 +2475,18 @@
 }
 },
 "com.solar2d": {
+"plugin.amazon.iap.v3": {
+"r": "v1",
+"v": {
+"2021.3660": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.applovinMax": {
 "r": "v6",
 "v": {
@@ -2811,6 +2824,18 @@
 "r": "v1",
 "v": {
 "2017.3061": [
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.unityads.v4": {
+"r": "v4",
+"v": {
+"2019.3497": [
+"android",
+"iphone",
+"iphone-sim",
 "mac-sim",
 "win32-sim"
 ]

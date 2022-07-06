@@ -1,10 +1,10 @@
 {
-    "ghAccount": "coronalabs",
-    "latest": "v9",
-    "plugin": "plugin.appodeal.base",
-    "publisherId": "com.coronalabs",
+    "ghAccount": "solar2d",
+    "latest": "v4",
+    "plugin": "plugin.unityads.v4",
+    "publisherId": "com.solar2d",
     "supported": {
-        "2018.3326": [
+        "2019.3497": [
             "android",
             "iphone",
             "iphone-sim",
