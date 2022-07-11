@@ -1,10 +1,14 @@
 {
     "ghAccount": "solar2d",
-    "latest": "v2",
+    "latest": "v3",
     "plugin": "plugin.libnoise",
     "publisherId": "com.xibalbastudios",
     "supported": {
         "2016.2874": [
+            "android",
+            "appletvos",
+            "iphone",
+            "iphone-sim",
             "mac-sim",
             "win32-sim"
         ]
