@@ -89,9 +89,9 @@
 }
 },
 "plugin.hyperbid": {
-"r": "v8",
+"r": "v10",
 "v": {
-"2021.3660": [
+"2021.3666": [
 "android",
 "android-kindle",
 "android-nongoogle",
