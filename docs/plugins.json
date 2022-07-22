@@ -103,7 +103,7 @@
 }
 },
 "plugin.ironsource": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2021.3660": [
 "android",
@@ -403,7 +403,7 @@
 }
 },
 "plugin.appodeal.AdColony": {
-"r": "v5",
+"r": "v6",
 "v": {
 "2018.3326": [
 "android",
@@ -423,7 +423,7 @@
 }
 },
 "plugin.appodeal.AppLovin": {
-"r": "v5",
+"r": "v6",
 "v": {
 "2018.3326": [
 "android",
@@ -443,7 +443,7 @@
 }
 },
 "plugin.appodeal.Bidmachine": {
-"r": "v5",
+"r": "v6",
 "v": {
 "2020.3569": [
 "android",
@@ -463,7 +463,7 @@
 }
 },
 "plugin.appodeal.FacebookAudience": {
-"r": "v9",
+"r": "v10",
 "v": {
 "2018.3326": [
 "android",
@@ -483,7 +483,7 @@
 }
 },
 "plugin.appodeal.GoogleAdMob": {
-"r": "v7",
+"r": "v8",
 "v": {
 "2018.3326": [
 "android",
@@ -513,7 +513,7 @@
 }
 },
 "plugin.appodeal.IronSource": {
-"r": "v5",
+"r": "v6",
 "v": {
 "2018.3326": [
 "android",
@@ -543,7 +543,7 @@
 }
 },
 "plugin.appodeal.MyTarget": {
-"r": "v5",
+"r": "v6",
 "v": {
 "2018.3326": [
 "android",
@@ -554,7 +554,7 @@
 }
 },
 "plugin.appodeal.Ogury": {
-"r": "v6",
+"r": "v7",
 "v": {
 "2018.3326": [
 "android",
@@ -624,7 +624,7 @@
 }
 },
 "plugin.appodeal.Unity": {
-"r": "v6",
+"r": "v7",
 "v": {
 "2018.3326": [
 "android",
@@ -634,7 +634,7 @@
 }
 },
 "plugin.appodeal.Vungle": {
-"r": "v5",
+"r": "v6",
 "v": {
 "2018.3326": [
 "android",
@@ -644,7 +644,7 @@
 }
 },
 "plugin.appodeal.Yandex": {
-"r": "v5",
+"r": "v6",
 "v": {
 "2018.3326": [
 "android",
@@ -654,7 +654,7 @@
 }
 },
 "plugin.appodeal.base": {
-"r": "v10",
+"r": "v11",
 "v": {
 "2018.3326": [
 "android",
@@ -2061,7 +2061,7 @@
 }
 },
 "shared.google.play.services.analytics": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2019.3497": [
 "android",
@@ -2913,7 +2913,7 @@
 }
 },
 "plugin.unityads.v4": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2019.3497": [
 "android",
@@ -3023,7 +3023,7 @@
 }
 },
 "plugin.MemoryBlob": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2016.2830": [
 "android",
@@ -3062,9 +3062,13 @@
 }
 },
 "plugin.libnoise": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2016.2874": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
 "mac-sim",
 "win32-sim"
 ]
@@ -3084,7 +3088,7 @@
 }
 },
 "plugin.luaproc": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2016.2872": [
 "android",
@@ -3163,9 +3167,13 @@
 }
 },
 "plugin.streamlines": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2016.2874": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
 "mac-sim",
 "win32-sim"
 ]
@@ -3208,6 +3216,19 @@
 },
 "plugin.webp": {
 "r": "v3",
+"v": {
+"2016.2874": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.wfc": {
+"r": "v1",
 "v": {
 "2016.2874": [
 "android",

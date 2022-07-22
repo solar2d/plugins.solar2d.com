@@ -1,10 +1,10 @@
 {
     "ghAccount": "solar2d",
-    "latest": "v3",
-    "plugin": "plugin.MemoryBlob",
+    "latest": "v1",
+    "plugin": "plugin.wfc",
     "publisherId": "com.xibalbastudios",
     "supported": {
-        "2016.2830": [
+        "2016.2874": [
             "android",
             "appletvos",
             "iphone",
