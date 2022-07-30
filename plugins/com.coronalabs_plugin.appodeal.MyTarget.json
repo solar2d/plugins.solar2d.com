@@ -1,14 +1,13 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v6",
+    "latest": "v7",
     "plugin": "plugin.appodeal.MyTarget",
     "publisherId": "com.coronalabs",
     "supported": {
         "2018.3326": [
             "android",
             "iphone",
-            "iphone-sim",
-            "universal"
+            "iphone-sim"
         ]
     }
 }
