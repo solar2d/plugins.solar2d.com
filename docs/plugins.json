@@ -103,7 +103,7 @@
 }
 },
 "plugin.ironsource": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2021.3660": [
 "android",
@@ -483,7 +483,7 @@
 }
 },
 "plugin.appodeal.GoogleAdMob": {
-"r": "v8",
+"r": "v9",
 "v": {
 "2018.3326": [
 "android",
@@ -2704,7 +2704,7 @@
 }
 },
 "plugin.applovinMax.Smaato": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2018.3326": [
 "android",
