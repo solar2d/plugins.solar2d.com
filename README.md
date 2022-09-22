@@ -2,40 +2,10 @@
 
 This directory contains plugins available for Solar2D/CoronaSDK game engine.
 
-## Migration from the old store
+# Adding your plugin
+To add plugin with automated publishing create a [new issue](https://github.com/solar2d/plugins.solar2d.com/issues/new) explaining what plugin does, desired publisherId and plugin.name. If plugin would be approved you will get a write access to the GitHub repository and instructions on how to publish your plugin.
 
-This migration can be done easily and automatically by Vlad. If you are a developer of a plugin in the Corona Marketplace, create an issue in this repo with a request to migrate it.
 
-## Structure
-
-Individual plugin descriptions lives in `plugins/` directory.
-
-Plugins should be hosted on GitHub as released assets. Example of the plugin:
-
-```json
-{
-    "ghAccount": "coronalabs",
-    "latest": "v1",
-    "plugin": "plugin.admob",
-    "publisherId": "com.coronalabs",
-    "supported": {
-        "2020.3569": [
-            "android",
-            "iphone",
-            "iphone-sim",
-            "mac-sim",
-            "win32-sim"
-        ]
-    }
-}
-```
-This will try to download releases from the `https://github.com/${ghAccount}/${publisherId}-${plugin}/releases`. Release tag is stored in `${latest}`. Release assets should be named `${build}-${platform}.tgz`. Full download URL would be:
-```
-https://github.com/${ghAccount}/${publisherId}-${plugin}/releases/download/${latest}/${build}-${platform}.tgz
-https://github.com/coronalabs/com.coronalabs-plugin.unityads/releases/download/v2/2019.3497-android.tgz
-```
-
-### Note: If you add a description and website infomation to your github repo, it will display on the Solar2D Plugin Directory
 
 ## Errors
 
@@ -47,5 +17,4 @@ Some vendors choose to run their own store, and host plugins there. For them, th
     "error": "Plugin is not provided by Solar2D Free directory, but can be activated [here](https://solar2dmarketplace.com/plugins?ClassKit_scotth-tech)."
 }
 ```
-
-## Adding plugin to the repo. If you want a link to your plugin or plugin hosted here, feel free to create an issue or pull request to this repo with details.
+Create PR for your plugins.
