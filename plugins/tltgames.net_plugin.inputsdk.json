@@ -1,0 +1,13 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.inputsdk",
+    "publisherId": "tltgames.net",
+    "supported": {
+        "2020.2600": [
+            "android",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}
