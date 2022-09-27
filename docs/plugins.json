@@ -3169,6 +3169,19 @@
 ]
 }
 },
+"plugin.soloud": {
+"r": "v1",
+"v": {
+"2016.2874": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.stablearray": {
 "r": "v1",
 "v": {
