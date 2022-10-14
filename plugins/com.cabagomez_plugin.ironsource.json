@@ -1,6 +1,10 @@
 {
     "ghAccount": "agramonte",
+<<<<<<< HEAD
     "latest": "v4",
+=======
+    "latest": "v5",
+>>>>>>> 2fba9ed32acccf34ad503e3feb62d8145117d90d
     "plugin": "plugin.ironsource",
     "publisherId": "com.cabagomez",
     "supported": {

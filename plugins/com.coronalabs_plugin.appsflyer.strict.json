@@ -1,16 +1,9 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v12",
-    "plugin": "plugin.appsflyer",
+    "latest": "v6",
+    "plugin": "plugin.appsflyer.strict",
     "publisherId": "com.coronalabs",
     "supported": {
-        "2018.3326": [
-            "android",
-            "iphone",
-            "iphone-sim",
-            "mac-sim",
-            "win32-sim"
-        ],
         "2020.3569": [
             "android",
             "iphone",

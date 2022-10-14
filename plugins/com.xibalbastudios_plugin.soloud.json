@@ -1,7 +1,7 @@
 {
     "ghAccount": "solar2d",
-    "latest": "v7",
-    "plugin": "plugin.Bytemap",
+    "latest": "v1",
+    "plugin": "plugin.soloud",
     "publisherId": "com.xibalbastudios",
     "supported": {
         "2016.2874": [
