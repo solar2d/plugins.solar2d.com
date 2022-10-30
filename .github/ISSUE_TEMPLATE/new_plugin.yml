@@ -7,13 +7,18 @@ body:
   - type: markdown
     attributes:
       value: |
-        Describe your plugin in few words
+        Filling out this issue would create a request to add a plugin to the plugin directory using automated system for publishing updates
+  - type: textarea
+    id: description
+    attributes:
+      label: plugin description
+      placeholder: Describe your plugin in few words here
     validations:
       required: true
   - type: input
     id: publisherId
     attributes:
-      label: publisherId
+      label: Publisher ID
       description: Plugin's `publisherId` field used in build.settings
       placeholder: com.solar2d
     validations:
@@ -21,9 +26,9 @@ body:
   - type: input
     id: pluginName
     attributes:
-      label: pluginName
+      label: Plugin name
       description: Your plugin name. Typically what you pass to `require("...")` call
-      placeholder: plugin.library
+      placeholder: plugin.name
     validations:
       required: true
   - type: checkboxes
@@ -32,5 +37,5 @@ body:
       label: Terms and conditions
       description: Makins sure we are on the same page
       options:
-        - label: When I receive invitation to the new repo I will read the README, would follow instructions and would not abuse the plugin publishing automation
+        - label: If I receive invitation to the new repo I will read the README, follow instructions and would not abuse the automation
           required: true
