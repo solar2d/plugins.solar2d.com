@@ -1,6 +1,6 @@
 name: New Plugin Repo
 description: You developed and want to submit new plugin to the directory
-title: Plugin repo request
+title: Requesting repo for <plugin.name>
 assignees:
   - shchvova
 body:
