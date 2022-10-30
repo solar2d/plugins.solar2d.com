@@ -2,35 +2,51 @@ name: Create Repo Request
 
 on:
   issues:
-    types: opened
+    types: labeled
 
 
 jobs:
-  download:
+  create-repo:
+    if: github.event.label.name == 'approved'
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
     steps:
-      - name: Dump GitHub context
-        id: github_context_step
-        run: echo '${{ toJSON(github) }}'
-      - name: Dump job context
-        run: echo '${{ toJSON(job) }}'
-      - name: Dump steps context
-        run: echo '${{ toJSON(steps) }}'
-      - name: Dump runner context
-        run: echo '${{ toJSON(runner) }}'
-      - name: Dump strategy context
-        run: echo '${{ toJSON(strategy) }}'
-      - name: Dump matrix context
-        run: echo '${{ toJSON(matrix) }}'
-      - name: envs
-        run: env
-
-      - uses: actions/checkout@v2
-        
-
+      - name: Write template instead of checking out whole repo
+        uses: DamianReeves/write-file-action@v1.0
+        with:
+          path: ./new_plugin.yml
+          write-mode: overwrite
+          contents: |
+            body:
+              - type: textarea
+                id: description
+                attributes:
+                  label: Plugin description
+              - type: input
+                id: publisherId
+                attributes:
+                  label: Desired publisher Id
+              - type: input
+                id: pluginName
+                attributes:
+                  label: Your plugin name
+              - type: checkboxes
+                id: terms
+                attributes:
+                  label: Terms and conditions
       - uses: stefanbuck/github-issue-parser@v3
         id: issue-parser
         with:
-          template-path: .github/ISSUE_TEMPLATE/new_plugin.yml
+          template-path: ./new_plugin.yml
+      - run: |
+          echo: Create plugin: ${{ steps.issue-parser.outputs.issueparser_publisherId }}-${{ steps.issue-parser.outputs.issueparser_pluginName }}
 
-      - run: cat ${HOME}/issue-parser-result.json
+      - name: Close Issue
+        uses: peter-evans/close-issue@v2
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment: |
+            Done!
+            
+            Created repo https://github.com/solar2d/${{ steps.issue-parser.outputs.issueparser_publisherId }}-${{ steps.issue-parser.outputs.issueparser_pluginName }}
