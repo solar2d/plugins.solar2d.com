@@ -59,7 +59,7 @@ jobs:
               owner: "solar2d"
             });
 
-            await github.request('PUT /repos/solar2d/{repo}/collaborators/${{ github.event.issue.user.login }}', {
+            await github.request('PUT /repos/solar2d/${{ steps.issue-parser.outputs.issueparser_publisherId }}-${{ steps.issue-parser.outputs.issueparser_pluginName }}/collaborators/${{ github.event.issue.user.login }}', {
               owner: 'solar2d',
               repo: '${{ steps.issue-parser.outputs.issueparser_publisherId }}-${{ steps.issue-parser.outputs.issueparser_pluginName }}',
               username: '${{ github.event.issue.user.login }}',
