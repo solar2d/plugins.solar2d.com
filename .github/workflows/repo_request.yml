@@ -40,7 +40,32 @@ jobs:
         with:
           template-path: ./new_plugin.yml
       - run: |
-          echo Create plugin: ${{ steps.issue-parser.outputs.issueparser_publisherId }}-${{ steps.issue-parser.outputs.issueparser_pluginName }}
+          if [ -z "${{ steps.issue-parser.outputs.issueparser_publisherId }}" ]
+          then
+            echo "Requires publisheriD"
+          fi
+          if [ -z "${{ steps.issue-parser.outputs.issueparser_pluginName }}" ]
+          then
+            echo "Requires plugin name"
+          fi
+      - uses: actions/github-script@v6
+        with:
+          github-token: secrets.REPOS_PAT
+          script: |
+            await github.rest.repos.createUsingTemplate({
+              template_owner: "solar2d",
+              template_repo: "plugin-template",
+              name: "${{ steps.issue-parser.outputs.issueparser_publisherId }}-${{ steps.issue-parser.outputs.issueparser_pluginName }}",
+              owner: "solar2d"
+            });
+
+            await github.request('PUT /repos/solar2d/{repo}/collaborators/${{ github.event.issue.user.login }}', {
+              owner: 'solar2d',
+              repo: '${{ steps.issue-parser.outputs.issueparser_publisherId }}-${{ steps.issue-parser.outputs.issueparser_pluginName }}',
+              username: '${{ github.event.issue.user.login }}',
+              permission: 'triage'
+            })
+
 
       - name: Close Issue
         uses: peter-evans/close-issue@v2
@@ -50,3 +75,4 @@ jobs:
             Done!
             
             Created repo https://github.com/solar2d/${{ steps.issue-parser.outputs.issueparser_publisherId }}-${{ steps.issue-parser.outputs.issueparser_pluginName }}
+
