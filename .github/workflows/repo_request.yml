@@ -25,10 +25,8 @@ jobs:
       - name: envs
         run: env
 
-      - name: Checkout files
-        uses: Bhacaz/checkout-files@v2
-        with:
-          files: .github/ISSUE_TEMPLATE/repo_request.yml
+      - uses: actions/checkout@v2
+        
 
       - uses: stefanbuck/github-issue-parser@v3
         id: issue-parser
