@@ -1,2 +1,7 @@
 name: General issue
 description: File a bug report or suggest an improvement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Describe your issue here
