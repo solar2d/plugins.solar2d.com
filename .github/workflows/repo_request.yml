@@ -24,3 +24,15 @@ jobs:
         run: echo '${{ toJSON(matrix) }}'
       - name: envs
         run: env
+
+      - name: Checkout files
+        uses: Bhacaz/checkout-files@v2
+        with:
+          files: .github/ISSUE_TEMPLATE/repo_request.yml
+
+      - uses: stefanbuck/github-issue-parser@v3
+        id: issue-parser
+        with:
+          template-path: .github/ISSUE_TEMPLATE/repo_request.yml
+
+      - run: cat ${HOME}/issue-parser-result.json
