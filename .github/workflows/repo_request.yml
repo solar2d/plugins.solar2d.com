@@ -43,28 +43,30 @@ jobs:
           if [ -z "${{ steps.issue-parser.outputs.issueparser_publisherId }}" ]
           then
             echo "Requires publisheriD"
+            exit 1
           fi
           if [ -z "${{ steps.issue-parser.outputs.issueparser_pluginName }}" ]
           then
             echo "Requires plugin name"
+            exit 1
           fi
-      - uses: actions/github-script@v6
-        with:
-          github-token: secrets.REPOS_PAT
-          script: |
-            await github.rest.repos.createUsingTemplate({
-              template_owner: "solar2d",
-              template_repo: "plugin-template",
-              name: "${{ steps.issue-parser.outputs.issueparser_publisherId }}-${{ steps.issue-parser.outputs.issueparser_pluginName }}",
-              owner: "solar2d"
-            });
 
-            await github.request('PUT /repos/solar2d/${{ steps.issue-parser.outputs.issueparser_publisherId }}-${{ steps.issue-parser.outputs.issueparser_pluginName }}/collaborators/${{ github.event.issue.user.login }}', {
-              owner: 'solar2d',
-              repo: '${{ steps.issue-parser.outputs.issueparser_publisherId }}-${{ steps.issue-parser.outputs.issueparser_pluginName }}',
-              username: '${{ github.event.issue.user.login }}',
-              permission: 'triage'
-            })
+          curl \
+            -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $PAT" \
+            https://api.github.com/repos/solar2d/plugin-template/generate \
+            -d '{"owner":"solar2d","name":"${{ steps.issue-parser.outputs.issueparser_publisherId }}-${{ steps.issue-parser.outputs.issueparser_pluginName }}"}'
+
+          curl \
+            -X PUT \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $PAT" \
+            https://api.github.com/repos/solar2d/${{ steps.issue-parser.outputs.issueparser_publisherId }}-${{ steps.issue-parser.outputs.issueparser_pluginName }}/collaborators/${{ steps.issue-parser.outputs.issueparser_pluginName }} \
+            -d '{"permission":"push"}'
+
+        env:
+          PAT=secrets.REPOS_PAT
 
 
       - name: Close Issue
