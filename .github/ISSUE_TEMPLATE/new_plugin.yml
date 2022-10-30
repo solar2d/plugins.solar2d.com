@@ -5,6 +5,10 @@ title: |
 assignees:
   - shchvova
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Filling out this issue would create a request to add a plugin to the plugin directory using automated system for publishing updates
   - type: textarea
     id: description
     attributes:
