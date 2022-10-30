@@ -1,14 +1,10 @@
 name: New Plugin Repo
 description: You developed a plugin and want to submit it to the directory
 title: |
-  Requesting repo for plugin.name
+  Plugin repo request: ...
 assignees:
   - shchvova
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Filling out this issue would create a request to add a plugin to the plugin directory using automated system for publishing updates
   - type: textarea
     id: description
     attributes:
@@ -17,9 +13,9 @@ body:
     validations:
       required: true
   - type: input
-    id: Publisher ID
+    id: publisherId
     attributes:
-      label: publisherId
+      label: `publisherId`
       description: Plugin's `publisherId` field used in build.settings
       placeholder: com.solar2d
     validations:
@@ -27,7 +23,7 @@ body:
   - type: input
     id: pluginName
     attributes:
-      label: Plugin name
+      label: `plugin.name`
       description: Your plugin name. Typically what you pass to `require("...")` call
       placeholder: plugin.name
     validations:
@@ -38,5 +34,5 @@ body:
       label: Terms and conditions
       description: Makins sure we are on the same page
       options:
-        - label: If I receive invitation to the new repo I will read the README, follow instructions and would not abuse the automation
+        - label: When I receive invitation to the new repo I will read the README, would follow instructions and would not abuse the plugin publishing automation
           required: true
