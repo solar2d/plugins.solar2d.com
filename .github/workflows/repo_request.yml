@@ -40,7 +40,7 @@ jobs:
         with:
           template-path: ./new_plugin.yml
       - run: |
-          echo: Create plugin: ${{ steps.issue-parser.outputs.issueparser_publisherId }}-${{ steps.issue-parser.outputs.issueparser_pluginName }}
+          echo Create plugin: ${{ steps.issue-parser.outputs.issueparser_publisherId }}-${{ steps.issue-parser.outputs.issueparser_pluginName }}
 
       - name: Close Issue
         uses: peter-evans/close-issue@v2
