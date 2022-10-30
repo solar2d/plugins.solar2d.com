@@ -37,5 +37,5 @@ body:
       label: Terms and conditions
       description: Making sure we are on the same page
       options:
-        - label: If I receive invitation to the new repo I will read the README, follow instructions and would not abuse the automation
+        - label: If I receive invitation to the new repo I will read the and follow README in it, and would not abuse the automation
           required: true
