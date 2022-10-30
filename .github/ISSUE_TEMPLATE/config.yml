@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Solar2D Community Forums
+    url: https://forums.solar2d.com/
+    about: Please ask and answer questions here.
+  - name: Solar2D Discord Community
+    url: https://discord.gg/WMtCemc
+    about: Our active Discord community may help resolve issues faster

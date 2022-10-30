@@ -1,0 +1,36 @@
+name: New Plugin Repo
+description: You developed and want to submit new plugin to the directory
+title: Plugin repo request
+assignees:
+  - shchvova
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Describe your plugin in few words
+    validations:
+      required: true
+  - type: input
+    id: publisherId
+    attributes:
+      label: publisherId
+      description: Plugin's `publisherId` field used in build.settings
+      placeholder: com.solar2d
+    validations:
+      required: true
+  - type: input
+    id: pluginName
+    attributes:
+      label: pluginName
+      description: Your plugin name. Typically what you pass to `require("...")` call
+      placeholder: plugin.library
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Terms and conditions
+      description: Makins sure we are on the same page
+      options:
+        - label: When I receive invitation to the new repo I will read the README, would follow instructions and would not abuse the plugin publishing automation
+          required: true
