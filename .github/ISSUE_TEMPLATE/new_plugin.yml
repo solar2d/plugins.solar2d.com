@@ -5,13 +5,13 @@ title: |
 assignees:
   - shchvova
 body:
-  - type: textarea
-    id: description
-    attributes:
-      label: plugin description
-      placeholder: Describe your plugin in few words here
-    validations:
-      required: true
+  # - type: textarea
+  #   id: description
+  #   attributes:
+  #     label: plugin description
+  #     placeholder: Describe your plugin in few words here
+  #   validations:
+  #     required: true
   - type: input
     id: Publisher ID
     attributes:
