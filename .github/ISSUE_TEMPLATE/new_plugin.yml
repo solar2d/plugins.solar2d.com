@@ -1,5 +1,5 @@
 name: New Plugin Repo
-description: You developed and want to submit new plugin to the directory
+description: You developed and want to submit your plugin to the directory
 title: Requesting repo for <plugin.name>
 assignees:
   - shchvova
@@ -35,7 +35,7 @@ body:
     id: terms
     attributes:
       label: Terms and conditions
-      description: Makins sure we are on the same page
+      description: Making sure we are on the same page
       options:
         - label: If I receive invitation to the new repo I will read the README, follow instructions and would not abuse the automation
           required: true
