@@ -31,6 +31,6 @@ jobs:
       - uses: stefanbuck/github-issue-parser@v3
         id: issue-parser
         with:
-          template-path: .github/ISSUE_TEMPLATE/repo_request.yml
+          template-path: .github/ISSUE_TEMPLATE/new_plugin.yml
 
       - run: cat ${HOME}/issue-parser-result.json
