@@ -51,22 +51,20 @@ jobs:
             exit 1
           fi
 
-          curl \
-            -X POST \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer $PAT" \
-            https://api.github.com/repos/solar2d/plugin-template/generate \
-            -d '{"owner":"solar2d","name":"${{ steps.issue-parser.outputs.issueparser_publisherId }}-${{ steps.issue-parser.outputs.issueparser_pluginName }}"}'
+      - uses: actions/github-script@v6
+        with:
+          github-token: ${{secrets.REPOS_PAT}}
+          script: |
+            await github.rest.repos.createUsingTemplate({
+              template_owner: "solar2d",
+              template_repo: "plugin-template",
+              name: "${{ steps.issue-parser.outputs.issueparser_publisherId }}-${{ steps.issue-parser.outputs.issueparser_pluginName }}",
+              owner: "solar2d"
+            });
 
-          curl \
-            -X PUT \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer $PAT" \
-            https://api.github.com/repos/solar2d/${{ steps.issue-parser.outputs.issueparser_publisherId }}-${{ steps.issue-parser.outputs.issueparser_pluginName }}/collaborators/${{ steps.issue-parser.outputs.issueparser_pluginName }} \
-            -d '{"permission":"push"}'
-
-        env:
-          PAT: ${{ secrets.REPOS_PAT }}
+            await github.request('PUT /repos/solar2d/${{ steps.issue-parser.outputs.issueparser_publisherId }}-${{ steps.issue-parser.outputs.issueparser_pluginName }}/collaborators/${{ github.event.issue.user.login }}', {
+              permission: 'push'
+            })
 
 
       - name: Close Issue
