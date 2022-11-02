@@ -3191,6 +3191,19 @@
 ]
 }
 },
+"plugin.octasphere": {
+"r": "v1",
+"v": {
+"2016.2874": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.pagecurl": {
 "r": "v1",
 "v": {
