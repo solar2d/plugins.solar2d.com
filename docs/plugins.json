@@ -3124,6 +3124,18 @@
 ]
 }
 },
+"plugin.moonassimp": {
+"r": "v1",
+"v": {
+"2016.2874": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.mpeg": {
 "r": "v1",
 "v": {
