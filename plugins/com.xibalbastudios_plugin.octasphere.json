@@ -1,11 +1,12 @@
 {
     "ghAccount": "solar2d",
-    "latest": "v9",
-    "plugin": "plugin.applovinMax",
-    "publisherId": "com.solar2d",
+    "latest": "v1",
+    "plugin": "plugin.octasphere",
+    "publisherId": "com.xibalbastudios",
     "supported": {
-        "2018.3326": [
+        "2016.2874": [
             "android",
+            "appletvos",
             "iphone",
             "iphone-sim",
             "mac-sim",

@@ -103,7 +103,7 @@
 }
 },
 "plugin.ironsource": {
-"r": "v5",
+"r": "v6",
 "v": {
 "2021.3660": [
 "android",
@@ -242,7 +242,7 @@
 }
 },
 "plugin.admob": {
-"r": "v23",
+"r": "v25",
 "v": {
 "2020.3607": [
 "android",
@@ -543,7 +543,7 @@
 }
 },
 "plugin.appodeal.MyTarget": {
-"r": "v7",
+"r": "v8",
 "v": {
 "2018.3326": [
 "android",
@@ -1375,7 +1375,7 @@
 }
 },
 "plugin.kochava": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2019.3497": [
 "android",
@@ -2235,7 +2235,7 @@
 },
 "com.cleveradssolutions": {
 "plugin.cas": {
-"r": "v14",
+"r": "v15",
 "v": {
 "2020.3569": [
 "android",
@@ -2562,7 +2562,7 @@
 }
 },
 "plugin.applovinMax": {
-"r": "v8",
+"r": "v9",
 "v": {
 "2018.3326": [
 "android",
@@ -2768,7 +2768,7 @@
 }
 },
 "plugin.google.iap.billing.v2": {
-"r": "v11",
+"r": "v12",
 "v": {
 "2017.3105": [
 "android",
@@ -2778,7 +2778,7 @@
 }
 },
 "plugin.googleAnalytics.v2": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2021.3632": [
 "android",
@@ -2903,7 +2903,7 @@
 }
 },
 "plugin.samsung.iap": {
-"r": "v10",
+"r": "v11",
 "v": {
 "2021.3661": [
 "android",
@@ -3021,7 +3021,7 @@
 }
 },
 "plugin.Bytemap": {
-"r": "v7",
+"r": "v8",
 "v": {
 "2016.2874": [
 "android",
@@ -3046,6 +3046,19 @@
 ]
 }
 },
+"plugin.SSGE": {
+"r": "v1",
+"v": {
+"2016.2874": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.clipper": {
 "r": "v2",
 "v": {
@@ -3059,8 +3072,21 @@
 ]
 }
 },
+"plugin.generator": {
+"r": "v1",
+"v": {
+"2016.2874": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.impack": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2016.2830": [
 "android",
@@ -3111,6 +3137,31 @@
 ]
 }
 },
+"plugin.moonassimp": {
+"r": "v2",
+"v": {
+"2016.2874": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.moonnuklear": {
+"r": "v2",
+"v": {
+"2016.2874": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.mpeg": {
 "r": "v1",
 "v": {
@@ -3140,11 +3191,37 @@
 ]
 }
 },
+"plugin.octasphere": {
+"r": "v1",
+"v": {
+"2016.2874": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.pagecurl": {
 "r": "v1",
 "v": {
 "2015.2642": [
 "lua"
+]
+}
+},
+"plugin.parshapes": {
+"r": "v1",
+"v": {
+"2016.2874": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
 ]
 }
 },
@@ -3157,7 +3234,7 @@
 }
 },
 "plugin.serialize": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2016.2830": [
 "android",
@@ -3170,7 +3247,7 @@
 }
 },
 "plugin.soloud": {
-"r": "v1",
+"r": "v5",
 "v": {
 "2016.2874": [
 "android",
@@ -3225,6 +3302,19 @@
 ]
 }
 },
+"plugin.tinyrenderer": {
+"r": "v1",
+"v": {
+"2016.2874": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.truetype": {
 "r": "v2",
 "v": {
@@ -3268,6 +3358,19 @@
 "r": "v4",
 "v": {
 "2016.2874": [
+"win32-sim"
+]
+}
+},
+"plugin.yoctoshapes": {
+"r": "v1",
+"v": {
+"2016.2874": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
+"mac-sim",
 "win32-sim"
 ]
 }
@@ -3876,7 +3979,7 @@
 },
 "tltgames.net": {
 "plugin.inputsdk": {
-"r": "v1",
+"r": "v16",
 "v": {
 "2020.2600": [
 "android",
