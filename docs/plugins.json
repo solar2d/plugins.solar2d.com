@@ -2767,6 +2767,15 @@
 ]
 }
 },
+"plugin.gog": {
+"r": "v3",
+"v": {
+"2016.2874": [
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.google.iap.billing.v2": {
 "r": "v12",
 "v": {
