@@ -2757,6 +2757,15 @@
 ]
 }
 },
+"plugin.eos": {
+"r": "v4",
+"v": {
+"2020.3627": [
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.exportFile": {
 "r": "v1",
 "v": {
