@@ -1,0 +1,12 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v3",
+    "plugin": "plugin.gog",
+    "publisherId": "com.solar2d",
+    "supported": {
+        "2016.2874": [
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}

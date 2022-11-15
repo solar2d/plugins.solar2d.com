@@ -103,7 +103,7 @@
 }
 },
 "plugin.ironsource": {
-"r": "v6",
+"r": "v8",
 "v": {
 "2021.3660": [
 "android",
@@ -2757,11 +2757,29 @@
 ]
 }
 },
+"plugin.eos": {
+"r": "v4",
+"v": {
+"2020.3627": [
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.exportFile": {
 "r": "v1",
 "v": {
 "2017.3105": [
 "android",
+"mac-sim",
+"win32-sim"
+]
+}
+},
+"plugin.gog": {
+"r": "v3",
+"v": {
+"2016.2874": [
 "mac-sim",
 "win32-sim"
 ]
