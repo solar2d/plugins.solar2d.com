@@ -1,10 +1,10 @@
 {
     "ghAccount": "solar2d",
-    "latest": "v4",
-    "plugin": "plugin.luaproc",
+    "latest": "v3",
+    "plugin": "plugin.canvasity",
     "publisherId": "com.xibalbastudios",
     "supported": {
-        "2016.2872": [
+        "2016.2874": [
             "android",
             "appletvos",
             "iphone",

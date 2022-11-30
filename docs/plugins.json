@@ -103,7 +103,7 @@
 }
 },
 "plugin.ironsource": {
-"r": "v7",
+"r": "v9",
 "v": {
 "2021.3660": [
 "android",
@@ -1155,7 +1155,7 @@
 }
 },
 "plugin.flurry.analytics": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2019.3497": [
 "android",
@@ -2684,7 +2684,7 @@
 }
 },
 "plugin.applovinMax.Ogury": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2018.3326": [
 "android",
@@ -2758,7 +2758,7 @@
 }
 },
 "plugin.eos": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2020.3627": [
 "mac-sim",
@@ -2777,7 +2777,7 @@
 }
 },
 "plugin.gog": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2016.2874": [
 "mac-sim",
@@ -3077,6 +3077,19 @@
 ]
 }
 },
+"plugin.canvasity": {
+"r": "v3",
+"v": {
+"2016.2874": [
+"android",
+"appletvos",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.clipper": {
 "r": "v2",
 "v": {
@@ -3143,7 +3156,7 @@
 }
 },
 "plugin.luaproc": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2016.2872": [
 "android",
@@ -3210,7 +3223,7 @@
 }
 },
 "plugin.octasphere": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2016.2874": [
 "android",
@@ -3231,7 +3244,7 @@
 }
 },
 "plugin.parshapes": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2016.2874": [
 "android",
@@ -3308,7 +3321,7 @@
 }
 },
 "plugin.tinyfiledialogs": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2017.3068": [
 "android",
@@ -3321,7 +3334,7 @@
 }
 },
 "plugin.tinyrenderer": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2016.2874": [
 "android",
@@ -3334,7 +3347,7 @@
 }
 },
 "plugin.truetype": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2016.2830": [
 "android",
@@ -3381,7 +3394,7 @@
 }
 },
 "plugin.yoctoshapes": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2016.2874": [
 "android",
