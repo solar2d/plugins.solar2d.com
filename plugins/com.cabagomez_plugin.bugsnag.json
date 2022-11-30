@@ -1,0 +1,16 @@
+{
+    "ghAccount": "agramonte",
+    "latest": "v2",
+    "plugin": "plugin.bugsnag",
+    "publisherId": "com.cabagomez",
+    "supported": {
+        "2021.3660": [
+            "android",
+            "android-kindle",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}
