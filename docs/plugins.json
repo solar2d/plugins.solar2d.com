@@ -1155,7 +1155,7 @@
 }
 },
 "plugin.flurry.analytics": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2019.3497": [
 "android",
