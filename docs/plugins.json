@@ -2233,6 +2233,21 @@
 }
 }
 },
+"com.cabagomez": {
+"plugin.bugsnag": {
+"r": "v1",
+"v": {
+"2021.3660": [
+"android",
+"android-kindle",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
 "com.cleveradssolutions": {
 "plugin.cas": {
 "r": "v15",
