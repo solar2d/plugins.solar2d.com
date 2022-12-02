@@ -1542,9 +1542,10 @@
 }
 },
 "plugin.onDemandResources": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2016.2841": [
+"android",
 "appletvos",
 "appletvsimulator",
 "iphone",
