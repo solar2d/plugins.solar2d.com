@@ -1542,7 +1542,7 @@
 }
 },
 "plugin.onDemandResources": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2016.2841": [
 "appletvos",
