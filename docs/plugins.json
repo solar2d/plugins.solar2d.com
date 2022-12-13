@@ -3080,6 +3080,14 @@
 ]
 }
 },
+"plugin.MemoryLoader": {
+"r": "v1",
+"v": {
+"2016.2874": [
+"win32-sim"
+]
+}
+},
 "plugin.SSGE": {
 "r": "v1",
 "v": {
