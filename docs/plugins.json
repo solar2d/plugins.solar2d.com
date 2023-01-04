@@ -2823,6 +2823,18 @@
 ]
 }
 },
+"plugin.gpgs.v3": {
+"r": "v4",
+"v": {
+"2021.3649": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.huaweiAccountKit": {
 "r": "v1",
 "v": {
