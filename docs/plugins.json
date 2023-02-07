@@ -101,6 +101,19 @@
 "win32-sim"
 ]
 }
+},
+"plugin.ironsource": {
+"r": "v9",
+"v": {
+"2021.3660": [
+"android",
+"android-kindle",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
 }
 }
 },
@@ -2224,19 +2237,6 @@
 "com.cabagomez": {
 "plugin.bugsnag": {
 "r": "v5",
-"v": {
-"2021.3660": [
-"android",
-"android-kindle",
-"iphone",
-"iphone-sim",
-"mac-sim",
-"win32-sim"
-]
-}
-},
-"plugin.ironsource": {
-"r": "v1",
 "v": {
 "2021.3660": [
 "android",
