@@ -2629,6 +2629,16 @@
 ]
 }
 },
+"plugin.applovinMax.GoogleAdManager": {
+"r": "v2",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
 "plugin.applovinMax.GoogleAdMob": {
 "r": "v4",
 "v": {
