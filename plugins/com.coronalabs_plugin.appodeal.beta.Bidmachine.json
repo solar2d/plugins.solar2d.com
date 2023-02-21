@@ -1,0 +1,13 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.appodeal.beta.Bidmachine",
+    "publisherId": "com.coronalabs",
+    "supported": {
+        "2020.3569": [
+            "android",
+            "iphone",
+            "iphone-sim"
+        ]
+    }
+}

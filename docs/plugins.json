@@ -2261,6 +2261,18 @@
 }
 }
 },
+"com.coronalabs": {
+"plugin.appodeal.beta.Bidmachine": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+}
+},
 "com.develephant": {
 "plugin.chatterbox": {
 "r": "v1",
