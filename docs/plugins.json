@@ -691,6 +691,16 @@
 ]
 }
 },
+"plugin.appodeal.beta.Bidmachine": {
+"r": "v1",
+"v": {
+"2020.3569": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
 "plugin.appodeal.beta.Chartboost": {
 "r": "v3",
 "v": {
@@ -2257,18 +2267,6 @@
 "android",
 "mac-sim",
 "win32-sim"
-]
-}
-}
-},
-"com.coronalabs": {
-"plugin.appodeal.beta.Bidmachine": {
-"r": "v1",
-"v": {
-"2020.3569": [
-"android",
-"iphone",
-"iphone-sim"
 ]
 }
 }
