@@ -2680,7 +2680,7 @@
 }
 },
 "plugin.applovinMax.IronSource": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2018.3326": [
 "android",
@@ -2700,7 +2700,7 @@
 }
 },
 "plugin.applovinMax.Mintegral": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2018.3326": [
 "android",
@@ -2720,7 +2720,7 @@
 }
 },
 "plugin.applovinMax.Ogury": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2018.3326": [
 "android",
