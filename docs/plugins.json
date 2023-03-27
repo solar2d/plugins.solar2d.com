@@ -450,7 +450,7 @@
 }
 },
 "plugin.appodeal.FacebookAudience": {
-"r": "v12",
+"r": "v13",
 "v": {
 "2018.3326": [
 "android",
@@ -530,7 +530,7 @@
 }
 },
 "plugin.appodeal.MyTarget": {
-"r": "v8",
+"r": "v9",
 "v": {
 "2018.3326": [
 "android",
