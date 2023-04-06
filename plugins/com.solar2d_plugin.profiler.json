@@ -1,0 +1,11 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.profiler",
+    "publisherId": "com.solar2d",
+    "supported": {
+        "2018.3326": [
+            "lua"
+        ]
+    }
+}
