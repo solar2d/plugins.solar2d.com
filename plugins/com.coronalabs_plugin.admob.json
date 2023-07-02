@@ -1,10 +1,17 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v29",
+    "latest": "v30",
     "plugin": "plugin.admob",
     "publisherId": "com.coronalabs",
     "supported": {
         "2020.3607": [
+            "android",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ],
+        "2023.3686": [
             "android",
             "iphone",
             "iphone-sim",
