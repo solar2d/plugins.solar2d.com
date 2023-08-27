@@ -1534,16 +1534,9 @@
 }
 },
 "plugin.notifications.v2.firebase": {
-"r": "v18",
+"r": "v19",
 "v": {
 "2020.3569": [
-"android",
-"iphone",
-"iphone-sim",
-"mac-sim",
-"win32-sim"
-],
-"2023.3693": [
 "android",
 "iphone",
 "iphone-sim",
