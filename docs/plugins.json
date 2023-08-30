@@ -3019,9 +3019,16 @@
 }
 },
 "plugin.unityads.v4": {
-"r": "v11",
+"r": "v12",
 "v": {
 "2019.3497": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+],
+"2023.3693": [
 "android",
 "iphone",
 "iphone-sim",
