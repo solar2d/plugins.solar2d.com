@@ -2609,7 +2609,7 @@
 }
 },
 "plugin.applovinMax": {
-"r": "v14",
+"r": "v15",
 "v": {
 "2018.3326": [
 "android",
@@ -2621,7 +2621,7 @@
 }
 },
 "plugin.applovinMax.AdColony": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2018.3326": [
 "android",
@@ -2631,7 +2631,7 @@
 }
 },
 "plugin.applovinMax.Chartboost": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2018.3326": [
 "android",
@@ -2641,7 +2641,7 @@
 }
 },
 "plugin.applovinMax.Facebook": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2018.3326": [
 "android",
@@ -2651,7 +2651,7 @@
 }
 },
 "plugin.applovinMax.Fyber": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2018.3326": [
 "android",
@@ -2671,7 +2671,7 @@
 }
 },
 "plugin.applovinMax.GoogleAdMob": {
-"r": "v5",
+"r": "v6",
 "v": {
 "2018.3326": [
 "android",
@@ -2681,16 +2681,6 @@
 }
 },
 "plugin.applovinMax.HyprMX": {
-"r": "v4",
-"v": {
-"2018.3326": [
-"android",
-"iphone",
-"iphone-sim"
-]
-}
-},
-"plugin.applovinMax.InMobi": {
 "r": "v5",
 "v": {
 "2018.3326": [
@@ -2700,8 +2690,18 @@
 ]
 }
 },
+"plugin.applovinMax.InMobi": {
+"r": "v6",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
 "plugin.applovinMax.IronSource": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2018.3326": [
 "android",
@@ -2731,7 +2731,7 @@
 }
 },
 "plugin.applovinMax.MyTarget": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2018.3326": [
 "android",
@@ -2741,7 +2741,7 @@
 }
 },
 "plugin.applovinMax.Ogury": {
-"r": "v5",
+"r": "v6",
 "v": {
 "2018.3326": [
 "android",
@@ -2771,7 +2771,7 @@
 }
 },
 "plugin.applovinMax.Tapjoy": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2018.3326": [
 "android",
@@ -2781,7 +2781,7 @@
 }
 },
 "plugin.applovinMax.UnityAds": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2018.3326": [
 "android",
