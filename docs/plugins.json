@@ -1655,9 +1655,17 @@
 }
 },
 "plugin.pollfish": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2019.3497": [
+"android",
+"android-kindle",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+],
+"2022.3672": [
 "android",
 "android-kindle",
 "iphone",
