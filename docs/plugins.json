@@ -2511,6 +2511,18 @@
 }
 }
 },
+"com.platopus": {
+"chromeCustomTabs": {
+"r": "v1",
+"v": {
+"2021.3660": [
+"android",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
 "com.playfab": {
 "plugin.playfab.client": {
 "r": "v4",
