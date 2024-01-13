@@ -2661,7 +2661,7 @@
 }
 },
 "plugin.applovinMax.Facebook": {
-"r": "v5",
+"r": "v6",
 "v": {
 "2018.3326": [
 "android",
@@ -2691,7 +2691,7 @@
 }
 },
 "plugin.applovinMax.GoogleAdMob": {
-"r": "v6",
+"r": "v7",
 "v": {
 "2018.3326": [
 "android",
@@ -2701,7 +2701,7 @@
 }
 },
 "plugin.applovinMax.HyprMX": {
-"r": "v5",
+"r": "v6",
 "v": {
 "2018.3326": [
 "android",
@@ -2721,7 +2721,7 @@
 }
 },
 "plugin.applovinMax.IronSource": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2018.3326": [
 "android",
@@ -2781,7 +2781,7 @@
 }
 },
 "plugin.applovinMax.Smaato": {
-"r": "v5",
+"r": "v6",
 "v": {
 "2018.3326": [
 "android",
@@ -2801,7 +2801,7 @@
 }
 },
 "plugin.applovinMax.UnityAds": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2018.3326": [
 "android",
@@ -2811,7 +2811,7 @@
 }
 },
 "plugin.applovinMax.Vungle": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2018.3326": [
 "android",
