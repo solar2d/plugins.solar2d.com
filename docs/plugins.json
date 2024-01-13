@@ -2512,16 +2512,6 @@
 }
 },
 "com.platopus": {
-"chromeCustomTabs": {
-"r": "v4",
-"v": {
-"2021.3660": [
-"android",
-"mac-sim",
-"win32-sim"
-]
-}
-},
 "plugin.chromeCustomTabs": {
 "r": "v1",
 "v": {
