@@ -1,6 +1,6 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v9",
+    "latest": "v10",
     "plugin": "plugin.appodeal.AppLovin",
     "publisherId": "com.coronalabs",
     "supported": {
