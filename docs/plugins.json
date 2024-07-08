@@ -437,7 +437,7 @@
 }
 },
 "plugin.appodeal.Bidmachine": {
-"r": "v9",
+"r": "v10",
 "v": {
 "2020.3569": [
 "android",
@@ -627,7 +627,7 @@
 }
 },
 "plugin.appodeal.Vungle": {
-"r": "v10",
+"r": "v11",
 "v": {
 "2018.3326": [
 "android",
@@ -637,7 +637,7 @@
 }
 },
 "plugin.appodeal.Yandex": {
-"r": "v9",
+"r": "v10",
 "v": {
 "2018.3326": [
 "android",
@@ -839,7 +839,7 @@
 }
 },
 "plugin.appodeal.beta.Smaato": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2020.3569": [
 "android",
@@ -2651,7 +2651,7 @@
 }
 },
 "plugin.applovinMax.Chartboost": {
-"r": "v7",
+"r": "v8",
 "v": {
 "2018.3326": [
 "android",
@@ -2691,7 +2691,7 @@
 }
 },
 "plugin.applovinMax.GoogleAdMob": {
-"r": "v7",
+"r": "v8",
 "v": {
 "2018.3326": [
 "android",
@@ -2701,7 +2701,7 @@
 }
 },
 "plugin.applovinMax.HyprMX": {
-"r": "v6",
+"r": "v7",
 "v": {
 "2018.3326": [
 "android",
@@ -2721,7 +2721,7 @@
 }
 },
 "plugin.applovinMax.IronSource": {
-"r": "v5",
+"r": "v6",
 "v": {
 "2018.3326": [
 "android",
@@ -2761,7 +2761,7 @@
 }
 },
 "plugin.applovinMax.Ogury": {
-"r": "v7",
+"r": "v8",
 "v": {
 "2018.3326": [
 "android",
@@ -2801,7 +2801,7 @@
 }
 },
 "plugin.applovinMax.UnityAds": {
-"r": "v6",
+"r": "v7",
 "v": {
 "2018.3326": [
 "android",
