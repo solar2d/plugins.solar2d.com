@@ -2863,7 +2863,7 @@
 }
 },
 "plugin.google.iap.billing.v2": {
-"r": "v13",
+"r": "v14",
 "v": {
 "2017.3105": [
 "android",
