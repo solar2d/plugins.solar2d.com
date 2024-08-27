@@ -1,0 +1,13 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.screenRecorder",
+    "publisherId": "com.labolado",
+    "supported": {
+        "2020.3620": [
+            "android",
+            "iphone",
+            "iphone-sim"
+        ]
+    }
+}
