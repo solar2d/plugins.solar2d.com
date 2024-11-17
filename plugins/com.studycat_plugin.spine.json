@@ -1,0 +1,16 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v2",
+    "plugin": "plugin.spine",
+    "publisherId": "com.studycat",
+    "supported": {
+        "2020.2600": [
+            "android",
+            "iphone",
+            "iphone-sim",
+            "linux-sim",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}

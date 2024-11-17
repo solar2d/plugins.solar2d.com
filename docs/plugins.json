@@ -3116,6 +3116,21 @@
 }
 }
 },
+"com.studycat": {
+"plugin.spine": {
+"r": "v2",
+"v": {
+"2020.2600": [
+"android",
+"iphone",
+"iphone-sim",
+"linux-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
 "com.vungle": {
 "CoronaProvider.ads.vungle": {
 "r": "v1",
