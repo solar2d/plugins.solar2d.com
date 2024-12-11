@@ -406,6 +406,16 @@
 ]
 }
 },
+"plugin.appodeal.Amazon": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
 "plugin.appodeal.AmazonAds": {
 "r": "v7",
 "v": {
