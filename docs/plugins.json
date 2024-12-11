@@ -576,6 +576,16 @@
 ]
 }
 },
+"plugin.appodeal.Pangle": {
+"r": "v1",
+"v": {
+"2018.3326": [
+"android",
+"iphone",
+"iphone-sim"
+]
+}
+},
 "plugin.appodeal.Pubnative": {
 "r": "v4",
 "v": {
