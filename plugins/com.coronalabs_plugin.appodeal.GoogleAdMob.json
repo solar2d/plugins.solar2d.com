@@ -1,6 +1,6 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v17",
+    "latest": "v18",
     "plugin": "plugin.appodeal.GoogleAdMob",
     "publisherId": "com.coronalabs",
     "supported": {
