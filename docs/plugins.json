@@ -467,7 +467,7 @@
 }
 },
 "plugin.appodeal.FacebookAudience": {
-"r": "v16",
+"r": "v17",
 "v": {
 "2018.3326": [
 "android",
@@ -517,7 +517,7 @@
 }
 },
 "plugin.appodeal.IronSource": {
-"r": "v11",
+"r": "v13",
 "v": {
 "2018.3326": [
 "android",
@@ -637,7 +637,7 @@
 }
 },
 "plugin.appodeal.Unity": {
-"r": "v12",
+"r": "v13",
 "v": {
 "2018.3326": [
 "android",
