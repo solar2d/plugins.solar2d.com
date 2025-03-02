@@ -1,9 +1,5 @@
 on:
-  repository_dispatch:
-    types: [repo_updated]
-concurrency: 
-  group: singleton
-  cancel-in-progress: false
+  workflow_dispatch:
 
 jobs:
   update-issue-manifest:
@@ -11,7 +7,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Process plugin
-        run: ./json_from_repo.py --repo "${{ github.event.client_payload.repo }}" --output plugins
+        run: ./update_all.py --plugins-dir plugins
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: ./generate.sh
