@@ -379,6 +379,7 @@
 "v": {
 "2018.3326": [
 "android",
+"android-kindle",
 "iphone",
 "iphone-sim",
 "mac-sim",
@@ -3863,7 +3864,7 @@
 }
 },
 "plugin.firebaseConfig": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2020.3569": [
 "android",
@@ -3875,7 +3876,7 @@
 }
 },
 "plugin.firebaseDatabase": {
-"r": "v2",
+"r": "v3",
 "v": {
 "2014.2264": [
 "android",
@@ -3925,7 +3926,7 @@
 }
 },
 "plugin.googleSignIn": {
-"r": "v3",
+"r": "v4",
 "v": {
 "2019.3504": [
 "android",
