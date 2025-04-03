@@ -38,6 +38,6 @@ def fetch(repo, out_dir):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Create plugin JSON")
     parser.add_argument("--repo", help="Repo in format owner/repo", required=True)
-    parser.add_argument("--out-dir", help="output directory", required=True)
+    parser.add_argument("--out-dir", "--output", help="output directory", required=True)
     args = parser.parse_args()
     fetch(args.repo, args.out_dir)
