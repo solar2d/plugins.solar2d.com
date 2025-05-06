@@ -1,0 +1,13 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.wortise.GoogleMobileAds",
+    "publisherId": "com.wortise",
+    "supported": {
+        "2020.3607": [
+            "android",
+            "iphone",
+            "iphone-sim"
+        ]
+    }
+}
