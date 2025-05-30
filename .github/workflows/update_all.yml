@@ -2,6 +2,8 @@ name: Update All
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"
 
 jobs:
   update-issue-manifest:
