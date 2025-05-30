@@ -2794,7 +2794,7 @@
 }
 },
 "plugin.applovinMax.Ogury": {
-"r": "v8",
+"r": "v9",
 "v": {
 "2018.3326": [
 "android",
@@ -2834,7 +2834,7 @@
 }
 },
 "plugin.applovinMax.UnityAds": {
-"r": "v7",
+"r": "v8",
 "v": {
 "2018.3326": [
 "android",
@@ -2844,7 +2844,7 @@
 }
 },
 "plugin.applovinMax.Vungle": {
-"r": "v8",
+"r": "v9",
 "v": {
 "2018.3326": [
 "android",
