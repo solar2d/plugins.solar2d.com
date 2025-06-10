@@ -3113,6 +3113,21 @@
 }
 }
 },
+"com.solartools": {
+"plugin.solar2c": {
+"r": "v1",
+"v": {
+"2025.3719": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"tvos",
+"win32-sim"
+]
+}
+}
+},
 "com.sporkfin": {
 "plugin.dynamic_shader": {
 "r": "v1",
