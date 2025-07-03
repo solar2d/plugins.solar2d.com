@@ -2896,9 +2896,14 @@
 }
 },
 "plugin.google.iap.billing.v2": {
-"r": "v19",
+"r": "v20",
 "v": {
 "2017.3105": [
+"android",
+"mac-sim",
+"win32-sim"
+],
+"2025.3721": [
 "android",
 "mac-sim",
 "win32-sim"
