@@ -2896,7 +2896,7 @@
 }
 },
 "plugin.google.iap.billing.v2": {
-"r": "v20",
+"r": "v21",
 "v": {
 "2017.3105": [
 "android",
