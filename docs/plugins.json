@@ -1709,13 +1709,17 @@
 }
 },
 "plugin.steamworks": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2016.2872": [
 "mac-sim",
 "win32-sim"
 ],
 "2020.3590": [
+"mac-sim",
+"win32-sim"
+],
+"2025.3722": [
 "mac-sim",
 "win32-sim"
 ]

@@ -1,6 +1,6 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v4",
+    "latest": "v5",
     "plugin": "plugin.steamworks",
     "publisherId": "com.coronalabs",
     "supported": {
@@ -9,6 +9,10 @@
             "win32-sim"
         ],
         "2020.3590": [
+            "mac-sim",
+            "win32-sim"
+        ],
+        "2025.3722": [
             "mac-sim",
             "win32-sim"
         ]
