@@ -448,7 +448,7 @@
 }
 },
 "plugin.appodeal.Bidmachine": {
-"r": "v12",
+"r": "v13",
 "v": {
 "2020.3569": [
 "android",
@@ -578,7 +578,7 @@
 }
 },
 "plugin.appodeal.Pangle": {
-"r": "v5",
+"r": "v6",
 "v": {
 "2018.3326": [
 "android",
