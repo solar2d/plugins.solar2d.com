@@ -1,6 +1,6 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v13",
+    "latest": "v14",
     "plugin": "plugin.appodeal.Bidmachine",
     "publisherId": "com.coronalabs",
     "supported": {

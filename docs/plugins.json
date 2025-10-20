@@ -408,7 +408,7 @@
 }
 },
 "plugin.appodeal.Amazon": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2018.3326": [
 "android",
@@ -428,7 +428,7 @@
 }
 },
 "plugin.appodeal.AppLovin": {
-"r": "v16",
+"r": "v17",
 "v": {
 "2018.3326": [
 "android",
@@ -448,7 +448,7 @@
 }
 },
 "plugin.appodeal.Bidmachine": {
-"r": "v13",
+"r": "v14",
 "v": {
 "2020.3569": [
 "android",
@@ -488,7 +488,7 @@
 }
 },
 "plugin.appodeal.GoogleAdMob": {
-"r": "v21",
+"r": "v22",
 "v": {
 "2018.3326": [
 "android",
