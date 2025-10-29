@@ -2872,9 +2872,12 @@
 }
 },
 "plugin.eos": {
-"r": "v5",
+"r": "v6",
 "v": {
 "2020.3627": [
+"android",
+"iphone",
+"iphone-sim",
 "mac-sim",
 "win32-sim"
 ]
