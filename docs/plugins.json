@@ -2688,7 +2688,7 @@
 }
 },
 "plugin.applovinMax.Chartboost": {
-"r": "v9",
+"r": "v10",
 "v": {
 "2018.3326": [
 "android",
@@ -2708,7 +2708,7 @@
 }
 },
 "plugin.applovinMax.Fyber": {
-"r": "v8",
+"r": "v9",
 "v": {
 "2018.3326": [
 "android",
@@ -2838,7 +2838,7 @@
 }
 },
 "plugin.applovinMax.UnityAds": {
-"r": "v8",
+"r": "v9",
 "v": {
 "2018.3326": [
 "android",
