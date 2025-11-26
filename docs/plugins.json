@@ -2642,6 +2642,16 @@
 }
 }
 },
+"com.shannonit": {
+"plugin.ttlock": {
+"r": "v1",
+"v": {
+"2021.3600": [
+"android"
+]
+}
+}
+},
 "com.solar2d": {
 "plugin.adSense": {
 "r": "v6",
