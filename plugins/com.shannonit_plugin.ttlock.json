@@ -1,11 +1,15 @@
 {
     "ghAccount": "solar2d",
-    "latest": "v3",
+    "latest": "v4",
     "plugin": "plugin.ttlock",
     "publisherId": "com.shannonit",
     "supported": {
-        "2021.3600": [
-            "android"
+        "2015.2539": [
+            "android",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
         ]
     }
 }
