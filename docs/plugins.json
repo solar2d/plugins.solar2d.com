@@ -2668,10 +2668,11 @@
 }
 },
 "plugin.ageRange": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2020.3627": [
 "android",
+"android-kindle",
 "iphone",
 "iphone-sim",
 "mac-sim",
