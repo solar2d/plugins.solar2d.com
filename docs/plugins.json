@@ -2644,14 +2644,10 @@
 },
 "com.shannonit": {
 "plugin.ttlock": {
-"r": "v10",
+"r": "v12",
 "v": {
 "2015.2539": [
-"android",
-"iphone",
-"iphone-sim",
-"mac-sim",
-"win32-sim"
+"android"
 ]
 }
 }
