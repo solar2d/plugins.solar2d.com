@@ -1,10 +1,10 @@
 {
     "ghAccount": "solar2d",
-    "latest": "v23",
+    "latest": "v24",
     "plugin": "plugin.ttlock",
     "publisherId": "com.shannonit",
     "supported": {
-        "2015.2539": [
+        "2020.2630": [
             "android"
         ]
     }
