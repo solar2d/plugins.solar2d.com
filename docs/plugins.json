@@ -2644,9 +2644,16 @@
 },
 "com.shannonit": {
 "plugin.ttlock": {
-"r": "v59",
+"r": "v60",
 "v": {
 "2025.3721": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+],
+"2025.3722": [
 "android",
 "iphone",
 "iphone-sim",
