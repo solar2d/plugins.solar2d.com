@@ -126,9 +126,13 @@
 }
 },
 "CoronaProvider.gameNetwork.apple": {
-"r": "v1",
+"r": "v2",
 "v": {
 "2014.2455": [
+"iphone",
+"iphone-sim"
+],
+"2026.3727": [
 "iphone",
 "iphone-sim"
 ]

@@ -1,10 +1,14 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v1",
+    "latest": "v2",
     "plugin": "CoronaProvider.gameNetwork.apple",
     "publisherId": "com.coronalabs",
     "supported": {
         "2014.2455": [
+            "iphone",
+            "iphone-sim"
+        ],
+        "2026.3727": [
             "iphone",
             "iphone-sim"
         ]
