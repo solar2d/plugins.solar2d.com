@@ -1,6 +1,6 @@
 {
     "ghAccount": "solar2d",
-    "latest": "v16",
+    "latest": "v17",
     "plugin": "plugin.unityads.v4",
     "publisherId": "com.solar2d",
     "supported": {
@@ -12,6 +12,13 @@
             "win32-sim"
         ],
         "2023.3693": [
+            "android",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ],
+        "2025.3724": [
             "android",
             "iphone",
             "iphone-sim",
