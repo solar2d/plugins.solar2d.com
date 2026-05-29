@@ -1,6 +1,6 @@
 {
     "ghAccount": "solar2d",
-    "latest": "v15",
+    "latest": "v17",
     "plugin": "plugin.wortise.GoogleMobileAds",
     "publisherId": "com.wortise",
     "supported": {
