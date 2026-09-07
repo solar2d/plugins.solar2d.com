@@ -3101,9 +3101,16 @@
 }
 },
 "plugin.samsung.iap": {
-"r": "v11",
+"r": "v12",
 "v": {
 "2021.3661": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+],
+"2024.3709": [
 "android",
 "iphone",
 "iphone-sim",
