@@ -452,7 +452,7 @@
 }
 },
 "plugin.appodeal.Bidmachine": {
-"r": "v14",
+"r": "v15",
 "v": {
 "2020.3569": [
 "android",
@@ -492,7 +492,7 @@
 }
 },
 "plugin.appodeal.GoogleAdMob": {
-"r": "v23",
+"r": "v24",
 "v": {
 "2018.3326": [
 "android",
@@ -522,7 +522,7 @@
 }
 },
 "plugin.appodeal.IronSource": {
-"r": "v16",
+"r": "v17",
 "v": {
 "2018.3326": [
 "android",
@@ -582,7 +582,7 @@
 }
 },
 "plugin.appodeal.Pangle": {
-"r": "v7",
+"r": "v8",
 "v": {
 "2018.3326": [
 "android",
