@@ -1,0 +1,16 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.spine43",
+    "publisherId": "com.studycat",
+    "supported": {
+        "2026.3731": [
+            "android",
+            "iphone",
+            "iphone-sim",
+            "linux-sim",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}
