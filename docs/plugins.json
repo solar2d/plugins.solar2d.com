@@ -3230,6 +3230,19 @@
 ]
 }
 },
+"plugin.spine42": {
+"r": "v1",
+"v": {
+"2026.3731": [
+"android",
+"iphone",
+"iphone-sim",
+"linux-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.spine43": {
 "r": "v1",
 "v": {
