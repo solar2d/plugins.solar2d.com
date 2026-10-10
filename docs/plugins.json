@@ -3217,6 +3217,16 @@
 }
 },
 "com.studycat": {
+"plugin.backgroundAssets": {
+"r": "v1",
+"v": {
+"2026.3731": [
+"iphone",
+"mac-sim",
+"win32-sim"
+]
+}
+},
 "plugin.spine": {
 "r": "v21",
 "v": {

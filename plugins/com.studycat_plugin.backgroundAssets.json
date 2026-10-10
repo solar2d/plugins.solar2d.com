@@ -1,0 +1,13 @@
+{
+    "ghAccount": "solar2d",
+    "latest": "v1",
+    "plugin": "plugin.backgroundAssets",
+    "publisherId": "com.studycat",
+    "supported": {
+        "2026.3731": [
+            "iphone",
+            "mac-sim",
+            "win32-sim"
+        ]
+    }
+}
