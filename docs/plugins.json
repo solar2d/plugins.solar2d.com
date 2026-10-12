@@ -3845,6 +3845,20 @@
 }
 }
 },
+"ovh.azi": {
+"plugin.opus": {
+"r": "v1",
+"v": {
+"2026.3731": [
+"android",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+]
+}
+}
+},
 "tech.scotth": {
 "plugin.airprint": {
 "r": "v1",
