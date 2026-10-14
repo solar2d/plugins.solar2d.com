@@ -1329,7 +1329,7 @@
 }
 },
 "plugin.iCloud": {
-"r": "v6",
+"r": "v7",
 "v": {
 "2013.2584": [
 "appletvos",
@@ -1547,7 +1547,7 @@
 }
 },
 "plugin.notifications.v2": {
-"r": "v19",
+"r": "v20",
 "v": {
 "2020.3569": [
 "android",
@@ -1585,7 +1585,7 @@
 }
 },
 "plugin.onDemandResources": {
-"r": "v5",
+"r": "v6",
 "v": {
 "2016.2841": [
 "android",
