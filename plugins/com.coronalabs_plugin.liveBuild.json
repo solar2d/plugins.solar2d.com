@@ -1,10 +1,19 @@
 {
     "ghAccount": "coronalabs",
-    "latest": "v4",
+    "latest": "v5",
     "plugin": "plugin.liveBuild",
     "publisherId": "com.coronalabs",
     "supported": {
         "2016.2993": [
+            "android",
+            "appletvos",
+            "appletvsimulator",
+            "iphone",
+            "iphone-sim",
+            "mac-sim",
+            "win32-sim"
+        ],
+        "2026.3733": [
             "android",
             "appletvos",
             "appletvsimulator",

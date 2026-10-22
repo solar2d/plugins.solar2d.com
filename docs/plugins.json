@@ -1444,9 +1444,18 @@
 }
 },
 "plugin.liveBuild": {
-"r": "v4",
+"r": "v5",
 "v": {
 "2016.2993": [
+"android",
+"appletvos",
+"appletvsimulator",
+"iphone",
+"iphone-sim",
+"mac-sim",
+"win32-sim"
+],
+"2026.3733": [
 "android",
 "appletvos",
 "appletvsimulator",
